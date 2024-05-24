@@ -5,11 +5,12 @@ header-includes:
   - \usepackage{pdfpages}
   - \usepackage{fancyhdr}
   - \usepackage{graphicx}
+  - \usepackage[top=3.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry} # Ajustar márgenes
   - \pagestyle{fancy}
-  - \renewcommand{\headrulewidth}{0pt} % Eliminar la línea horizontal en el encabezado
-  - \fancyhead[L]{} % Centrar el encabezado (si es necesario)
-  - \fancyhead[R]{} % Ajustar el margen derecho del encabezado (si es necesario)
-  - \fancyhead[C]{\includegraphics[width=\dimexpr\textwidth-1cm\relax,height=2cm]{encabezado.png}} % Configurar el encabezado con la imagen
+  - \fancyhf{} # Limpiar todos los campos de encabezado y pie de página
+  - \renewcommand{\headrulewidth}{0pt} # Eliminar la línea horizontal en el encabezado
+  - \setlength{\headheight}{2.5cm} # Aumentar la altura del encabezado
+  - \fancyhead[C]{\includegraphics[width=\dimexpr\textwidth-2cm\relax,height=2.5cm]{encabezado.png}} # Configurar la imagen
 ---
 
 # INFORMACION PERSONAL:
@@ -136,7 +137,7 @@ Invitado a participar como experto en temas de desigualdad económica a la confe
 Indique someramente año, labor realizada, cargo desempeñado, etc. (más adelante se explicitarán de acuerdo a criterios académicos).
 
 **2023-**\
-Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.
+[Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf)
 
 **2022-**\
 Profesor Asociado (planta) carrera ordinaria, departamento de Sociología, Universidad de Chile.
@@ -766,7 +767,9 @@ Iturra, J., Castillo, J.-C., & Maldonado, L. (2023, July). Perceptions and prefe
 
 Castillo, J.-C. (2023a, January). Diseño y gestión de proyectos de investigación abiertos \[Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central\].
 
-Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta \[9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile\].
+[Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/conferencista_2023.pdf)
+
+[Castillo, J.-C. (2023c, nov). Presentación en mesa "Desigualdades reconsideradas: legitimidad, brechas y clases sociales". X Conferencia Internacional COES. Santiago, Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/Diploma_COES.pdf)
 
 Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective \[ISA XX World Congress of Sociology\].
 
@@ -780,13 +783,17 @@ Castillo, J.-C., Carrasco, K., & Salgado, M. (2023, June). The socialization of 
 
 Castillo, J.-C., Carrasco, K., Salgado, M., Moyano, C., & Angelcos, N. (2023, Agosto). Socialización de la meritocracia en la escuela y justificación de la desigualdad económica \[Conferencia DEMOSAL\].
 
+[Amante, D., Martínez-Muñoz, M. & Castillo, J.-C (2023, Mayo). Hacia una medida global de las preferencias redistributivas en entornos de gran desigualdad. V Congreso Ibero-Latinoamericano de Psicología Política. Online](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/AMANTE_etal539.pdf)
+
 Castillo, J.-C. (2022a, Enero). Protocolos reproducibles y reportes dinámicos con R / Rmarkdown \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html
 
 Castillo, J.-C. (2022b, March 29). Presentación Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados \[Presentación Seminario CEPAL-COES\]. https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html
 
-Castillo, J.-C. (2022c, June 2). Herramientas para la apertura del flujo de investigación científica \[Presentación en el seminario: Ciencia abierta, ¿es ciencia accesible?\]. https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html
+Castillo, J.-C. (2022c, June 2). Herramientas para la apertura del flujo de investigación científica \[Presentación en el seminario: Ciencia abierta, ¿es ciencia accesible?. Universidad Iberoamericana Ciudad de México\]. https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html
 
 Castillo, J.-C. (2022d, September 22). Percepciones de desigualdad en Chile \[Comentario en Seminario: ¿Cuánto cambiaron las percepciones de desigualdad tras el estallido social?\]. /presentations/cep-desigualdad-2022/cep-percdes-2022.html
+
+[Castillo, J.-C (2022e, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales, Ciudad de México](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/certificado_participanteCLACSO.pdf)
 
 Castillo, J.-C., & Bargsted, M. (2022, January 21). Measurement and Analysis of Social Cohesion \[Research Institute Social Cohesion - Jahrestagung Forschungscluster 2\]. https://ocscoes.github.io/presentaciones/RISC-bremen-january2022.html
 
@@ -796,11 +803,21 @@ Castillo, J.-C., & Iturra, J. (2022, Enero). Taller Introducción a la Ciencia A
 
 Miranda, D., & Castillo, J.-C. (2022, October). Youth dispositions to participate in disruptive and pacific actions \[Conferece INVALSI data - A tool for teaching and scientific research\].
 
+[Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/demosal1.jpg)
+
+[Castillo, J.-C (2021). Desafiando las creencias meritocráticas: dime a quién conocer y te diré qué crees. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/demosal2.jpg)
+
+[Castillo, J.-C (2021). Expositor en la VII Reunión Latinoamericana de Análisis de Redes Sociales (Nov. 15-19). Online.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/Certificado_Castillo_Exp.jpg)
+
 Castillo, J.-C., Carrasco, K., & Cáceres, I. (2021, September 30). Concepts and measurement of social cohesion in international perspective \[3rd Akademie für Soziologie (AS) Conference: Cohesive Societies? Analytical-empirical Perspectives\]. https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html
 
 Castillo, J.-C., Iturra, J., Meneses, F., & Venegas, M. (2021, November). Socialización de la meritocracia: El rol de la familia y la escuela. VIII Conferencia Internacional COES: Cohesión Social en tiempos turbulentos, Santiago. https://formacionciudadana.github.io/presentations/coes2021/soc-merit/coes2021.html#1
 
 Iturra, J., & Castillo, J.-C. (2020, June). Dinámicas de legitimación: Percepción de desigualdad actual y justificación de desigualdad futura \[Seminario ELSOC Cambio Social en Chile\]. https://jciturras.github.io/dinamic-legit/slides/dinamic-legit_elsoc.html#1
+
+[Castillo, J.-C. (2020). Percepción y justificación de desigualdad económica. Taller Internacional "Rethinking Inequality: Its Causes, Perceptions and Politics" (Enero, 23). Komaba, UTokyo, Japon.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/CONSTANCIA_tokio_lainac.pdf)
+
+[Castillo, JC. (2019) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/castillo_certificateispp2019.pdf)
 
 Castillo, JC. (2018) Open academic writing: An Atom-based workflow for social scientists. SocArxiv: Open Social Science Scholarship Conference (Oct. 17-18). University of Maryland.
 
@@ -1036,6 +1053,8 @@ Indique si entrega o no, información en cada capítulo y sub-capítulo del curr
 
 ## 2. Estudios realizados
 
+```{=tex}
 \includepdf[pages={1}]{anexos/titulos/titulos-grado.pdf}
 \includepdf[pages={1}]{anexos/titulos/titulos-master.pdf}
 \includepdf[pages={1}]{anexos/titulos/titulos-phd.pdf}
+```
