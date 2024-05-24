@@ -24,13 +24,13 @@ header-includes:
 
 **ESTADO CIVIL:** Divorciado
 
-[**TITULOS o GRADOS ACADÉMICOS:**](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos.pdf)
+**TITULOS o GRADOS ACADÉMICOS:**
 
--   Doctor en Sociología Universidad de Humboldt Alemania
+-   [Doctor en Sociología Universidad de Humboldt Alemania](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-phd.pdf)
 
--   Máster en Gestión Pública Universidad de Potsdam Alemania
+-   [Máster en Gestión Pública Universidad de Potsdam Alemania](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-master.pdf)
 
--   Licenciado en Psicología Universidad Católica de Valparaíso
+-   [Licenciado en Psicología Universidad Católica de Valparaíso](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-grado.pdf)
 
 **CARGO ACTUAL EN LA U. DE CHILE:**
 
@@ -55,27 +55,27 @@ header-includes:
 ## 2.1. ESTUDIOS SUPERIORES UNIVERSITARIOS FORMALES CONDUCENTES A GRADO TÍTULO O DIPLOMA:
 
 **2005 - 2010**\
-Doctorado en Sociología\
+[Doctorado en Sociología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-phd.pdf)\
 Berlin Graduate School of Social Sciences, Departamento de Metodología del Instituto de Ciencias Sociales, Universidad de Humboldt, Berlín.\
 Título de la tesis doctoral: “The legitimacy of economic inequality. An empirical social justice approach to the case of Chile” (Calificación: Summa cum Laude).
 
 **1999 - 2000**\
-Master en Gestión Pública – Universidad de Potsdam, Alemania.
+[Master en Gestión Pública](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-master.pdf) – Universidad de Potsdam, Alemania.
 
 **1991 - 1997**\
-Licenciado en psicología – Universidad Católica de Valparaíso, Chile.
+[Licenciado en psicología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-grado.pdf) – Universidad Católica de Valparaíso, Chile.
 
 ## 2.2. ACTIVIDADES DE PERFECCIONAMIENTO: Indique la entidad en que se realizó. Incluya una breve descripción de la actividad área de especialidad lugar y fechas de inicio y término. Incluya separadamente ya modo de ejemplo los cursos de formación docente (en particular para las jerarquías de ayudante instructor y profesor asistente) y los de formación global (idiomas redacción científica etc.).
 
--   Taller : “Rol del tutor como guía de tesis”. 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
+-   Taller : [“Rol del tutor como guía de tesis”](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cddoc.pdf). 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
 
 -   Workshop: “Using the International Databases from Large-Scale Education Studies for Secondary Analysis”. April 13-17 2012, Vancouver, AERA Conference.
 
--   36th Spring Seminar: “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [36th Spring Seminar](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-3.pdf): “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
--   Workshop “Latent Variable Modeling with Mplus”. Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
+-   [Workshop “Latent Variable Modeling with Mplus”](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-2.pdf). Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
 
--   37th Spring Seminar “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [37th Spring Seminar](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-4.pdf) “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
 # DISTINCIONES OBTENIDAS:
 
@@ -88,13 +88,13 @@ Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de inve
 Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.
 
 **2017**\
-Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
+[Beca del DAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-9.pdf) (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
 
 **2016**\
-Beca del KAAD (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
+[Beca del KAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-8.pdf) (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
 
 **2014**\
-Beca Volkswagen Stiftung para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
+[Beca Volkswagen Stiftung](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/varios/Castillo_Invitation_2014_03_20.pdf) para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
 
 **2009 - 2010**\
 Beca de docencia, Berlin Graduate School of Social Sciences.
@@ -103,13 +103,13 @@ Beca de docencia, Berlin Graduate School of Social Sciences.
 Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.
 
 **2006**\
-Beca de calificación a la docencia, Berlin Graduate School of Social Sciences.
+[Beca de calificación a la docencia](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-4.pdf), Berlin Graduate School of Social Sciences.
 
 **2005 - 2009**\
-Beca de doctorado KAAD (Servicio Católico de Intercambio Académico).
+[Beca de doctorado KAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-3.pdf) (Servicio Católico de Intercambio Académico).
 
 **1999 - 2000**\
-Beca de Maestría DSE (Fundación Alemana para el Desarrollo Internacional).
+[Beca de Maestría DSE](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-1.pdf) (Fundación Alemana para el Desarrollo Internacional).
 
 ## 3.2. PREMIOS y OTRAS DISTINCIONES: Señale nombre del premio o distinción, la institución que los otorgó y la fecha de recepción. Incluya conferencias importantes que le hayan sido solicitadas.
 
@@ -120,16 +120,16 @@ Nominado y electo presidente del comité de investigación 42 (RC42-Social Psych
 Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.
 
 **2016**\
-Primer lugar en concurso de investigación FONDECYT Regular, grupo de estudio de sociología.
+[Primer lugar en concurso de investigación FONDECYT Regular](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-5.pdf), grupo de estudio de sociología.
 
 **2014**\
-Best paper award, Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
+[Best paper award](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-2.pdf), Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
 
 **2014**\
-Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
+[Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-4.pdf) (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
 
 **2000**\
-Premio al mejor estudiante de maestría, Facultad de Economía y Administración Universidad de Potsdam, Alemania.
+[Premio al mejor estudiante de maestría](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-1.pdf), Facultad de Economía y Administración Universidad de Potsdam, Alemania.
 
 # BREVE CRONOLOGÍA LABORAL:
 
@@ -148,10 +148,10 @@ Profesor Asociado (contrata) carrera ordinaria, departamento de Sociología, Uni
 Seleccionado en concurso para profesor de metodología cuantitativa en el Departamento de Sociología, Universidad de Chile.
 
 **2018 - 2019**\
-Director del grupo de estudio de Sociología de FONDECYT.
+[Director del grupo de estudio de Sociología de FONDECYT.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf)
 
 **2016 - 2017**\
-Miembro del grupo de estudio de Sociología de FONDECYT.
+[Miembro del grupo de estudio de Sociología de FONDECYT.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/varios/evaluador-Fondecyt.pdf)
 
 **2014 - 2018**\
 Profesor asistente, Instituto de Sociología, Pontificia Universidad Católica de Chile.
@@ -278,7 +278,7 @@ Postgrado Universidad de Chile
 
 -   Análisis Multivariable Aplicado a la Investigación Social módulo multinivel – profesor responsable 21 estudiantes
 
-Postgrado Pontificia Universidad Católica de Chile
+[Postgrado Pontificia Universidad Católica de Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
 
 **2015 – 2018**
 
@@ -300,7 +300,7 @@ Postgrado Pontificia Universidad Católica de Chile
 
 -   Metodología cuantitativa avanzada 2. Doctorado en Psicología. (curso compartido 4 horas docencia semanal app. 20 alumnos).
 
-Pregrado Pontificia Universidad Católica de Chile
+[Pregrado Pontificia Universidad Católica de Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
 
 **2015 – 2016**
 
@@ -320,7 +320,7 @@ Otros
 
 **2006 – 2007**
 
--   Investigación social empírica. Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
+-   [Investigación social empírica](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/lehrauftrag-HU.pdf). Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
 
 **2005**
 
@@ -546,19 +546,19 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 • Miembro del grupo estudio de Sociología de FONDECYT (2016 - 2017).
 
-• Consejo Académico, Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
+• [Consejo Académico](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
 
-• Consejo de Facultad, Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
+• [Consejo de Facultad](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
 
-• Comité de Postgrado, Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
+• [Comité de Postgrado](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
 
-• Comité Curricular, Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
+• [Comité Curricular](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
 
 • Subdirector FONDAP Centro de Estudios de Conflicto y Cohesión Social – COES (2013 - 2028)
 
 • Representante de América Latina en el comité de investigación 42 (RC42) de la International Sociological Association (ISA) (2014-2022).
 
-# FORMACIÓN ACADÉMICA PROPIA: Si lo considera pertinente, señale los académicos a quienes Ud. considera sus formadores y maestros directos, indicando los aspectos específicos que definen ese carácter.
+## FORMACIÓN ACADÉMICA PROPIA: Si lo considera pertinente, señale los académicos a quienes Ud. considera sus formadores y maestros directos, indicando los aspectos específicos que definen ese carácter.
 
 De los principales académicos influyentes en mi carrera destaco a:
 
@@ -568,7 +568,7 @@ De los principales académicos influyentes en mi carrera destaco a:
 
 -   Prof. Cristián Cox (UDP): especialista en sociología de la educación, fui su coinvestigador en dos proyectos FONDECYT sobre formación ciudadana y desigualdad política. Ha sido una figura muy inspiradora por su reflexividad, mirada a largo plazo, e imaginación sociológica.
 
-# FORMACIÓN DE NUEVOS ACADÉMICOS: Consigne el nombre y lugar de desempeño actual de los académicos que cultivan la disciplina, a la cual Ud. pertenece y, en cuya formación Ud. tuvo una responsabilidad principal. Indique en qué manera participó Ud. en dicha formación. Cuando sea el caso, señale la relación con proyectos comunes: publicaciones, dirección de memorias o tesis, etc.
+## FORMACIÓN DE NUEVOS ACADÉMICOS: Consigne el nombre y lugar de desempeño actual de los académicos que cultivan la disciplina, a la cual Ud. pertenece y, en cuya formación Ud. tuvo una responsabilidad principal. Indique en qué manera participó Ud. en dicha formación. Cuando sea el caso, señale la relación con proyectos comunes: publicaciones, dirección de memorias o tesis, etc.
 
 Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron conmigo, pero si puedo nombrar algunas personas más jóvenes con las que tuve la ventaja de trabajar en etapas iniciales de su carrera:
 
@@ -596,7 +596,7 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 Cox, C. & Castillo, J. (Eds.) (2015) Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
 
-Castillo, J. (2011). The legitimacy of economic inequality: An empirical approach to the case of Chile. Boca R.: Dissertation.com.
+[Castillo, J. (2011). The legitimacy of economic inequality: An empirical approach to the case of Chile. Boca R.: Dissertation.com.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/publicaciones/castillo-2011-book.pdf)
 
 ### 8.1.2. CAPÍTULOS DE LIBROS & DOCUMENTOS DE TRABAJO.
 
@@ -704,7 +704,7 @@ Martínez, M. L., Cumsille, P., Loyola, I., & Castillo, J.-C. (2020). Patterns o
 
 Castillo, J.-C., Olivos, F., & Azar, A. (2019). Deserving a Just Pension: A Factorial Survey Approach. Social Science Quarterly, 100(1), 359–378.
 
-Atria, J., Castillo, J.-C., Maldonado, L., Ramírez, S., Atria, J., Castillo, J. C., Maldonado, L., & Ramírez, S. (2019). Studying meritocracy in an unequal context: Perspectives from chilean scholars. Universum, 34(2), 127–145. https://doi.org/10.4067/S0718-23762019000200127
+Atria, J., Castillo, J.-C., Maldonado, L., Ramírez, S. (2019). Studying meritocracy in an unequal context: Perspectives from chilean scholars. Universum, 34(2), 127–145. https://doi.org/10.4067/S0718-23762019000200127
 
 Castillo, J. C., Torres, A., Atria, J., & Maldonado, L. (2019). Meritocracia y desigualdad económica: Percepciones, preferencias e implicancias. Revista Internacional de Sociología, 77(1), 117. https://doi.org/10.3989/ris.2019.77.1.17.114
 
@@ -804,11 +804,13 @@ Iturra, J., & Castillo, J.-C. (2020, June). Dinámicas de legitimación: Percepc
 
 Castillo, JC. (2018) Open academic writing: An Atom-based workflow for social scientists. SocArxiv: Open Social Science Scholarship Conference (Oct. 17-18). University of Maryland.
 
-Castillo, JC. (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center
+[Castillo, JC. (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-1.pdf)
+
+[Atria, J. & Castillo, JC. (2018) The moral economy of Merit and Meritocracy: An analysis of the chilean lower-and middle-class. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-2.pdf)
 
 Castillo, JC. & Jaime-Castillo, A. (2018) Reciprocity and Distributive Justice. Joint session organized for the Research Committee 42 (Social Psychology) and 45 (Rational Choice) at the Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center
 
-Castillo, JC. (2017) Percepciones y legitimación de la desigualdad: Mérito e Instituciones. Panel Congreso Latinoamericano de Sociología (Diciembre 2-7). Montevideo, Universidad de la República.
+[Castillo, JC. (2017) Percepciones y legitimación de la desigualdad: Mérito e Instituciones. Panel Congreso Latinoamericano de Sociología (Diciembre 2-7). Montevideo, Universidad de la República.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-3.pdf)
 
 Castillo, JC. (2017) Meritocracia y preferencias redistributivas. Panel Conferencia COES (Noviembre 8-9. Viña del Mar, Universidad Adolfo Ibañez.
 
@@ -816,9 +818,9 @@ Castillo, JC. (2017) Meritocratic beliefs and economic inequality. Colloquium of
 
 Castillo, JC. & Miranda, D. (2017) Class and Status as Predictors of Inclusive Attitudes Towards Immigrants, Minorities and Gender. 7th IEA International Research Conference (IRC) (June 28-30). Prague, Charles University.
 
-Castillo, JC. (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.
+[Castillo, JC. (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-5.pdf)
 
-Castillo, JC. (2016) Inequality, Distributive Preferences and Types of Participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.
+[Castillo, JC. (2016) Distributive Preferences and Types of Participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-7.pdf)
 
 Castillo, JC. & Miranda, D. (2015) Origen social, conocimiento cívico y participación en la escuela. CIEP - Congreso Internacional de Educación y Pobreza (January 08 - 10) Villarrica, Chile.
 
@@ -826,7 +828,7 @@ Miranda, D. & Castillo, JC. (2015) Lo civil y lo civico: Hacia un modelo concept
 
 Castillo, J., Olivos, F. & Azar, A. (2015) Justice of pensions: A factorial survey approach. Paper presented at the Congress of the World Association for Public Opinion Research – WAPOR (June 16-19). Buenos Aires, Argentina.
 
-Castillo, J. (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.
+[Castillo, J. (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-8.pdf)
 
 Castillo, J. (2014) Economic inequality, social justice and political participation in Latin America. Poster presented at the Herrenhausen Conference: “Re-thinking Social Inequality” (May 12-14) Herrenausen Palace, Hannover, Germany.
 
@@ -856,7 +858,7 @@ Castillo, J. (2009). Herkunftsbedingte Disparitäten im Hochschulzugang in Chile
 
 Castillo, J. (2009). Perception and Legitimacy of Economic Inequality in Chile. Paper presented at the 5th ECPR General Conference (Sept. 10-12). Potsdam: Potsdam University.
 
-Castillo, J. (2009). What are Just Salaries for Different Occupations in Chile? Paper presented at the 21st World Congress of Political Science – IPSA (July 12-16). Santiago de Chile: Universidad de Chile.
+[Castillo, J. (2009). What are Just Salaries for Different Occupations in Chile? Paper presented at the 21st World Congress of Political Science – IPSA (July 12-16). Santiago de Chile: Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-9.pdf)
 
 Castillo, J. (2009). Consensus and Legitimacy of Earnings Inequality. Presentation at the International Social Justice Project Workshop (May 6-10). Haifa: Haifa University, Israel.
 
@@ -864,31 +866,31 @@ Castillo, J., Gerlitz, J., & Schrenker, M. (2008). Perception and Legitimacy of 
 
 Castillo, J. (2008). On the Justice of Occupational Earnings in Chile: A Factorial Survey Analysis. Presentation at the 12th Conference of the International Society for Justice Research (August 14-17). Adelaide: Flinders University.
 
-Castillo, J., & Schneider, S. (2008). The Legitimacy of the Distributive System: A Comparison of Germany and Chile. Paper presented at the 31st Conference of the International Society of Political Psychology – ISPP (July 9-12). Paris: Sciences Po.
+[Castillo, J., & Schneider, S. (2008). The Legitimacy of the Distributive System: A Comparison of Germany and Chile. Paper presented at the 31st Conference of the International Society of Political Psychology – ISPP (July 9-12). Paris: Sciences Po.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-11.pdf)
 
 Castillo, J., Mühleck, K., & Wegener, B. (2008). The Empirical Approach to the Study of Social Justice: A Research Agenda for Latin America. Paper presented at the conference Intra- and inter- generational Transmission of Inequality (Feb. 28-29). Mexico: Regional Bureau for Latin America and the Caribbean of United Nations Development Program (RBLAC-UNDP).
 
 Castillo, J. (2007). Explanations of Poverty: A Comparison of Germany, the Czech Republic and Chile. Persentation at the International Social Justice Project Workshop (April 27-28). Budapest: Social Sciences Faculty, Eötvös Loránd University.
 
-Castillo, J. (2007). Legitimation and Justice Ideologies in Contexts of Extreme Economic Inequalities. Paper presented at the 30th Conference of the International Society of Political Psychology – ISPP (July 4-7). Portland: Embassy Suites Hotel.
+[Castillo, J. (2007). Legitimation and Justice Ideologies in Contexts of Extreme Economic Inequalities. Paper presented at the 30th Conference of the International Society of Political Psychology – ISPP (July 4-7). Portland: Embassy Suites Hotel.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-12.pdf)
 
 Castillo, J. (2007). Justice Ideologies and Attributions of Poverty in Comparative Perspective. Paper presented at the conference Law and Society in the 21st Century (July 15-28). Berlin: Humboldt University.
 
-# ACTIVIDADES ACADÉMICAS QUE DESARROLLA A LA FECHA DE ESTE CURRÍCULO FUERA DE LA UNIVERSIDAD DE CHILE: Indique institución o entidad, cargo que desempeña, breve descripción de la actividad que realiza y horas semanales de dedicación.
+## ACTIVIDADES ACADÉMICAS QUE DESARROLLA A LA FECHA DE ESTE CURRÍCULO FUERA DE LA UNIVERSIDAD DE CHILE: Indique institución o entidad, cargo que desempeña, breve descripción de la actividad que realiza y horas semanales de dedicación.
 
-# ACTIVIDAD PROFESIONAL: Señale las actividades profesionales en que haya participado y que, a su juicio, han contribuido a su actividad académica. Indicar, si fuere el caso, el nombre de la institución donde haya prestado servicios, tipo de actividad, objetivo de la misma y horas de dedicación semanal.
+## ACTIVIDAD PROFESIONAL: Señale las actividades profesionales en que haya participado y que, a su juicio, han contribuido a su actividad académica. Indicar, si fuere el caso, el nombre de la institución donde haya prestado servicios, tipo de actividad, objetivo de la misma y horas de dedicación semanal.
 
 -   ver punto 4 cronología laboral
 
-# ADMINISTRACIÓN NO UNIVERSITARIA: Profesional, científica, cultural, gremial u otras. Consigne la institución, el cargo, lapso de desempeño y otros antecedentes que estime pertinentes.
+## ADMINISTRACIÓN NO UNIVERSITARIA: Profesional, científica, cultural, gremial u otras. Consigne la institución, el cargo, lapso de desempeño y otros antecedentes que estime pertinentes.
 
-# SOCIEDADES ARTÍSTICAS, CIENTÍFICAS, ETC.:
+## SOCIEDADES ARTÍSTICAS, CIENTÍFICAS, ETC.:
 
-# RECONOCIMIENTO DE LA OBRA PUBLICADA:
+## RECONOCIMIENTO DE LA OBRA PUBLICADA:
 
 Lo que puedo mencionar aquí son algunos logros alcanzados en la plataforma Researchgate.com, donde difundo parte de mi trabajo académico. Durante este año 2018, en varias ocasiones mis trabajos han sido los más leídos de mi instituto, acumulando a la fecha más de 7000 lecturas. Mi artículo “¿Cuál es la brecha salarial justa?” posee a la fecha más de 1000 lecturas.
 
-# REFERENCIAS:
+## REFERENCIAS:
 
 Nacionales:
 
@@ -912,7 +914,7 @@ Internacionales:
 
 # CREATIVIDAD ACADÉMICA:
 
-# JERARQUIZACIÓN DE PROYECTOS:
+## JERARQUIZACIÓN DE PROYECTOS:
 
 Mi proyecto más importante de los últimos 9 años es el Centro de Estudios de Conflicto y Cohesión Social – COES, donde fui subdirector y actualmente investigador principal. Este centro es una iniciativa financiada por FONDAP-CONICYT y reúne a más de 40 investigadores de la Universidad de Chile y Universidad Católica, como instituciones principales, y Universidad Diego Portales y Adolfo Ibañez como instituciones asociadas. El trabajo en COES ha implicado montar una serie de procedimientos y formas de colaboración académica orientadas al trabajo interdisciplinario en ciencias sociales en Chile, junto con exigentes metas de publicación de alto impacto. Al cabo de 9 años hemos logrado posicionarnos en el medio nacional e internacional, insertar capital humano avanzado, realizar capacitación y un gran número de actividades de difusión, lo que ha resultado muy satisfactorio en términos profesionales. En el marco de COES he desarrollado mi investigación en la relación entre meritocracia y redistribución, así como también en la transmisión intergeneracional de la desigualdad política, ambos financiados con proyectos FONDECYT.
 
@@ -920,7 +922,7 @@ Mi línea de investigación principal en justicia distributiva ha sido artícula
 
 Mi línea de investigación secundaria también se a relacionado con proyectos Fondecyt donde he participado como coinvestigador de Cristián Cox: Socialización política y experiencia escolar - Chile en contexto internacional (2012-2015), y Socialización política y educación para la ciudadanía - El rol de la familia y de la escuela (2018-2021). Actualmente desarrollo investigación que vincula formación ciudadana con desigualdades digitales en el Núcleo Milenio en Oportunidades y Desigualdades Digitales -NUDOS (2023-2025), donde soy investigador principal y donde participa parte del equipo de formación ciudadana de los proyectos Fondecyt anteriores.
 
-# ASPECTOS GLOBALES DE LA OBRA EXPUESTA:
+## ASPECTOS GLOBALES DE LA OBRA EXPUESTA:
 
 En este apartado lo he organizado en torno a tres áreas principales de desempeño y proyección académica: docencia, investigación y extensión.
 
@@ -954,15 +956,15 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Invitación a profesor visitante en Sciences Po Grenoble, con la profesora Sonja Zmerli en Diciembre de 2020 (cancelada por pandemia).
 
-• Profesor visitante en Departamento de Macrosociología, Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
+• [Profesor visitante en Departamento de Macrosociología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-5.pdf), Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
 
-• Profesor visitante en Bremen International Graduate School of Social Sciences, Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
+• [Profesor visitante en Bremen International Graduate School of Social Sciences](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-4.pdf), Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
 
-• Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB (con profesor Wolfgang Merkel). Julio de 2015.
+• [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-3.pdf) (con profesor Wolfgang Merkel). Julio de 2015.
 
-• Data Processing and Research Center (DPC), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Diciembre 2014.
+• [Data Processing and Research Center (DPC)](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-2.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
 
-• Data Processing and Research Center (DPC), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto 2013.
+• [Data Processing and Research Center (DPC)](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-1.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
 
 **Software de análisis estadísitico y reporte**: utilizo y enseño herramientas coherentes con el trabajo en ciencia abierta, es decir, de fuente abierta (open-source) y además libres (sin licencia de pago):
 
@@ -974,7 +976,7 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Beamer (Latex) y Xaringan (Markdown/css) para generación de presentaciones
 
-**Idiomas**: Inglés (avanzado), Alemán (avanzado).
+**Idiomas**: [Inglés](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/idiomas/idiomas-1.pdf) (avanzado), [Alemán](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/idiomas/idiomas-2.pdf) (avanzado).
 
 **Revisor ad-hoc de revistas** (American Sociological Review, Social Justice Research, Review in Social Stratification & Mobility, Revista Internacional de Sociología, Current Sociology, Journal of Youth Studies, European Sociological Review, Latin American Research Review, Learning & Individual Differences, entre otras).
 
@@ -1032,4 +1034,8 @@ Indique si entrega o no, información en cada capítulo y sub-capítulo del curr
 
 # Anexos
 
-\includepdf[pages={2,3,4}]{anexos/titulos.pdf}
+## 2. Estudios realizados
+
+\includepdf[pages={1}]{anexos/titulos/titulos-grado.pdf}
+\includepdf[pages={1}]{anexos/titulos/titulos-master.pdf}
+\includepdf[pages={1}]{anexos/titulos/titulos-phd.pdf}
