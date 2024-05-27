@@ -5,83 +5,84 @@ format:
       - \usepackage{pdfpages}
       - \usepackage{fancyhdr}
       - \usepackage{graphicx}
-      - \usepackage[top=3.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry} # Ajustar márgenes
+      - \usepackage[top=2cm, bottom=5cm, left=2cm, right=2cm]{geometry}
       - \pagestyle{fancy}
-      - \fancyhf{} # Limpiar todos los campos de encabezado y pie de página
-      - \renewcommand{\headrulewidth}{0pt} # Eliminar la línea horizontal en el encabezado
-      - \setlength{\headheight}{2.5cm} # Aumentar la altura del encabezado
-      - \fancyhead[C]{\includegraphics[width=\dimexpr\textwidth-2cm\relax,height=2.5cm]{encabezado.png}} # Configurar la imagen
+      - \fancyhf{}
+      - \renewcommand{\headrulewidth}{0pt}
+      - \setlength{\headheight}{2.5cm}
+      - \fancyhead[C]{\includegraphics[width=\dimexpr\textwidth-2cm\relax,height=2.5cm]{encabezado.png}}
+      - \fancyfoot[C]{\thepage}
   html: default
 ---
 
-# INFORMACION PERSONAL:
+# Información personal:
 
-**NOMBRE:** Juan Carlos Castillo Valenzuela
+**Nombre:** Juan Carlos Castillo Valenzuela
 
-**CÉDULA DE IDENTIDAD O RUN:** 10.612.714-K
+**Cédula de identidad o run:** 10.612.714-K
 
-**LUGAR y FECHA DE NACIMIENTO:** Viña del Mar, 30 Nov. 1973
+**Lugar y fecha de nacimiento:** Viña del Mar, 30 Nov. 1973
 
-**NACIONALIDAD:** Chileno
+**Nacionalidad:** Chileno
 
-**ESTADO CIVIL:** Divorciado
+**Estado civil:** Divorciado
 
-**TITULOS o GRADOS ACADÉMICOS:**
+**Títulos o grados académicos:**
 
--   [Doctor en Sociología Universidad de Humboldt Alemania](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-phd.pdf)
+-   [Doctor en Sociología Universidad de Humboldt Alemania](anexos/titulos/titulos-phd.pdf)
 
--   [Máster en Gestión Pública Universidad de Potsdam Alemania](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-master.pdf)
+-   [Máster en Gestión Pública Universidad de Potsdam Alemania](anexos/titulos/titulos-master.pdf)
 
--   [Licenciado en Psicología Universidad Católica de Valparaíso](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-grado.pdf)
+-   [Licenciado en Psicología Universidad Católica de Valparaíso](anexos/titulos/titulos-grado.pdf)
 
-**CARGO ACTUAL EN LA U. DE CHILE:**
+**Cargo actual en la U. de Chile:**
 
--   Profesor Asociado Departamento de Sociología
+-   [Profesor Asociado Departamento de Sociología](https://facso.uchile.cl/sociologia/cuerpo-academico/castillo-juan-carlos)
 
--   Director de Investigación y Publicaciones Facultad de Ciencias Sociales
+-   [Director de Investigación y Publicaciones Facultad de Ciencias Sociales](anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf)
 
-**DIRECCIÓN ACADÉMICA:** Ignacio Carrera Pinto 1045 Ñuñoa
+**Dirección académica:** Ignacio Carrera Pinto 1045 Ñuñoa
 
-**FONO:** +56 9 79712541
+**Fono:** +56 9 79712541
 
-**E-MAIL:** juancastillov\@uchile.cl
+**E-Mail:** juancastillov\@uchile.cl
 
-**DIRECCIÓN PARTICULAR:** Villaseca 975 F Ñuñoa
+**Dirección particular:** Villaseca 975 F Ñuñoa
 
-**FONO:** +56 9 7971 2541
+**Fono:** +56 9 7971 2541
 
-**SITIO WEB ACADEMICO:** [www.jc-castillo.com](http://www.jc-castillo.com)
+**Sitio web académico:** [www.jc-castillo.com](http://www.jc-castillo.com)
 
-# ESTUDIOS REALIZADOS:
+# Estudios realizados:
 
-## 2.1. ESTUDIOS SUPERIORES UNIVERSITARIOS FORMALES CONDUCENTES A GRADO TÍTULO O DIPLOMA:
+## 2.1. Estudios superiores universitarios formales conducentes a grado, título o diploma:
 
 **2005 - 2010**\
-[Doctorado en Sociología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-phd.pdf)\
+[Doctorado en Sociología](anexos/titulos/titulos-phd.pdf)\
 Berlin Graduate School of Social Sciences, Departamento de Metodología del Instituto de Ciencias Sociales, Universidad de Humboldt, Berlín.\
 Título de la tesis doctoral: “The legitimacy of economic inequality. An empirical social justice approach to the case of Chile” (Calificación: Summa cum Laude).
 
 **1999 - 2000**\
-[Master en Gestión Pública](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-master.pdf) – Universidad de Potsdam, Alemania.
+[Master en Gestión Pública](anexos/titulos/titulos-master.pdf) – Universidad de Potsdam, Alemania.
 
 **1991 - 1997**\
-[Licenciado en psicología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/titulos/titulos-grado.pdf) – Universidad Católica de Valparaíso, Chile.
+[Licenciado en psicología](anexos/titulos/titulos-grado.pdf) – Universidad Católica de Valparaíso, Chile.
 
-## 2.2. ACTIVIDADES DE PERFECCIONAMIENTO: Indique la entidad en que se realizó. Incluya una breve descripción de la actividad área de especialidad lugar y fechas de inicio y término. Incluya separadamente ya modo de ejemplo los cursos de formación docente (en particular para las jerarquías de ayudante instructor y profesor asistente) y los de formación global (idiomas redacción científica etc.).
+## 2.2. Actividades de perfeccionamiento:
 
--   Taller : [“Rol del tutor como guía de tesis”](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cddoc.pdf). 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
+-   Taller : [“Rol del tutor como guía de tesis”](anexos/cursos/cddoc.pdf). 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
 
 -   Workshop: “Using the International Databases from Large-Scale Education Studies for Secondary Analysis”. April 13-17 2012, Vancouver, AERA Conference.
 
--   [36th Spring Seminar](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-3.pdf): “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [36th Spring Seminar](anexos/cursos/cursos-3.pdf): “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
--   [Workshop “Latent Variable Modeling with Mplus”](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-2.pdf). Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
+-   [Workshop “Latent Variable Modeling with Mplus”](anexos/cursos/cursos-2.pdf). Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
 
--   [37th Spring Seminar](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/cursos/cursos-4.pdf) “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [37th Spring Seminar](anexos/cursos/cursos-4.pdf) “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
-# DISTINCIONES OBTENIDAS:
+# Distinciones obtenidas:
 
-## 3.1. BECAS: Institución que la otorgó área de actividad objetivos y fechas entre las cuales hizo uso de ella.
+## 3.1. Becas:
 
 **2024**\
 Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
@@ -90,13 +91,13 @@ Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de inve
 Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.
 
 **2017**\
-[Beca del DAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-9.pdf) (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
+[Beca del DAAD](anexos/admisionesybecas/admisionesybecas-9.pdf) (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
 
 **2016**\
-[Beca del KAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-8.pdf) (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
+[Beca del KAAD](anexos/admisionesybecas/admisionesybecas-8.pdf) (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
 
 **2014**\
-[Beca Volkswagen Stiftung](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/varios/Castillo_Invitation_2014_03_20.pdf) para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
+[Beca Volkswagen Stiftung](anexos/varios/Castillo_Invitation_2014_03_20.pdf) para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
 
 **2009 - 2010**\
 Beca de docencia, Berlin Graduate School of Social Sciences.
@@ -105,43 +106,46 @@ Beca de docencia, Berlin Graduate School of Social Sciences.
 Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.
 
 **2006**\
-[Beca de calificación a la docencia](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-4.pdf), Berlin Graduate School of Social Sciences.
+[Beca de calificación a la docencia](anexos/admisionesybecas/admisionesybecas-4.pdf), Berlin Graduate School of Social Sciences.
 
 **2005 - 2009**\
-[Beca de doctorado KAAD](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-3.pdf) (Servicio Católico de Intercambio Académico).
+[Beca de doctorado KAAD](anexos/admisionesybecas/admisionesybecas-3.pdf) (Servicio Católico de Intercambio Académico).
 
 **1999 - 2000**\
-[Beca de Maestría DSE](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/admisionesybecas/admisionesybecas-1.pdf) (Fundación Alemana para el Desarrollo Internacional).
+[Beca de Maestría DSE](anexos/admisionesybecas/admisionesybecas-1.pdf) (Fundación Alemana para el Desarrollo Internacional).
 
-## 3.2. PREMIOS y OTRAS DISTINCIONES: Señale nombre del premio o distinción, la institución que los otorgó y la fecha de recepción. Incluya conferencias importantes que le hayan sido solicitadas.
+## 3.2. Premios y otras distinciones:
 
 **2023**\
-Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).
+[Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/)
+
+**2023**\ {revisar}
+[Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación](anexos/premiosyreconocimientos/Invitacionexpertos_EstudioFormacionCiudadana.pdf)
 
 **2020**\
-[Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/CONSTANCIA_tokio_lainac.pd)
+[Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.](anexos/conferencias/CONSTANCIA_tokio_lainac.pd)
 
 **2016**\
-[Primer lugar en concurso de investigación FONDECYT Regular](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-5.pdf), grupo de estudio de sociología.
+[Primer lugar en concurso de investigación FONDECYT Regular](anexos/premiosyreconocimientos/premiosyreconocimientos-5.pdf), grupo de estudio de sociología.
 
 **2014**\
-[Best paper award](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-2.pdf), Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
+[Best paper award](anexos/premiosyreconocimientos/premiosyreconocimientos-2.pdf), Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
 
 **2014**\
-[Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-4.pdf) (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
+[Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR](anexos/premiosyreconocimientos/premiosyreconocimientos-4.pdf) (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
 
 **2000**\
-[Premio al mejor estudiante de maestría](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-1.pdf), Facultad de Economía y Administración Universidad de Potsdam, Alemania.
+[Premio al mejor estudiante de maestría](anexos/premiosyreconocimientos/premiosyreconocimientos-1.pdf), Facultad de Economía y Administración Universidad de Potsdam, Alemania.
 
-# BREVE CRONOLOGÍA LABORAL:
+# Breve cronología laboral:
 
 Indique someramente año, labor realizada, cargo desempeñado, etc. (más adelante se explicitarán de acuerdo a criterios académicos).
 
 **2023-**\
-[Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf)
+[Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.](anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf)
 
 **2022-**\
-Profesor Asociado (planta) carrera ordinaria, departamento de Sociología, Universidad de Chile.
+[Profesor Asociado (planta) carrera ordinaria, departamento de Sociología, Universidad de Chile.](https://facso.uchile.cl/sociologia/cuerpo-academico/castillo-juan-carlos)
 
 **2019 - 2021**\
 Profesor Asociado (contrata) carrera ordinaria, departamento de Sociología, Universidad de Chile.
@@ -150,16 +154,16 @@ Profesor Asociado (contrata) carrera ordinaria, departamento de Sociología, Uni
 Seleccionado en concurso para profesor de metodología cuantitativa en el Departamento de Sociología, Universidad de Chile.
 
 **2018 - 2019**\
-[Director del grupo de estudio de Sociología de FONDECYT.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf)
+[Director del grupo de estudio de Sociología de FONDECYT.](anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf)
 
 **2016 - 2017**\
-[Miembro del grupo de estudio de Sociología de FONDECYT.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/varios/evaluador-Fondecyt.pdf)
+[Miembro del grupo de estudio de Sociología de FONDECYT.](anexos/varios/evaluador-Fondecyt.pdf)
 
 **2014 - 2018**\
 Profesor asistente, Instituto de Sociología, Pontificia Universidad Católica de Chile.
 
 **2013 -**\
-Subdirector e Investigador Principal FONDAP COES, Centro para el Estudio del Conflicto y la Cohesión Social.
+[Subdirector e Investigador Principal FONDAP COES, Centro para el Estudio del Conflicto y la Cohesión Social.](https://coes.cl/integrantes/juan-carlos-castillo/)
 
 **2012 - 2013**\
 Coordinador área de investigación Centro de Medición Mide-UC, Facultad de Ciencias Sociales, P. Universidad Católica de Chile.
@@ -182,11 +186,11 @@ Director regional y sub director nacional del programa “Adopta un herman\@” 
 **1998 - 1999**\
 Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
-# ACTIVIDADES ACADÉMICAS:
+# Actividades académicas:
 
-## 5.1. DOCENCIA:
+## 5.1. Docencia:
 
-### 5.1.1. Enumere, detalladamente, las asignaturas de pre y post grado impartidas durante todos los años de vida académica. Indicar escuela, facultad, instituto, universidad, año, número aproximado de alumnos, horas de docencia directa que dicta en su curso y las horas de la asignatura según el respectivo plan de estudios, tipo de participación en el curso (coordinador, responsable único, participación en docencia teórica, práctica, laboratorios, seminarios, actividades de terreno).
+### 5.1.1. Enumere, detalladamente, las asignaturas de pre y post grado impartidas durante todos los años de vida académica.
 
 Pregado Universidad de Chile
 
@@ -280,7 +284,7 @@ Postgrado Universidad de Chile
 
 -   Análisis Multivariable Aplicado a la Investigación Social módulo multinivel – profesor responsable 21 estudiantes
 
-[Postgrado Pontificia Universidad Católica de Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
+[Postgrado Pontificia Universidad Católica de Chile](anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
 
 **2015 – 2018**
 
@@ -302,7 +306,7 @@ Postgrado Universidad de Chile
 
 -   Metodología cuantitativa avanzada 2. Doctorado en Psicología. (curso compartido 4 horas docencia semanal app. 20 alumnos).
 
-[Pregrado Pontificia Universidad Católica de Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
+[Pregrado Pontificia Universidad Católica de Chile](anexos/gestion-docencia-evaluacion/listadocursosUC.pdf)
 
 **2015 – 2016**
 
@@ -322,7 +326,7 @@ Otros
 
 **2006 – 2007**
 
--   [Investigación social empírica](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/lehrauftrag-HU.pdf). Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
+-   [Investigación social empírica](anexos/gestion-docencia-evaluacion/lehrauftrag-HU.pdf). Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
 
 **2005**
 
@@ -338,37 +342,39 @@ Otros
 
 -   *Coloquio de investigación*: como parte de la formación en investigación, durante los años 2020-2022 coordiné una instancia semanal de presentación de resultados de investigación para tesistas e invitados externos, llamada “Coloquio de investigación en desigualdad y ciudadanía”.
 
-### 5.1.3.
+### 5.1.3. Tesis dirigidas
 
-A. TESIS DIRIGIDAS DE MAGISTER: (M.A., M.Sc.), DOCTORADO (Ph.D), COMO PROFESOR RESPONSABLE.
+**A. Tesis dirigidas de magister: (M.A., M.Sc.), Doctorado (Ph.D), como profesor responsable.**
 
-He participado en una serie de comisiones de tesis, abajo listo solamente en las cuales he participado en calidad de director o co-guía:
+He participado en una serie de comisiones de tesis, abajo listo solamente en las cuales he participado en calidad de director o co-guía. Cuando están disponibles, el enlace lleva al repositorio académico que contiene la tesis o hacia algún repositorio similar:
 
-• Kevin Carrasco (2023). Aceptar la diversidad en el vecindario: Procesos de socialización política de actitudes hacia la diversidad social en estudiantes chilenos. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• Matias Retamales (2024). El rol de la socialización familiar y escolar en la percepción de meritocracia en las notas: Un estudio multinivel de estudiantes en Chile. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
 
-• Francisco Meneses (2023). El lenguaje como brecha de la formación ciudadana: El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Kevin Carrasco (2023). Aceptar la diversidad en el vecindario: Procesos de socialización política de actitudes hacia la diversidad social en estudiantes chilenos. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://kevin-carrasco.github.io/aceptar-diversidad/)
 
-• Anais Herrera (2023). ¿Qué pueden hacer las escuelas para promover actitudes positivas hacia la igualdad de derechos?. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Francisco Meneses (2023). El lenguaje como brecha de la formación ciudadana: El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://franciscomeneses.github.io/Tesis/)
 
-• Guillermo Beck (2019). Explorando la asociación entre redes de contacto ocupacionales y la justificación de la desigualdad social en Chile. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.
+• [Anais Herrera (2023). ¿Qué pueden hacer las escuelas para promover actitudes positivas hacia la igualdad de derechos?. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://repositorio.uchile.cl/handle/2250/193679)
 
-• Rodrigo Yanez (2019). Inégalité subjective au Chili. Représentation des différences sociales (in)justes à travers le temps. Doctorado en Sociología - EHESS. Paris. (co-director).
+• [Guillermo Beck (2019). Explorando la asociación entre redes de contacto ocupacionales y la justificación de la desigualdad social en Chile. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento)
 
-• Francisca Castro (2018). ¿Menos confianza, menos Estado? El impacto de la corrupción sobre las preferencias redistributivas. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.
+• [Rodrigo Yanez (2019). Inégalité subjective au Chili. Représentation des différences sociales (in)justes à travers le temps. Doctorado en Sociología - EHESS. Paris. (co-director).](https://jc-castillo.com/tesis/2019_inegalite_subjective/#documento)
 
-• Julio Iturra (2018). Estatus social subjetivo y Percepción de meritocracia: El caso de Chile. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.
+• [Francisca Castro (2018). ¿Menos confianza, menos Estado? El impacto de la corrupción sobre las preferencias redistributivas. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento)
 
-• Sebastian Rojas (2018). La dimensión subjetiva de la desigualdad de género en ingresos: Factores individuales asociados a evaluación de lo percibido y lo justo. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.
+• [Julio Iturra (2018). Estatus social subjetivo y Percepción de meritocracia: El caso de Chile. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.](https://doi.org/10.7764/tesisUC/SOC/65873)
 
-• Miranda, D. (2018) The civic and civil dimensions of youth participation. Doctorado en sociología, P. Universidad Católica de Chile.
+• [Sebastian Rojas (2018). La dimensión subjetiva de la desigualdad de género en ingresos: Factores individuales asociados a evaluación de lo percibido y lo justo. Magister en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.](https://jc-castillo.com/tesis/2018_la_dimension_subjeti/#documento)
 
-• Plaza, A. (2018) Movilidad social y preferencias por la redistribución: Efectos individuales y contextuales. Magíster en Sociología, P. Universidad Católica de Chile.
+• [Miranda, D. (2018) The civic and civil dimensions of youth participation. Doctorado en sociología, P. Universidad Católica de Chile.](https://repositorio.uc.cl/handle/11534/22255)
+
+• [Plaza, A. (2018) Movilidad social y preferencias por la redistribución: Efectos individuales y contextuales. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento)
 
 • Franetovic, G. (2018) Desigualdad, desarrollo económico y preferencias redistributivas en América Latina. Magíster en Sociología, P. Universidad Católica de Chile.
 
-• Muñoz, E. (2018) Evaluaciones de justicia distributiva sobre las pensiones de vejez en Chile. Magíster en Sociología, P. Universidad Católica de Chile.
+• [Muñoz, E. (2018) Evaluaciones de justicia distributiva sobre las pensiones de vejez en Chile. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento)
 
-• Sandoval, D. (2017) Merezco estar aquí: Un estudio multinivel sobre la relación entre meritocracia y educación. Magíster en Sociología, P. Universidad Católica de Chile.
+• [Sandoval, D. (2017) Merezco estar aquí: Un estudio multinivel sobre la relación entre meritocracia y educación. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento)
 
 • Montedónico, S. (2017) Contexto Polı́tico Institucional y Preferencias Redistributivas en América Latina. Magíster en Sociología, P. Universidad Católica de Chile.
 
@@ -382,51 +388,49 @@ He participado en una serie de comisiones de tesis, abajo listo solamente en las
 
 • Torres, A. (2014) Aspectos subjetivos de la meritocracia y su relación con la percepción de desigualdad en Chile. Magíster en Psicología Social-Comunitaria, P. Universidad Católica de Chile.
 
-• Yañez, R. (en curso) Construcción de juicios de justicia y emergencia de sentimientos de injusticia frente a la desigualdad social. Doctorado en Sociología, EHESS Paris (codirector).
-
-B. MEMORIAS DIRIGIDAS COMO PROFESOR RESPONSABLE CONDUCENTES A GRADO O TÍTULO: Se precisa conocer los trabajos específicos que dirigió, con el mayor detalle posible en cada caso.
+**B. Memorias dirigidas como profesor responsable conducentes a grado o título:**
 
 • Larenas, P. (2024). El conflicto intercultural entre el estado chileno y la causa mapuche por autodeterminación. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile.
 
-• Andreas Lafferte (2023). Ellos contra nosotros: las percepciones del conflicto social. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Andreas Lafferte (2023). Ellos contra nosotros: las percepciones del conflicto social. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://andreas-lafferte.github.io/tesis/resumen.html)
 
 • Karen Tapia (2022). Bienestar, trabajo doméstico y uso del tiempo: un análisis cuantitativo del bienestar de las mujeres en Chile. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
 
 • Javiera Urrutia (2022). Determinantes de la percepción de seguridad frente al delito en la Región Metropolitana. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
 
-• Sebastian Cortinez (2022). El efecto de las creencias meritocráticas sobre las atribuciones de pobreza y riqueza. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Sebastian Cortinez (2022). El efecto de las creencias meritocráticas sobre las atribuciones de pobreza y riqueza. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://sebacr.github.io/tesispregrado/)
 
-• Catalina Miranda (2022). Factores determinantes de las trayectorias de deserción permanente en educación superior: El efecto de las ayudas financieras estatales y la política de gratuidad. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Catalina Miranda (2022). Factores determinantes de las trayectorias de deserción permanente en educación superior: El efecto de las ayudas financieras estatales y la política de gratuidad. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://repositorio.uchile.cl/handle/2250/198520)
 
-• Martin Venegas (2022). ¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Martin Venegas (2022). ¿Quién justifica qué? El rol del sentido de injusticia en las justificaciones de violencia en contexto de protesta. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://thesis-justification-of-violence.github.io/thesis-report/index.html)
 
-• Simon Varas (2021). Enfermedades crónicas no transmisibles y el efecto protector de la cohesión social en Chile. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Simon Varas (2021). Enfermedades crónicas no transmisibles y el efecto protector de la cohesión social en Chile. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://repositorio.uchile.cl/handle/2250/182889)
 
-• Carlos Budnevich (2021). La composición social de las escuelas y su relación con el rendimiento académico en lenguaje y matemática de los estudiantes secundarios chilenos. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.
+• [Carlos Budnevich (2021). La composición social de las escuelas y su relación con el rendimiento académico en lenguaje y matemática de los estudiantes secundarios chilenos. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://repositorio.uchile.cl/handle/2250/184386)
 
-• Nogueira, A., & Lihn, T. (2018). Prácticas de inclusión y exclusión de estudiantes en situación de migración: Un estudio de caso en dos escuelas municipales de la comuna de renca en santiago \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Nogueira, A., & Lihn, T. (2018). Prácticas de inclusión y exclusión de estudiantes en situación de migración: Un estudio de caso en dos escuelas municipales de la comuna de renca en santiago Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• González Ide, A., & González, D. (2018). Chile: Sociodemografía e inser- ción laboral de los inmigrantes re- cientes. El caso de los haitianos y venezolanos. \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• González Ide, A., & González, D. (2018). Chile: Sociodemografía e inserción laboral de los inmigrantes recientes. El caso de los haitianos y venezolanos. Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Concha, J. F., & Saavedra, M. B. (2018). Facilitadores y limitantes en la contratación de migrantes desde el empleador del sector terciario de producción \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Concha, J. F., & Saavedra, M. B. (2018). Facilitadores y limitantes en la contratación de migrantes desde el empleador del sector terciario de producción Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Contreras, P., & Terra, V. (2017). Construyendo Involucramiento Comunitario: Casos de Parque Metropolitano Cerro Chena y Mapocho Limpio \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Contreras, P., & Terra, V. (2017). Construyendo Involucramiento Comunitario: Casos de Parque Metropolitano Cerro Chena y Mapocho Limpio Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• García, J., & Riquelme, V. (2017). Relevancia de la Convocatoria de Investigación en Educación del Consejo Nacional de Educación en la trayectoria académica de los finalistas adjudicados y no adjudicados de los años 2014. 2015 y 2016. \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• García, J., & Riquelme, V. (2017). Relevancia de la Convocatoria de Investigación en Educación del Consejo Nacional de Educación en la trayectoria académica de los finalistas adjudicados y no adjudicados de los años 2014. 2015 y 2016. Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Moller, A., & Zúñiga, G. (2017). Mecanismos de Participación Ciudadana en Proyectos de Inversión en Chile Propuesta Metodológica a partir de proyectos de inversión de GHD \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Moller, A., & Zúñiga, G. (2017). Mecanismos de Participación Ciudadana en Proyectos de Inversión en Chile Propuesta Metodológica a partir de proyectos de inversión de GHD Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Muñoz, C., & Cofré, R. (2017). La Formación Continua en Docencia del Profesorado Universitario Efectos sobre la práctica y autopercepción docente \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Muñoz, C., & Cofré, R. (2017). La Formación Continua en Docencia del Profesorado Universitario Efectos sobre la práctica y autopercepción docente Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Ajraz, N., & Sanchez, N. (2015). Prevención en salud mental en la Atención Primaria de Salud \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Ajraz, N., & Sanchez, N. (2015). Prevención en salud mental en la Atención Primaria de Salud Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Amenábar, J., & Sánchez, J. (2015). Discusión teórica y empírica sobre la élite económica chilena \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Amenábar, J., & Sánchez, J. (2015). Discusión teórica y empírica sobre la élite económica chilena Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Barros, M. J., & Torres, P. (2015). Todos somos amigos, pero unos más que otros Estudio exploratorio sobre segregación en la sala de clases \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Barros, M. J., & Torres, P. (2015). Todos somos amigos, pero unos más que otros Estudio exploratorio sobre segregación en la sala de clases Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-• Acevedo, V., & Arellano, C. (2014). Evaluación de la implementación, gestión y utilización de la Ley 20.500 \[Taller titulación - pregrado sociología\]. Pontificia Universidad Católica de Chile.
+• Acevedo, V., & Arellano, C. (2014). Evaluación de la implementación, gestión y utilización de la Ley 20.500 Taller titulación - pregrado sociología. Pontificia Universidad Católica de Chile.
 
-## 5.2. Investigación: Señale las actividades de investigación en que ha participado indicando en cada caso la entidad donde realizó la investigación, calidad en que participó, fuente de financiamiento, materia específica investigada, objetivos de la misma y fechas de inicio y de término.
+## 5.2. Investigación:
 
 En todas mis investigaciones utilizo métodos de análisis cuantitativo aplicado a encuestas (datos primarios y secundarios). Hago énfasis en la investigación comparativa internacional, medición de variables latentes y encuestas factoriales.
 
@@ -476,31 +480,33 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 (no aplica)
 
-## 5.4. Extensión y Divulgación: Enumere y describa las principales actividades de extensión señalando para cada caso la institución donde se realizó, su contenido, objetivo y fechas (podrán incluirse actividades tales como cursos breves, conferencias, publicaciones de difusión, etc. que Ud. haya impartido o hayan estado a su cargo).
+## 5.4. Extensión y Divulgación:
 
-**2024 Enero.** Taller Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación \[Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso\]. <https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta>
+**2024 Enero.** [Taller Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta)
 
-**2023 Enero.** Taller Diseño y gestión de proyectos de investigación abiertos \[Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central\].
+**2023 Enero.** Taller Diseño y gestión de proyectos de investigación abiertos. Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central.
 
-**2023 Enero.** Conferencia Flujo y Componentes de la Investigación Abierta \[9o Congreso de Bibliotecas Universitarias y Especializadas Universidad de Chile\].
+**2023 Enero.** Conferencia Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas Universidad de Chile.
 
-**2022 Enero.** Taller Protocolos reproducibles y reportes dinámicos con R / Rmarkdown \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. <https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html>
+**2022 Enero.** [Taller Protocolos reproducibles y reportes dinámicos con R / Rmarkdown. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html)
 
-**2022 Marzo.** Presentación Cohesión social en Chile en tiempos de cambio: Indicadores perfiles y factores asociados \[Presentación Seminario CEPAL-COES\]. <https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html>
+**2022 Marzo.** [Presentación Cohesión social en Chile en tiempos de cambio: Indicadores perfiles y factores asociados. Presentación Seminario CEPAL-COES.](https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html)
 
-**2022 Junio.** Curso Herramientas para la apertura del flujo de investigación científica \[Presentación en el seminario: Ciencia abierta ¿es ciencia accesible?\]. <https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html>
+**2022 Junio.** [Curso Herramientas para la apertura del flujo de investigación científica. Presentación en el seminario: Ciencia abierta ¿es ciencia accesible?.](anexos/conferencias/ConstanciaIBERO.pdf)
 
-**2022 Septiembre.** Taller Preregistros ELSOC \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. <https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html>
+**2022 Septiembre.** [Taller Preregistros ELSOC. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html)
 
-**2022 Enero.** Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. <https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html>
+**2022 Enero.** [Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html)
 
-**Diciembre 2019** "La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano” (junto a Luis Maldonado, Julio Iturra, Jorge Atria & Francisco Meneses). Columna en CIPER. <https://www.ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/>
+**Septiembre 2020** [LSOC: Participación política y clases sociales, entrevista a Emmanuelle Barozet y Juan Carlos Castillo. Radio Universidad de Chile](https://coes.cl/2020/09/28/prensa-elsoc-participacion-politica-y-clases-sociales-entrevista-a-emmanuelle-barozet-y-juan-carlos-castillo/)
+
+**Diciembre 2019** ["La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano” (junto a Luis Maldonado, Julio Iturra, Jorge Atria & Francisco Meneses). Columna en CIPER.](https://www.ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)
 
 **Mayo 2018** “Redes Sociales: Aproximaciones Estructurales a la Cohesión en la Sociedad Chilena”. Comentario a la presentación del Prof. Vicente Espinoza. IDEA-USACH Santiago.
 
-**Diciembre 2017** “Notas sobre los resultados de Chile en la última prueba internacional de formación ciudadana” Columna de opinión en CIPER junto a Daniel Miranda <https://ciperchile.cl/2017/12/28/notas-sobre-los-resultados-de-chile-en-la-ultima-prueba-internacional-de-formacion-ciudadana/>
+**Diciembre 2017** [“Notas sobre los resultados de Chile en la última prueba internacional de formación ciudadana” Columna de opinión en CIPER junto a Daniel Miranda.](https://ciperchile.cl/2017/12/28/notas-sobre-los-resultados-de-chile-en-la-ultima-prueba-internacional-de-formacion-ciudadana/)
 
-**Agosto 2017** “La meritocracia ¿una tragedia?” Columna de opinión en El Mostrador. <http://www.elmostrador.cl/noticias/opinion/2017/08/21/la-meritocracia-una-tragedia>
+**Agosto 2017** [“La meritocracia ¿una tragedia?” Columna de opinión en El Mostrador.](http://www.elmostrador.cl/noticias/opinion/2017/08/21/la-meritocracia-una-tragedia)
 
 **Agosto 2017** Seminario COES-PNUD: “Discutiendo sobre las desigualdades en Chile”. Comentarista de presentación de Raimundo Frei sobre aspectos subjetivos de la desigualdad. Facultad de Economía, Universidad de Chile.
 
@@ -508,9 +514,9 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 **Octubre 2016** “Mérito y preferencias redistributivas”. Presentación en Coloquio del Instituto de Sociología UC. Facultad de Ciencias Sociales, Universidad Católica Santiago.
 
-**Octubre 2016** “La nueva Casen y las exigencias a la política social en Chile”. Columna de opinión en El Dínamo junto a Mauro Basaure. <https://www.eldinamo.cl/blog/la-nueva-casen-y-las-exigencias-a-la-politica-social-en-chile/>
+**Octubre 2016** [“La nueva Casen y las exigencias a la política social en Chile”. Columna de opinión en El Dínamo junto a Mauro Basaure.](https://www.eldinamo.cl/blog/la-nueva-casen-y-las-exigencias-a-la-politica-social-en-chile/)
 
-**Septiembre 2016** “CASEN y Cohesión: oportunidades y precauciones”. Columna de opinión en El Mostrador junto a Mauro Basaure. <http://www.elmostrador.cl/noticias/opinion/2016/09/29/casen-y-cohesion-oportunidades-y-precauciones/>
+**Septiembre 2016** [“CASEN y Cohesión: oportunidades y precauciones”. Columna de opinión en El Mostrador junto a Mauro Basaure.](http://www.elmostrador.cl/noticias/opinion/2016/09/29/casen-y-cohesion-oportunidades-y-precauciones/)
 
 **Noviembre 2015** “Investigación sobre formación ciudadana en Chile”. Presentación en Segundo Encuentro Nacional de Actores de la Formación Inicial de Docentes. CPEIP, Santiago.
 
@@ -526,41 +532,41 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 **Marzo 2015** “Familia, escuela y desigualdad en la formación ciudadana en Chile”. Presentación en Seminario Internacional sobre formación ciudadana en Chile. Universidad Católica, Santiago.
 
-**Enero 2015** “Selección en particulares y la complicidad de los psicólogos” Columna de opinión en El Mostrador <http://www.elmostrador.cl/noticias/opinion/2015/01/29/seleccion-en-particulares-y-la-complicidad-de-los-psicologs/>
+**Enero 2015** [“Selección en particulares y la complicidad de los psicólogos” Columna de opinión en El Mostrador](http://www.elmostrador.cl/noticias/opinion/2015/01/29/seleccion-en-particulares-y-la-complicidad-de-los-psicologs/)
 
 **Enero 2015** “Herramientas para la investigación reproducible”. Organización de Taller de formación de postgrado. Facultad de Ciencias Sociales, Universidad Católica, Santiago.
 
-**Septiembre 2014** “De la educación cívica a la educación para la ciudadanía”. Columna de opinión en El Mostrador <http://www.elmostrador.cl/noticias/opinion/2014/09/02/de-la-educacion-civica-a-la-educacion-para-la-ciudadania/>
+**Septiembre 2014** [“De la educación cívica a la educación para la ciudadanía”. Columna de opinión en El Mostrador.](http://www.elmostrador.cl/noticias/opinion/2014/09/02/de-la-educacion-civica-a-la-educacion-para-la-ciudadania/)
 
-## 5.5. ADMINISTRACIÓN UNIVERSITARIA y DIRECCIÓN ACADÉMICA: Indique los cargos más importantes de este tipo que ha desempeñado precisando la función, la institución y el tiempo de dedicación. Cuando corresponda, indique el lapso durante el cual ejerció el cargo.
+## 5.5. Administración universitaria y Dirección académica: 
 
-• Presidente del comité de investigación RC 42 (Social Psychology) de la International Sociological Association ISA (2023-2027)
+• [Presidente del comité de investigación RC 42 (Social Psychology) de la International Sociological Association ISA (2023-2027)](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/)
 
-• Director de Investigación y Publicaciones, Facultad de Ciencias Sociales, Universidad de Chile (2022- )
+• [Director de Investigación y Publicaciones, Facultad de Ciencias Sociales, Universidad de Chile (2022- )](anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf)
 
 • Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)
 
 • Miembro del comité del Magister en Ciencias Sociales, mención Sociología de la Modernización (2022-2024)
 
-• Director del grupo estudio de Sociología de FONDECYT (2018 - 2019 ).
+• [Director del grupo estudio de Sociología de FONDECYT (2018 - 2019 ).](anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf)
 
 • Moderador del servicio de pre-prints Socarxiv (socopen.org) (2018 - )
 
-• Miembro del grupo estudio de Sociología de FONDECYT (2016 - 2017).
+• [Miembro del grupo estudio de Sociología de FONDECYT (2016 - 2017).](anexos/varios/evaluador-Fondecyt.pdf)
 
-• [Consejo Académico](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
+• [Consejo Académico](anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
 
-• [Consejo de Facultad](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
+• [Consejo de Facultad](anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
 
-• [Comité de Postgrado](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
+• [Comité de Postgrado](anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
 
-• [Comité Curricular](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
+• [Comité Curricular](anexos/gestion-docencia-evaluacion/gestion-uc.pdf), Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
 
-• Subdirector FONDAP Centro de Estudios de Conflicto y Cohesión Social – COES (2013 - 2028)
+• Subdirector FONDAP Centro de Estudios de Conflicto y Cohesión Social – COES (2013 - 2018)
 
-• Representante de América Latina en el comité de investigación 42 (RC42) de la International Sociological Association (ISA) (2014-2022).
+• [Representante de América Latina en el comité de investigación 42 (RC42) de la International Sociological Association (ISA) (2014-2022).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/)
 
-## FORMACIÓN ACADÉMICA PROPIA: Si lo considera pertinente, señale los académicos a quienes Ud. considera sus formadores y maestros directos, indicando los aspectos específicos que definen ese carácter.
+## Formación académica propia:
 
 De los principales académicos influyentes en mi carrera destaco a:
 
@@ -570,7 +576,7 @@ De los principales académicos influyentes en mi carrera destaco a:
 
 -   Prof. Cristián Cox (UDP): especialista en sociología de la educación, fui su coinvestigador en dos proyectos FONDECYT sobre formación ciudadana y desigualdad política. Ha sido una figura muy inspiradora por su reflexividad, mirada a largo plazo, e imaginación sociológica.
 
-## FORMACIÓN DE NUEVOS ACADÉMICOS: Consigne el nombre y lugar de desempeño actual de los académicos que cultivan la disciplina, a la cual Ud. pertenece y, en cuya formación Ud. tuvo una responsabilidad principal. Indique en qué manera participó Ud. en dicha formación. Cuando sea el caso, señale la relación con proyectos comunes: publicaciones, dirección de memorias o tesis, etc.
+## Formación de nuevos académicos: 
 
 Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron conmigo, pero si puedo nombrar algunas personas más jóvenes con las que tuve la ventaja de trabajar en etapas iniciales de su carrera:
 
@@ -590,51 +596,53 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 -   Matías Placencio, tesista FONDECYT y colaborador en investigaciones sobre formación ciudadana, actualmente doctorándose en Boston College.
 
-# DIFUSIÓN y COMUNICACIONES:
+# Difusión y comunicaciones:
 
-## LIBROS y PUBLICACIONES PERIÓDICAS:
+## Libros y publicaciones periódicas:
 
-### LIBROS y MONOGRAFIAS
+### Libros y monografías
 
-Cox, C. & Castillo, J. (Eds.) (2015) Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
+[Cox, C. & Castillo, J. (Eds.) (2015) Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://ediciones.uc.cl/aprendizaje-de-la-ciudadania-contextos-experiencias-y-resultados-config-9789561415133.html)
 
-[Castillo, J. (2011). The legitimacy of economic inequality: An empirical approach to the case of Chile. Boca R.: Dissertation.com.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/publicaciones/castillo-2011-book.pdf)
+[Castillo, J. (2011). The legitimacy of economic inequality: An empirical approach to the case of Chile. Boca R.: Dissertation.com.](anexos/publicaciones/castillo-2011-book.pdf)
 
-### 8.1.2. CAPÍTULOS DE LIBROS & DOCUMENTOS DE TRABAJO.
+### 8.1.2. Capítulos de libros & documentos de trabajo.
 
-García-Sánchez, E., García-Castro, J. D., Venegas, M., & Castillo, J.-C. (2022). The ideological underpinnings of distributive unfairness evaluations: Evidence from Latin America between 1997 and 2020. In H. Cakal, V. Smith, & D. Sirlopu (Eds.), Social Unrest in Latin America: Social Psychological Perspectives. Work in progress. https://osf.io/wz3rx/
+[Carrasco, K., García-Castro, J. D., & Castillo, J. C. (2024). La socialización de las actitudes hacia la desigualdad y meritocracia en la etapa escolar en Chile. En G. Assusa & G. Benza (Eds.), América Latina desigual. Preguntas, enfoques y tendencias actuales (Clacso y Siglo ventiuno editores, pp. 205-234).](anexos/publicaciones/Carrasco-etal.pdf)
 
-Miranda, D., Castillo, J.-C., Miranda, C., & Conejeros, J. (2022). Trust in Political Institutions and Support for Authoritarianism in Latin American Students – Does Civic Knowledge Make a Diﬀerence? In A. Weinberg (Ed.), Psychology of Democracy: Of the People, By the People, For the People (pp. 173–194). Cambridge University Press. https://github.com/juancarloscastillo/authorit-trust_iccs-lat/blob/master/psych-of-dem-trust-auth-chapterproofs.pdf
+[García-Sánchez, E., García-Castro, J. D., Venegas, M., & Castillo, J.-C. (2022). The ideological underpinnings of distributive unfairness evaluations: Evidence from Latin America between 1997 and 2020. In H. Cakal, V. Smith, & D. Sirlopu (Eds.), Social Unrest in Latin America: Social Psychological Perspectives. Work in progress.](https://osf.io/wz3rx/)
 
-Castillo, J., Miranda, D., & Bonilla, A. (2021). Measuring Attitudes Towards Gender Equality in International Tests: Implications for Their Validity. In J. Manzi, M. R. García, & S. Taut (Eds.), Validity of Educational Assessments in Chile and Latin America (pp. 259–280). Springer International Publishing.
+[Miranda, D., Castillo, J.-C., Miranda, C., & Conejeros, J. (2022). Trust in Political Institutions and Support for Authoritarianism in Latin American Students – Does Civic Knowledge Make a Diﬀerence? In A. Weinberg (Ed.), Psychology of Democracy: Of the People, By the People, For the People (pp. 173–194). Cambridge University Press.](https://github.com/juancarloscastillo/authorit-trust_iccs-lat/blob/master/psych-of-dem-trust-auth-chapterproofs.pdf)
 
-Miranda, Daniel, & Castillo, J.-C. (2021). Cambios en la participación política de los escolares. In S. Alé, K. Duarte, & D. Miranda (Eds.), Saltar el Torniquete: Reflexiones desde las juventudes de octubre (Primera edición, pp. 51–60). Fondo de Cultura Económica.
+[Castillo, J., Miranda, D., & Bonilla, A. (2021). Measuring Attitudes Towards Gender Equality in International Tests: Implications for Their Validity. In J. Manzi, M. R. García, & S. Taut (Eds.), Validity of Educational Assessments in Chile and Latin America (pp. 259–280). Springer International Publishing.](https://doi.org/10.1007/978-3-030-78390-7_11)
 
-Castillo, J.-C., Iturra, J., Meneses, F., & Andrade, V. (2021). Impuestos, redistribución y meritocracia: Cambios en Chile entre 1999 y 2019. In Atria, Jorge & C. Otero (Eds.), Impuestos justos para el Chile que viene (pp. 100–126). Fondo de Cultura Económica. https://www.impuestosjustos.io/
+[Miranda, Daniel, & Castillo, J.-C. (2021). Cambios en la participación política de los escolares. In S. Alé, K. Duarte, & D. Miranda (Eds.), Saltar el Torniquete: Reflexiones desde las juventudes de octubre (Primera edición, pp. 51–60). Fondo de Cultura Económica.](https://jc-castillo.com/docs/torniquete-capitulo.pdf)
 
-Castillo, JC., Miranda, D. & Bonilla, A. (2019 – aceptado) Medición de actitudes hacia la igualdad de derechos entre géneros en pruebas internacionales: Implicancias respecto a su validez. En J. Manzi, S. Taut & M. García (Eds.), Validez de los Sistemas de Evaluación en Chile y Latinoamérica (pp. 284–305). Santiago: Ediciones UC.
+[Castillo, J.-C., Iturra, J., Meneses, F., & Andrade, V. (2021). Impuestos, redistribución y meritocracia: Cambios en Chile entre 1999 y 2019. In Atria, Jorge & C. Otero (Eds.), Impuestos justos para el Chile que viene (pp. 100–126). Fondo de Cultura Económica.](https://www.impuestosjustos.io/)
 
-Miranda, D. & Castillo, JC. (2018) The political socialization of attitudes towards equality of rights in comparative perspective. In A. Sandoval-Hernández, M. Isaac & D. Miranda (Eds.), Teaching Tolerance in a Globalized World. Dordrecht: Springer.
+[Castillo, JC., Miranda, D. & Bonilla, A. (2019) Medición de actitudes hacia la igualdad de derechos entre géneros en pruebas internacionales: Implicancias respecto a su validez. En J. Manzi, S. Taut & M. García (Eds.), Validez de los Sistemas de Evaluación en Chile y Latinoamérica (pp. 284–305). Santiago: Ediciones UC.](https://jc-castillo.com/docs/validez-mide.pdf)
 
-Miranda, D. , Castillo, JC. & Cumsille, P. (2018) Measurement model and invariance testing of scales measuring egalitarian values in ICCS. In A. Sandoval-Hernández, M. Isaac & D. Miranda (Eds.), Teaching Tolerance in a Globalized World. Dordrecht: Springer.
+[Miranda, D. & Castillo, JC. (2018) The political socialization of attitudes towards equality of rights in comparative perspective. In A. Sandoval-Hernández, M. Isaac & D. Miranda (Eds.), Teaching Tolerance in a Globalized World. Dordrecht: Springer.](https://doi.org/10.1007/978-3-319-78692-6_7)
 
-Bargsted, M., Castillo, J. & Somma, N. (2017) Trust in institutions in Latin America. En S. Zmerli & T. Van der Meer (Eds), Handbook of political trust. Northampton: Edward Elgar Publishing.
+[Miranda, D. , Castillo, JC. & Cumsille, P. (2018) Measurement model and invariance testing of scales measuring egalitarian values in ICCS. In A. Sandoval-Hernández, M. Isaac & D. Miranda (Eds.), Teaching Tolerance in a Globalized World. Dordrecht: Springer.](https://doi.org/10.1007/978-3-319-78692-6_3)
 
-Castillo, J., Miranda, D. & Bonhomme, M. (2015) Desigualdad social y cambios en las expectativas de participación política de los estudiantes en chile. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
+[Bargsted, M., Castillo, J. & Somma, N. (2017) Trust in institutions in Latin America. En S. Zmerli & T. Van der Meer (Eds), Handbook of political trust. Northampton: Edward Elgar Publishing.](https://jc-castillo.com/docs/handbook-political-trust.pdf)
+
+[Castillo, J., Miranda, D. & Bonhomme, M. (2015) Desigualdad social y cambios en las expectativas de participación política de los estudiantes en chile. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://jc-castillo.com/docs/castillo%20et%20al%202015%20cambios%20expectativas%20libro%20ap%20ciud.pdf)
 
 Cox, C., Bascopé, M., Castillo, J., Miranda, D. & Bonhomme, M. (2015) Educación ciudadana en América Latina: Prioridades De los currículos escolares. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
 
 Miranda, D., Castillo, J, & Sandoval-Hernandez, A. (2015) Desigualdad y conocimiento cívico: Chile en comparación internacional. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
 
-Olivos, F., Mackenna, B., Castillo, J. & Bargsted, M. (2015) Percepción de conflicto en Chile: Un análisis desde la opinión pública. En M.Castillo & C.Maldonado (Eds.), Desigualdades: Tolerancia, legitimación y conflicto en las sociedades latinoamericanas. Santiago: RIL Editores.
+[Olivos, F., Mackenna, B., Castillo, J. & Bargsted, M. (2015) Percepción de conflicto en Chile: Un análisis desde la opinión pública. En M.Castillo & C.Maldonado (Eds.), Desigualdades: Tolerancia, legitimación y conflicto en las sociedades latinoamericanas. Santiago: RIL Editores.](https://jc-castillo.com/docs/Castillo%20et%20al%202015%20percepci%c3%b3n%20de%20conflicto%20en%20Chile.pdf)
 
 Cox, C., Bascopé, M., Castillo, J., Bonhomme, M., Miranda, D. (2014) Educación Ciudadana en América Latina: Prioridades de los Currículos. Working Papers on Curriculum Issues, UNESCO International Bureau of Education (IBE).
 
-Castillo, J. & Olivos, F. (2014) Redistribución e impuestos: Un análisis desde la opinión pública. En Atria, J. Tributación en Sociedad: Impuestos y Redistribución en el Chile del Siglo XXI (143-166). Santiago: Uqbar.
+[Castillo, J. & Olivos, F. (2014) Redistribución e impuestos: Un análisis desde la opinión pública. En Atria, J. Tributación en Sociedad: Impuestos y Redistribución en el Chile del Siglo XXI (143-166). Santiago: Uqbar.](https://jc-castillo.com/docs/castillo%20&%20olivos%20redistribucion%20e%20impuestos.pdf)
 
 Castillo, J. Miranda, D. & Carrasco, D. (2011). La percepción de desigual de la desigualdad (The unequal perception of inequality). Technical report IT1101, Measurement Center Mide-UC. Santiago: P. Universidad Católica de Chile.
 
-Castillo, J. & Carrasco, D. (2010). Sobre la estabilidad del autoritarismo: Un caso de medición de invarianza longitudinal (About the stability of authoritarianism: A case of measurement invariance). Technical report IT1008, Measurement Center Mide-UC. Santiago: P. Universidad Católica de Chile.
+[Castillo, J. & Carrasco, D. (2010). Sobre la estabilidad del autoritarismo: Un caso de medición de invarianza longitudinal (About the stability of authoritarianism: A case of measurement invariance). Technical report IT1008, Measurement Center Mide-UC. Santiago: P. Universidad Católica de Chile.](https://jc-castillo.com/docs/Estabilidad%20del%20autoritarismo.pdf)
 
 Castillo, J. (2008). Factorial survey: Dimensions of Just Rewards. International Social Justice Project - Working Paper N°165. Berlin: Humboldt University.
 
@@ -650,103 +658,105 @@ Castillo, J. (2007) Legitimation and Justice Ideologies in contexts of extreme e
 
 Castillo, J., & Asun, D. (2002). Creencias en la Justicia en el Mundo: Un Estudio Preliminar en Relación a Actitudes de Intolerancia y Discriminación. In D. Paez (Ed.), Psicología Social. Buenos Aires: Prentice Hall.
 
-### 8.1.3. REVISTAS NACIONALES: Se entiende aquellas que circulan principalmente sólo en el país de edición y que tengan comité editorial.
+### 8.1.3. Revistas nacionales:
 
-Castillo, J.-C., Meneses, F., Iturra, J., & Maldonado, L. (2019). Cambios en la percepción y justificación de desigualdad salarial en Chile. Análisis Del Año, 149–163.
+[Castillo, J. C., & Carrasco, K. (2024). Brechas de género en la percepción y justificación de la desigualdad salarial en Chile 1999-2019. Estudios Públicos, 1-41. https://doi.org/10.38178/07183089/1152230428](https://doi.org/10.38178/07183089/1152230428)
 
-Castillo, JC & Rivera,M. (2018) Poverty and wealth attributions: A second order confirmatory factor analysis model. Accepted in Psykhe (SCOPUS).
+[Castillo, J.-C., Meneses, F., Iturra, J., & Maldonado, L. (2019). Cambios en la percepción y justificación de desigualdad salarial en Chile. Análisis Del Año, 149–163.](https://justicia-distributiva.github.io/chile-ISSP-gaps-1999-2019/castillo-et-al2019-analisis-del-anho.pdf)
 
-Atria, J., Amenábar, J., Sanchez, J., Castillo, JC & Cociña, M. (2017) Investigando a la élite económica: Lecciones y desafíos a partir del caso de Chile. Cultura, Hombre y Sociedad 27(2)5-36 (Scielo).
+[Castillo, JC & Rivera,M. (2018). Dimensiones Comunes a las Atribuciones de Pobreza y Riqueza. Psykhe, 27(2) https://doi.org/10.7764/psykhe.27.2.1152.](https://doi.org/10.7764/psykhe.27.2.1152.) (SCOPUS).
+
+[Atria, J., Amenábar, J., Sanchez, J., Castillo, JC & Cociña, M. (2017) Investigando a la élite económica: Lecciones y desafíos a partir del caso de Chile. Cultura, Hombre y Sociedad 27(2)5-36](https://portalrevistas.uct.cl/index.php/cuhso/article/view/1244) (Scielo).
 
 Castillo, J. (2016) Public opinion about just salaries in Chile: An exploratory study based on a factorial survey. Cuadernos ISUC 1(2)1-29.
 
-Castillo, J. (2014) Actitudes hacia el trabajo y justicia salarial en Chile. Temas de la Agenda Pública 66, 33-44 (Latindex).
+[Castillo, J. (2014) Actitudes hacia el trabajo y justicia salarial en Chile. Temas de la Agenda Pública 66, 33-44](https://www.researchgate.net/publication/269928176_Actitudes_hacia_el_trabajo_y_justicia_salarial_en_Chile) (Latindex).
 
-Castillo, J., Madero, I. & Miranda, D. (2014) Educación, equidad y creencias respecto de la distribución económica. Sociedad Hoy 24, 13-31 (Latindex).
+[Castillo, J., Madero, I. & Miranda, D. (2014) Educación, equidad y creencias respecto de la distribución económica. Sociedad Hoy 24, 13-31](https://revistas.udec.cl/index.php/sociedad_hoy/article/view/788) (Latindex).
 
-Castillo, J., Salamovich, A. & Madero, I. (2013) Clivajes partidarios y cambios en preferencias distributivas en Chile. Revista de Ciencia Política 33(2)469-488 (ISI).
+[Castillo, J., Salamovich, A. & Madero, I. (2013) Clivajes partidarios y cambios en preferencias distributivas en Chile. Revista de Ciencia Política 33(2)469-488](http://ojs.uc.cl/index.php/rcp/article/view/6034) (ISI).
 
-Castillo, J. (2013) Contrastes entre la desigualdad objetiva y subjetiva en Chile. Temas de la Agenda Pública 57, 1-15 (Latindex).
+[Castillo, J. (2013) Contrastes entre la desigualdad objetiva y subjetiva en Chile. Temas de la Agenda Pública 57, 1-15](https://politicaspublicas.uc.cl/publicacion/serie-temas-de-la-agenda/serie-n-57-contrastes-entre-la-desigualdad-economica-objetiva-y-subjetiva-en-chile/) (Latindex).
 
-Castillo, J., Miranda, D. & Carrasco, D. (2012) Percepción de desigualdad económica en Chile: Medición, sesgos y determinantes. Psykhé 21(1) 99-114 (SCOPUS).
+[Castillo, J., Miranda, D. & Carrasco, D. (2012) Percepción de desigualdad económica en Chile: Medición, sesgos y determinantes. Psykhé 21(1) 99-114](http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-22282012000100007&lng=en&nrm=iso&tlng=en) (SCOPUS).
 
-Madero, I. & Castillo, J. (2012) Sobre el estudio empírico de la solidaridad: aproximaciones conceptuales y metodológicas. Polis 11(31) 391-409 (SCIELO).
+[Madero, I. & Castillo, J. (2012) Sobre el estudio empírico de la solidaridad: aproximaciones conceptuales y metodológicas. Polis 11(31) 391-409](http://www.scielo.cl/scielo.php?script=sci_abstract&pid=S0718-65682012000100021&lng=es&nrm=iso&tlng=es) (SCIELO).
 
-Castillo, J. (2009). ¿Cuál es la Brecha Salarial Justa? Opinión Pública y Legitimación de la Desigualdad Económica en Chile. Estudios Públicos 113, 237-266.
+[Castillo, J. (2009). ¿Cuál es la Brecha Salarial Justa? Opinión Pública y Legitimación de la Desigualdad Económica en Chile. Estudios Públicos 113, 237-266.](https://www.estudiospublicos.cl/index.php/cep/article/view/449)
 
-### 8.1.4. REVISTAS INTERNACIONALES: Se entiende como aquellas que circulan ampliamente más allá del país de edición y que tengan comité editorial.
+### 8.1.4. Revistas internacionales: 
 
-Castillo, J.-C., Iturra, J., Maldonado, L., Atria, J., & Meneses, F. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. International Journal of Sociology, Online first. https://doi.org/10.1080/00207659.2023.2274712
+[Castillo, J.-C., Iturra, J., Maldonado, L., Atria, J., & Meneses, F. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. International Journal of Sociology, Online first. https://doi.org/10.1080/00207659.2023.2274712](https://doi.org/10.1080/00207659.2023.2274712)
 
-Castillo, J.-C., Bonhomme, M., Miranda, D., & Iturra, J. (2023). Social cohesion and attitudinal changes towards migration: A longitudinal perspective amid the COVID-19 pandemic. Frontiers in Sociology, 7, 1009567. https://doi.org/10.3389/fsoc.2022.1009567
+[Castillo, J.-C., Bonhomme, M., Miranda, D., & Iturra, J. (2023). Social cohesion and attitudinal changes towards migration: A longitudinal perspective amid the COVID-19 pandemic. Frontiers in Sociology, 7, 1009567. https://doi.org/10.3389/fsoc.2022.1009567](https://doi.org/10.3389/fsoc.2022.1009567)
 
-Iturra, J., Castillo, J.-C., Rufs, C., & Maldonado, L. (2023). Percepción de desigualdad económica y su influencia sobre la justificación de las diferencias de ingreso legítimas. Estudios Sociológicos, 4(122).
+[Iturra, J., Castillo, J.-C., Rufs, C., & Maldonado, L. (2023). Percepción de desigualdad económica y su influencia sobre la justificación de las diferencias de ingreso legítimas. Estudios Sociológicos, 4(122).](https://doi.org/10.24201/es.2023v41n122.2260)
 
-Varas, S., Castillo, J.-C., & Ferrer, M. (2022). Enfermedades crónicas no transmisibles y el potencial efecto protector de la cohesión social en Chile. Revista IT Salud Comunitaria y Sociedad, 9(9). add archive field. https://revistas.udelar.edu.uy/OJS/index.php/revista-it/article/view/945
+[Varas, S., Castillo, J.-C., & Ferrer, M. (2022). Enfermedades crónicas no transmisibles y el potencial efecto protector de la cohesión social en Chile. Revista IT Salud Comunitaria y Sociedad, 9(9). add archive field. https://revistas.udelar.edu.uy/OJS/index.php/revista-it/article/view/945](https://revistas.udelar.edu.uy/OJS/index.php/revista-it/article/view/945)
 
-Castillo, J.-C., García-Castro, J. D., & Venegas, M. (2022). Perception of economic inequality: Concepts, associated factors and prospects of a burgeoning research agenda. International Journal of Social Psychology, 37(1), 180–207. https://doi.org/10.1080/02134748.2021.2009275
+[Castillo, J.-C., García-Castro, J. D., & Venegas, M. (2022). Perception of economic inequality: Concepts, associated factors and prospects of a burgeoning research agenda. International Journal of Social Psychology, 37(1), 180–207. https://doi.org/10.1080/02134748.2021.2009275](https://doi.org/10.1080/02134748.2021.2009275)
 
-Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H. V., Adem, M., Adriaans, J., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Balzer, D., Bauer, G., Bauer, P. C., Baumann, M., Baute, S., Benoit, V., Bernauer, J., Berning, C., … Castillo, J,... Żółtak, T. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44), e2203150119.
+[Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H. V., Adem, M., Adriaans, J., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Balzer, D., Bauer, G., Bauer, P. C., Baumann, M., Baute, S., Benoit, V., Bernauer, J., Berning, C., … Castillo, J,... Żółtak, T. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44), e2203150119.](https://doi.org/10.1073/pnas.2203150119)
 
-Franetovic, G., & Castillo, J. (2022). Preferences for Income Redistribution in Unequal Contexts: Changes in Latin America Between 2008 and 2018. Frontiers in Sociology, 7, 806458. https://doi.org/10.3389/fsoc.2022.806458
+[Franetovic, G., & Castillo, J. (2022). Preferences for Income Redistribution in Unequal Contexts: Changes in Latin America Between 2008 and 2018. Frontiers in Sociology, 7, 806458. https://doi.org/10.3389/fsoc.2022.806458](https://doi.org/10.3389/fsoc.2022.806458)
 
-García-Castro, J. D., García-Sánchez, E., Willis, G. B., Castillo, J.-C., & Rodríguez-Bailón, R. (2022). Perceived economic inequality measures: Their reflection on objective inequalities and their effects on support for redistribution. Social Psychology, 53. https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000498
+[García-Castro, J. D., García-Sánchez, E., Willis, G. B., Castillo, J.-C., & Rodríguez-Bailón, R. (2022). Perceived economic inequality measures: Their reflection on objective inequalities and their effects on support for redistribution. Social Psychology, 53. https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000498](https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000498)
 
-García-Sánchez, E., Castillo, J.-C., Rodríguez-Bailón, R., & Willis, G. B. (2022). The two faces of support for redistribution in Colombia: Taxing the wealthy or assisting people in poverty. Accepted - Frontiers in Sociology. https://doi.org/10.3389/fsoc.2022.773378
+[García-Sánchez, E., Castillo, J.-C., Rodríguez-Bailón, R., & Willis, G. B. (2022). The two faces of support for redistribution in Colombia: Taxing the wealthy or assisting people in poverty. Accepted - Frontiers in Sociology. https://doi.org/10.3389/fsoc.2022.773378](https://doi.org/10.3389/fsoc.2022.773378)
 
-Frei, R., Castillo, J.-C., Herrera, R., & Suarez, J. I. (2020). ¿Fruto del esfuerzo? Los cambios en las atribuciones sobre pobreza y riqueza en Chile entre 1996 y 2015. Latin American Research Review, 55(3), 477–496.
+[Frei, R., Castillo, J.-C., Herrera, R., & Suarez, J. I. (2020). ¿Fruto del esfuerzo? Los cambios en las atribuciones sobre pobreza y riqueza en Chile entre 1996 y 2015. Latin American Research Review, 55(3), 477–496.](https://larrlasa.org/articles/10.25222/larr.464/)
 
-Miranda, D., Castillo, J.-C., & Sandoval-Hernandez, A. (2020). Young Citizens Participation: Empirical Testing of a Conceptual Model. Youth & Society, 52(2), 251–271.
+[Miranda, D., Castillo, J.-C., & Sandoval-Hernandez, A. (2020). Young Citizens Participation: Empirical Testing of a Conceptual Model. Youth & Society, 52(2), 251–271.](https://doi.org/10.1177/0044118X17741024)
 
-Atria, J, Castillo, J.-C., Maldonado, L., & Ramirez, S. (2020). Economic elites’ attitudes toward meritocracy in chile: A moral economy perspective. American Behavioral Scientist, 64(9), 1219–1241. https://doi.org/10.1177/0002764220941214
+[Atria, J, Castillo, J.-C., Maldonado, L., & Ramirez, S. (2020). Economic elites’ attitudes toward meritocracy in chile: A moral economy perspective. American Behavioral Scientist, 64(9), 1219–1241. https://doi.org/10.1177/0002764220941214](https://doi.org/10.1177/0002764220941214)
 
-Maldonado, L., Olivos, F., Castillo, J.-C., Atria, J., & Azar, A. (2019). Risk Exposure, Humanitarianism and Willingness to Pay for Universal Healthcare: A Cross-National Analysis of 28 Countries. Social Justice Research, 32(3), 349–383. https://doi.org/10.1007/s11211-019-00336-6
+[Maldonado, L., Olivos, F., Castillo, J.-C., Atria, J., & Azar, A. (2019). Risk Exposure, Humanitarianism and Willingness to Pay for Universal Healthcare: A Cross-National Analysis of 28 Countries. Social Justice Research, 32(3), 349–383. https://doi.org/10.1007/s11211-019-00336-6](https://doi.org/10.1007/s11211-019-00336-6)
 
-Martínez, M. L., Cumsille, P., Loyola, I., & Castillo, J.-C. (2020). Patterns of Civic and Political Commitment in Early Adolescence. The Journal of Early Adolescence, 40(1), 5–27. https://doi.org/10.1177/0272431618824714
+[Martínez, M. L., Cumsille, P., Loyola, I., & Castillo, J.-C. (2020). Patterns of Civic and Political Commitment in Early Adolescence. The Journal of Early Adolescence, 40(1), 5–27. https://doi.org/10.1177/0272431618824714](https://doi.org/10.1177/0272431618824714)
 
-Castillo, J.-C., Olivos, F., & Azar, A. (2019). Deserving a Just Pension: A Factorial Survey Approach. Social Science Quarterly, 100(1), 359–378.
+[Castillo, J.-C., Olivos, F., & Azar, A. (2019). Deserving a Just Pension: A Factorial Survey Approach. Social Science Quarterly, 100(1), 359–378.](http://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12539)
 
-Atria, J., Castillo, J.-C., Maldonado, L., Ramírez, S. (2019). Studying meritocracy in an unequal context: Perspectives from chilean scholars. Universum, 34(2), 127–145. https://doi.org/10.4067/S0718-23762019000200127
+[Atria, J., Castillo, J.-C., Maldonado, L., Ramírez, S. (2019). Studying meritocracy in an unequal context: Perspectives from chilean scholars. Universum, 34(2), 127–145. https://doi.org/10.4067/S0718-23762019000200127](https://doi.org/10.4067/S0718-23762019000200127)
 
-Castillo, J. C., Torres, A., Atria, J., & Maldonado, L. (2019). Meritocracia y desigualdad económica: Percepciones, preferencias e implicancias. Revista Internacional de Sociología, 77(1), 117. https://doi.org/10.3989/ris.2019.77.1.17.114
+[Castillo, J. C., Torres, A., Atria, J., & Maldonado, L. (2019). Meritocracia y desigualdad económica: Percepciones, preferencias e implicancias. Revista Internacional de Sociología, 77(1), 117. https://doi.org/10.3989/ris.2019.77.1.17.114](https://doi.org/10.3989/ris.2019.77.1.17.114)
 
-Azar, A., Maldonado, L., Castillo, JC & Atria, J. (2018) Income, Egalitarianism, and Attitudes Towards Healthcare Policy: A Study on Public Attitudes in 29 Countries. Public Health 154:59-69 (ISI).
+[Azar, A., Maldonado, L., Castillo, JC & Atria, J. (2018) Income, Egalitarianism, and Attitudes Towards Healthcare Policy: A Study on Public Attitudes in 29 Countries. Public Health 154:59-69](https://www.sciencedirect.com/science/article/pii/S0033350617303281) (ISI).
 
-Guerra, C. & Castillo, J (2016) Sintomatología en adolescentes victimizados sexualmente: El rol del apoyo de la familia y del grupo de pares. Revista sobre la infancia y la adolescencia, 11:66-80 (Latindex).
+[Guerra, C. & Castillo, J (2016) Sintomatología en adolescentes victimizados sexualmente: El rol del apoyo de la familia y del grupo de pares. Revista sobre la infancia y la adolescencia, 11:66-80](https://polipapers.upv.es/index.php/reinad/article/view/4478) (Latindex).
 
-Schneider, S. & Castillo, J. (2015) Poverty attributions and the perceived legitimacy of income inequalities: A comparison of East and West Germany. Social Psycholgy Quarterly 78(3):263-282 (ISI).
+[Schneider, S. & Castillo, J. (2015) Poverty attributions and the perceived legitimacy of income inequalities: A comparison of East and West Germany. Social Psycholgy Quarterly 78(3):263-282](https://doi.org/10.1177/0190272515589298) (ISI).
 
-Castillo, J., Joignant, A., Palacios, D., & Tham, M. (2015) Inequality, distributive justice and political participation. Bulletin of Latin American Research 34(4)486-50 (ISI).
+[Castillo, J., Joignant, A., Palacios, D., & Tham, M. (2015) Inequality, distributive justice and political participation. Bulletin of Latin American Research 34(4)486-50](https://onlinelibrary.wiley.com/doi/abs/10.1111/blar.12369) (ISI).
 
-Bascopé, M., Bonhomme, M., Cox, C., Castillo, J., Miranda, D. (2015) Curricular Guidelines and Citizenship Education in Latin American Schools. Revista Latinoamericana de Ciencias Sociales, Niñez & Juventud 13(2):1169-1190 (Scielo).
+[Bascopé, M., Bonhomme, M., Cox, C., Castillo, J., Miranda, D. (2015) Curricular Guidelines and Citizenship Education in Latin American Schools. Revista Latinoamericana de Ciencias Sociales, Niñez & Juventud 13(2):1169-1190](http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S1692-715X2015000200044&lng=en&nrm=iso&tlng=en) (Scielo).
 
-Zmerli, S. & Castillo, J. (2015) Inequality and political trust. How objective and subjective inequality affects Latin American democracies. Social Science Research 72, 179-192 (ISI).
+[Zmerli, S. & Castillo, J. (2015) Income inequality, distributive fairness and political trust in Latin America. Social Science Research 72, 179-192](http://www.sciencedirect.com/science/article/pii/S0049089X15000538) (ISI).
 
-Castillo, J., Cox, C., Miranda, D., Bascopé, M. & Bonhomme, M. (2014) Mitigating the Political Participation Gap from the School: The Roles of Civic Knowledge and Classroom Climate. Journal of Youth Studies 18 (1) 16-35 (ISI).
+[Castillo, J., Cox, C., Miranda, D., Bascopé, M. & Bonhomme, M. (2014) Mitigating the Political Participation Gap from the School: The Roles of Civic Knowledge and Classroom Climate. Journal of Youth Studies 18 (1) 16-35](https://doi.org/10.1080/13676261.2014.933199) (ISI).
 
-Castillo, J., Cox, C., Miranda, D., Bascopé, M. & Bonhomme, M. (2014) Social inequality and changes in students’ expected political participation in Chile. Education, citizenship & social justice 9 (2) 140-156 (SCOPUS).
+[Castillo, J., Cox, C., Miranda, D., Bascopé, M. & Bonhomme, M. (2014) Social inequality and changes in students’ expected political participation in Chile. Education, citizenship & social justice 9 (2) 140-156](https://doi.org/10.1177/1746197914520650) (SCOPUS).
 
-Factor, R., Castillo, J. & Rattner, A (2014) Procedural justice, religiosity and minorities. Police Practice and Research 15 (2) 130-142 (SCOPUS).
+[Factor, R., Castillo, J. & Rattner, A (2014) Procedural justice, religiosity and minorities. Police Practice and Research 15 (2) 130-142](https://doi.org/10.1080/15614263.2013.874171) (SCOPUS).
 
-Castillo, J., Miranda, D. & Madero, I. (2013) Todos somos de clase media: Sobre el estatus social subjetivo en Chile. Latin American Research Review 48(1) 155-173 (ISI).
+[Castillo, J., Miranda, D. & Madero, I. (2013) Todos somos de clase media: Sobre el estatus social subjetivo en Chile. Latin American Research Review 48(1) 155-173](http://muse.jhu.edu/content/crossref/journals/latin_american_research_review/v048/48.1.castillo.html) (ISI).
 
-Preiss, D., Castillo, J., Flotts, P. & San Martin, E (2013). Assessment of argumentative writing and critical thinking in higher education: Educational correlates and gender differences. Learning and Individual Differences 28, 193-203 (ISI).
+[Preiss, D., Castillo, J., Flotts, P. & San Martin, E (2013). Assessment of argumentative writing and critical thinking in higher education: Educational correlates and gender differences. Learning and Individual Differences 28, 193-203](https://www.sciencedirect.com/science/article/pii/S1041608013000794) (ISI).
 
-Preiss, D., Castillo, J., Grigorenko, H. & Manzi, J. (2013) Argumentative writing and academic achievement: A longitudinal study. Learning and Individual Differences 28, 204-211 (ISI).
+[Preiss, D., Castillo, J., Grigorenko, H. & Manzi, J. (2013) Argumentative writing and academic achievement: A longitudinal study. Learning and Individual Differences 28, 204-211](https://www.sciencedirect.com/science/article/pii/S104160801200194X) (ISI).
 
-Castillo, J. (2012) Una aproximación multidimensional al estudio de la legitimidad de la desigualdad económica. Revista Internacional de Sociología 3(70) 533-560 (ISI).
+[Castillo, J. (2012) La legitimidad de las desigualdades salariales. Una aproximación multidimensional. Revista Internacional de Sociología 3(70) 533-560](http://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/view/476/497) (ISI).
 
-Castillo, J. Leal, P., Madero I. & Miranda, D. (2012) ¿Son los chilenos igualmente solidarios? La influencia de los recursos personales en las donaciones de dinero. Opinao Publica 18(1) 154-176 (SCOPUS).
+[Castillo, J. Leal, P., Madero I. & Miranda, D. (2012) ¿Son los chilenos igualmente solidarios? La influencia de los recursos personales en las donaciones de dinero. Opinao Publica 18(1) 154-176](http://www.scielo.br/j/op/a/7GxBrSwzvQJCZSGTVgZ3vjg/?lang=es) (SCOPUS).
 
-Castillo, J. (2012) Is inequality becoming just? Changes in public opinion about economic distribution in Chile. Bulleting of Latin American Research 31(1) 1-18 (ISI).
+[Castillo, J. (2012) Is inequality becoming just? Changes in public opinion about economic distribution in Chile. Bulleting of Latin American Research 31(1) 1-18](https://onlinelibrary-wiley-com.uchile.idm.oclc.org/doi/full/10.1111/j.1470-9856.2011.00605.x) (ISI).
 
-Castillo, J. (2011) Legitimacy of inequality in a highly unequal context: Evidence from the chilean case. Social Justice Research 24(4) 314-340 (ISI).
+[Castillo, J. (2011) Legitimacy of inequality in a highly unequal context: Evidence from the chilean case. Social Justice Research 24(4) 314-340](https://link.springer.com/article/10.1007/s11211-011-0144-5) (ISI).
 
-## 8.2. OTROS ESCRITOS E INFORMES.
+## 8.2. Otros escritos e informes.
 
-2023- Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados \[Documentos de Proyecto (LC/TS.2022/3)\]. CEPAL.
+2023 - [Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Documentos de Proyecto (LC/TS.2022/3). CEPAL.](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados)
 
-2017 – Consultoría UNESCO: Análisis de resultados de pruebas de Ciudadanía y convivencia en escuelas de Bogotá, realizado para el informe de Evaluación del Proyecto Educación para la Ciudadanía y la Convivencia (PECC).
+2017 – [Consultoría UNESCO: Análisis de resultados de pruebas de Ciudadanía y convivencia en escuelas de Bogotá, realizado para el informe de Evaluación del Proyecto Educación para la Ciudadanía y la Convivencia (PECC).](anexos/varios/TdRUNESCO.pdf)
 
 2017 – Consultoría para la Agencia de Calidad de la Educación: Elaboración de preguntas para el módulo de Participación y Vida Democrática de los Indicadores de Desarrollo personal y Social (IDPS).
 
@@ -754,81 +764,95 @@ Castillo, J. (2011) Legitimacy of inequality in a highly unequal context: Eviden
 
 2015 – Consultoría para la Agencia de Calidad de la Educación: Revisión de aspectos conceptuales y metodológicos del Indicador de Participación y Vida Democrática.
 
-## 8.3. PONENCIAS A CONGRESOS.
+## 8.3. Ponencias a congresos.
 
-Castillo, J.-C. (2024a, January). Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación \[Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso\]. https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta
+Cuando están disponibles, el enlace lleva a la constancia de participación. Si no están disponibles, lleva a las slides de la presentación.
 
-Castillo, J.-C. (2024b, January). Social cohesion and attitudinal changes toward migration \[GlobaLab Bremen Conversations on Global Solidarity\].
+[Castillo, J.-C, Tobar, N. (2024). ¿Las estudiantes subestiman sus habilidades tecnológicas? Diferencias de género en autoeficacia digital en contextos escolares chilenos. Congreso Chileno de Sociología - PreAlas. Santiago](https://nudos.quarto.pub/prealas-2024/#/las-estudiantes-subestiman-sus-habilidades-tecnol%C3%B3gicas)
 
-Castillo, J.-C. (2024c, April). Social Inequalities in the Global South \[Inequality Conference - Exellence Cluster The Politics of Inequality\]. https://inequality-conference.de/session/roundtable-global-south-tbd/
+[Castillo, J.-C, Carrasco, K. (2024). Meritocracia y justificación de desigualdad en la etapa escolar: Un experimento de encuesta. Congreso Chileno de Sociología - PreAlas. Santiago.](https://educacion-meritocracia.github.io/experimento/presentations/sociologia2024/sociologia2024.html#1)
 
-Maldonado, L., Castillo, J.-C., & Iturra, J. (2024, April). Does information about inequality affects opportunity beliefs? Results from a survey experiment \[Poster presented at the Inequality Conference - Exellence Cluster The Politics of Inequality\]. https://inequality-conference.de/
+[Castillo, J.-C, Carrasco, K., Ortiz, C. (2024).  Barreras para la Ciencia Abierta en la investigación en Ciencias Sociales en Chile. Congreso Chileno de Sociología - PreAlas. Santiago.](https://lisa-coes.github.io/presentaciones/congreso-sociologia-stgo-Mayo2024/congreso-sociologia-stgo-Mayo2024.html#1)
 
-Iturra, J., Castillo, J.-C., & Maldonado, L. (2023, July). Perceptions and preferences about income taxes: A factorial survey approach \[ESRA\].
+[Castillo, J.-C. (2024a, January). Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta)
 
-Castillo, J.-C. (2023a, January). Diseño y gestión de proyectos de investigación abiertos \[Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central\].
+[Castillo, J.-C. (2024b, January). Social cohesion and attitudinal changes toward migration. GlobaLab Bremen Conversations on Global Solidarity.](https://ocscoes.github.io/presentaciones/global-solidarities-Jan2024/bremen_global_sol2024.html)
 
-[Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/conferencista_2023.pdf)
+[Castillo, J.-C. (2024c, April). Social Inequalities in the Global South. Inequality Conference - Exellence Cluster The Politics of Inequality.](https://inequality-conference.de/session/roundtable-global-south-tbd/)
 
-[Castillo, J.-C. (2023c, nov). Presentación en mesa "Desigualdades reconsideradas: legitimidad, brechas y clases sociales". X Conferencia Internacional COES. Santiago, Chile](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/Diploma_COES.pdf)
+[Maldonado, L., Castillo, J.-C., & Iturra, J. (2024, April). Does information about inequality affects opportunity beliefs? Results from a survey experiment. Poster presented at the Inequality Conference - Exellence Cluster The Politics of Inequality.](https://inequality-conference.de/)
 
-Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective \[ISA XX World Congress of Sociology\].
+[Iturra, J., Castillo, J.-C., & Maldonado, L. (2023, July). Perceptions and preferences about income taxes: A factorial survey approach. ESRA.](https://justicia-distributiva.github.io/factorial-impuestos/presentations/ESRA-milan-2023/presentation-esra-2023.html#1)
 
-Castillo, J.-C., & Carrasco, K. (2023a, Agosto). Brechas de género en la percepción y justificación de desigualdad salarial en Chile 1999-2019. \[Conferencia DEMOSAL\].
+[Castillo, J.-C. (2023a, January). Diseño y gestión de proyectos de investigación abiertos. Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central.](https://lisa-coes.github.io/presentaciones/flujo-UCEN-Ene2023/UCEN-Ene2023.html#1)
 
-Castillo, J.-C., & Carrasco, K. (2023b, June). The socialization of meritocracy at school and the justification of economic inequality \[ISA XX World Congress of Sociology\].
+[Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile.](anexos/conferencias/conferencista_2023.pdf)
 
-Castillo, J.-C., Carrasco, K., & Iturra, J. (2023, July). Perceived salary and gender gaps in survey research \[ESRA\].
+[Castillo, J.-C. (2023c, nov). Presentación en mesa "Desigualdades reconsideradas: legitimidad, brechas y clases sociales". X Conferencia Internacional COES. Santiago, Chile](anexos/conferencias/Diploma_COES.pdf)
 
-Castillo, J.-C., Carrasco, K., & Salgado, M. (2023, June). The socialization of meritocracy at school and the justification of economic inequality \[EFFORT Conference\].
+[Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective. ISA XX World Congress of Sociology.](https://ocscoes.github.io/presentaciones/ISA-Melbourne-2023.html)
 
-Castillo, J.-C., Carrasco, K., Salgado, M., Moyano, C., & Angelcos, N. (2023, Agosto). Socialización de la meritocracia en la escuela y justificación de la desigualdad económica \[Conferencia DEMOSAL\].
+[Castillo, J.-C., & Carrasco, K. (2023a, Agosto). Brechas de género en la percepción y justificación de desigualdad salarial en Chile 1999-2019. Conferencia DEMOSAL.](https://justicia-distributiva.github.io/brechas-genero/presentations/DEMOSAL2023/DEMOSAL2023.html#1)
 
-[Amante, D., Martínez-Muñoz, M. & Castillo, J.-C (2023, Mayo). Hacia una medida global de las preferencias redistributivas en entornos de gran desigualdad. V Congreso Ibero-Latinoamericano de Psicología Política. Online](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/AMANTE_etal539.pdf)
+[Castillo, J.-C., & Carrasco, K. (2023b, June). The socialization of meritocracy at school and the justification of economic inequality ISA XX World Congress of Sociology.](https://educacion-meritocracia.github.io/meritocracia-escuela-agencia/presentations//ISA-Melbourne2023/ISA2023.html)
 
-Castillo, J.-C. (2022a, Enero). Protocolos reproducibles y reportes dinámicos con R / Rmarkdown \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html
+[Castillo, J.-C., Carrasco, K., & Iturra, J. (2023, July). Perceived salary and gender gaps in survey research ESRA.](https://justicia-distributiva.github.io/brechas-genero/presentations/ESRA2023/ESRA2023.html#1)
 
-Castillo, J.-C. (2022b, March 29). Presentación Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados \[Presentación Seminario CEPAL-COES\]. https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html
+[Castillo, J.-C., Carrasco, K., & Salgado, M. (2023, June). The socialization of meritocracy at school and the justification of economic inequality. EFFORT Conference.](https://educacion-meritocracia.github.io/meritocracia-escuela-agencia/presentations/EFFORT-Madrid-Jun2023/effort2023.html#1)
 
-Castillo, J.-C. (2022c, June 2). Herramientas para la apertura del flujo de investigación científica \[Presentación en el seminario: Ciencia abierta, ¿es ciencia accesible?. Universidad Iberoamericana Ciudad de México\]. https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html
+[Castillo, J.-C., Carrasco, K., Salgado, M., Moyano, C., & Angelcos, N. (2023, Agosto). Socialización de la meritocracia en la escuela y justificación de la desigualdad económica Conferencia DEMOSAL.](https://educacion-meritocracia.github.io/meritocracia-escuela-agencia/presentations/demosal2023/demosal2023.html)
 
-Castillo, J.-C. (2022d, September 22). Percepciones de desigualdad en Chile \[Comentario en Seminario: ¿Cuánto cambiaron las percepciones de desigualdad tras el estallido social?\]. /presentations/cep-desigualdad-2022/cep-percdes-2022.html
+[Amante, D., Martínez-Muñoz, M. & Castillo, J.-C (2023, Mayo). Hacia una medida global de las preferencias redistributivas en entornos de gran desigualdad. V Congreso Ibero-Latinoamericano de Psicología Política. Online](anexos/conferencias/AMANTE_etal539.pdf)
 
-[Castillo, J.-C (2022e, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales, Ciudad de México](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/certificado_participanteCLACSO.pdf)
+[Castillo, J.-C. (2022a, Enero). Protocolos reproducibles y reportes dinámicos con R / Rmarkdown. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html)
 
-Castillo, J.-C., & Bargsted, M. (2022, January 21). Measurement and Analysis of Social Cohesion \[Research Institute Social Cohesion - Jahrestagung Forschungscluster 2\]. https://ocscoes.github.io/presentaciones/RISC-bremen-january2022.html
+[Castillo, J.-C. (2022b, March 29). Presentación Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Presentación Seminario CEPAL-COES.](https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html)
 
-Castillo, J.-C., & Carrasco, K. (2022, September). Taller Preregistros ELSOC \[Laboratorio de Investigación Social Abierta (LISA) - COES\]. https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html
+[Castillo, J.-C. (2022c, June 2). Herramientas para la apertura del flujo de investigación científica. Presentación en el seminario: Ciencia abierta, ¿es ciencia accesible?. Universidad Iberoamericana Ciudad de México.](https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html)
 
-Castillo, J.-C., & Iturra, J. (2022, Enero). Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints \[Laboratorio de Investigación Social Abierta (LISA) – COES\]. https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html
+[Castillo, J.-C. (2022d, September 22). Percepciones de desigualdad en Chile. Comentario en Seminario: ¿Cuánto cambiaron las percepciones de desigualdad tras el estallido social?.](https://jc-castillo.com/presentations/cep-desigualdad-2022/cep-percdes-2022.html#1)
 
-Miranda, D., & Castillo, J.-C. (2022, October). Youth dispositions to participate in disruptive and pacific actions \[Conferece INVALSI data - A tool for teaching and scientific research\].
+[Castillo, J.-C (2022e, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales, Ciudad de México](anexos/conferencias/certificado_participanteCLACSO.pdf)
 
-[Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/demosal1.jpg)
+[Castillo, J.-C., & Bargsted, M. (2022, January 21). Measurement and Analysis of Social Cohesion. Research Institute Social Cohesion - Jahrestagung Forschungscluster 2.](https://ocscoes.github.io/presentaciones/RISC-bremen-january2022.html)
 
-[Castillo, J.-C (2021). Desafiando las creencias meritocráticas: dime a quién conocer y te diré qué crees. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/demosal2.jpg)
+[Castillo, J.-C., & Carrasco, K. (2022, September). Taller Preregistros ELSOC. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html)
 
-[Castillo, J.-C (2021). Expositor en la VII Reunión Latinoamericana de Análisis de Redes Sociales (Nov. 15-19). Online.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/Certificado_Castillo_Exp.jpg)
+[Castillo, J.-C., & Iturra, J. (2022, Enero). Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) – COES.](https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html)
 
-Castillo, J.-C., Carrasco, K., & Cáceres, I. (2021, September 30). Concepts and measurement of social cohesion in international perspective \[3rd Akademie für Soziologie (AS) Conference: Cohesive Societies? Analytical-empirical Perspectives\]. https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html
+[Miranda, D., & Castillo, J.-C. (2022, October). Youth dispositions to participate in disruptive and pacific actions. Conferece INVALSI data - A tool for teaching and scientific research.](https://jc-castillo.com/presentations/invalsi-2022/INVALSI_2022-focused-on-radical-.html)
 
-Castillo, J.-C., Iturra, J., Meneses, F., & Venegas, M. (2021, November). Socialización de la meritocracia: El rol de la familia y la escuela. VIII Conferencia Internacional COES: Cohesión Social en tiempos turbulentos, Santiago. https://formacionciudadana.github.io/presentations/coes2021/soc-merit/coes2021.html#1
+[Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5).](anexos/conferencias/demosal1.jpg)
 
-Iturra, J., & Castillo, J.-C. (2020, June). Dinámicas de legitimación: Percepción de desigualdad actual y justificación de desigualdad futura \[Seminario ELSOC Cambio Social en Chile\]. https://jciturras.github.io/dinamic-legit/slides/dinamic-legit_elsoc.html#1
+[Castillo, J.-C (2021). Desafiando las creencias meritocráticas: dime a quién conocer y te diré qué crees. VI Seminario internacional DEMOSAL (Nov. 3-5).](anexos/conferencias/demosal2.jpg)
 
-[Castillo, J.-C. (2020). Percepción y justificación de desigualdad económica. Taller Internacional "Rethinking Inequality: Its Causes, Perceptions and Politics" (Enero, 23). Komaba, UTokyo, Japon.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/CONSTANCIA_tokio_lainac.pdf)
+[Castillo, J.-C (2021). Expositor en la VII Reunión Latinoamericana de Análisis de Redes Sociales (Nov. 15-19). Online.](anexos/conferencias/Certificado_Castillo_Exp.jpg)
 
-[Castillo, JC. (2019) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/castillo_certificateispp2019.pdf)
+[Castillo, J.-C., Carrasco, K., & Cáceres, I. (2021, September 30). Concepts and measurement of social cohesion in international perspective. 3rd Akademie für Soziologie (AS) Conference: Cohesive Societies? Analytical-empirical Perspectives.](https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html)
+
+[Castillo, J.-C., Iturra, J., Meneses, F., & Venegas, M. (2021, November). Socialización de la meritocracia: El rol de la familia y la escuela. VIII Conferencia Internacional COES: Cohesión Social en tiempos turbulentos, Santiago.](https://formacionciudadana.github.io/presentations/coes2021/soc-merit/coes2021.html#1)
+
+[Iturra, J., & Castillo, J.-C. (2020, June). Dinámicas de legitimación: Percepción de desigualdad actual y justificación de desigualdad futura. Seminario ELSOC Cambio Social en Chile.](https://jciturras.github.io/dinamic-legit/slides/dinamic-legit_elsoc.html#1)
+
+[Castillo, J.-C. (2020). Percepción y justificación de desigualdad económica. Taller Internacional "Rethinking Inequality: Its Causes, Perceptions and Politics" (Enero, 23). Komaba, UTokyo, Japon.](anexos/conferencias/CONSTANCIA_tokio_lainac.pdf)
+
+[Castillo, JC. (2019a). Desigualdad económica y su influencia sobre la percepción de diferencias de ingreso legítimas. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](anexos/conferencias/constanciaDEMOSAL.pdf)
+
+[Castillo, JC. (2019b). Economía moral de la meritocracia en Chile: percepciones y creencias de la clase alta. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](anexos/conferencias/constanciaDEMOSAL.pdf)
+
+[Castillo, JC. (2019c). Intereses fluidos: movilidad social y preferencias por la redistribución en perspectiva comparada. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](anexos/conferencias/constanciaDEMOSAL.pdf)
+
+[Castillo, JC. (2019d) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal](anexos/conferencias/castillo_certificateispp2019.pdf)
 
 Castillo, JC. (2018) Open academic writing: An Atom-based workflow for social scientists. SocArxiv: Open Social Science Scholarship Conference (Oct. 17-18). University of Maryland.
 
-[Castillo, JC. (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-1.pdf)
+[Castillo, JC. (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](anexos/conferencias/ponencias-1.pdf)
 
-[Atria, J. & Castillo, JC. (2018) The moral economy of Merit and Meritocracy: An analysis of the chilean lower-and middle-class. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-2.pdf)
+[Atria, J. & Castillo, JC. (2018) The moral economy of Merit and Meritocracy: An analysis of the chilean lower-and middle-class. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center](anexos/conferencias/ponencias-2.pdf)
 
 Castillo, JC. & Jaime-Castillo, A. (2018) Reciprocity and Distributive Justice. Joint session organized for the Research Committee 42 (Social Psychology) and 45 (Rational Choice) at the Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center
 
-[Castillo, JC. (2017) Percepciones y legitimación de la desigualdad: Mérito e Instituciones. Panel Congreso Latinoamericano de Sociología (Diciembre 2-7). Montevideo, Universidad de la República.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-3.pdf)
+[Castillo, JC. (2017) Percepciones y legitimación de la desigualdad: Mérito e Instituciones. Panel Congreso Latinoamericano de Sociología (Diciembre 2-7). Montevideo, Universidad de la República.](anexos/conferencias/ponencias-3.pdf)
 
 Castillo, JC. (2017) Meritocracia y preferencias redistributivas. Panel Conferencia COES (Noviembre 8-9. Viña del Mar, Universidad Adolfo Ibañez.
 
@@ -836,9 +860,9 @@ Castillo, JC. (2017) Meritocratic beliefs and economic inequality. Colloquium of
 
 Castillo, JC. & Miranda, D. (2017) Class and Status as Predictors of Inclusive Attitudes Towards Immigrants, Minorities and Gender. 7th IEA International Research Conference (IRC) (June 28-30). Prague, Charles University.
 
-[Castillo, JC. (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-5.pdf)
+[Castillo, JC. (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](anexos/conferencias/ponencias-5.pdf)
 
-[Castillo, JC. (2016) Distributive Preferences and Types of Participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-7.pdf)
+[Castillo, JC. (2016) Distributive Preferences and Types of Participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.](anexos/conferencias/ponencias-7.pdf)
 
 Castillo, JC. & Miranda, D. (2015) Origen social, conocimiento cívico y participación en la escuela. CIEP - Congreso Internacional de Educación y Pobreza (January 08 - 10) Villarrica, Chile.
 
@@ -846,7 +870,7 @@ Miranda, D. & Castillo, JC. (2015) Lo civil y lo civico: Hacia un modelo concept
 
 Castillo, J., Olivos, F. & Azar, A. (2015) Justice of pensions: A factorial survey approach. Paper presented at the Congress of the World Association for Public Opinion Research – WAPOR (June 16-19). Buenos Aires, Argentina.
 
-[Castillo, J. (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-8.pdf)
+[Castillo, J. (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.](anexos/conferencias/ponencias-8.pdf)
 
 Castillo, J. (2014) Economic inequality, social justice and political participation in Latin America. Poster presented at the Herrenhausen Conference: “Re-thinking Social Inequality” (May 12-14) Herrenausen Palace, Hannover, Germany.
 
@@ -876,7 +900,7 @@ Castillo, J. (2009). Herkunftsbedingte Disparitäten im Hochschulzugang in Chile
 
 Castillo, J. (2009). Perception and Legitimacy of Economic Inequality in Chile. Paper presented at the 5th ECPR General Conference (Sept. 10-12). Potsdam: Potsdam University.
 
-[Castillo, J. (2009). What are Just Salaries for Different Occupations in Chile? Paper presented at the 21st World Congress of Political Science – IPSA (July 12-16). Santiago de Chile: Universidad de Chile.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-9.pdf)
+[Castillo, J. (2009). What are Just Salaries for Different Occupations in Chile? Paper presented at the 21st World Congress of Political Science – IPSA (July 12-16). Santiago de Chile: Universidad de Chile.](anexos/conferencias/ponencias-9.pdf)
 
 Castillo, J. (2009). Consensus and Legitimacy of Earnings Inequality. Presentation at the International Social Justice Project Workshop (May 6-10). Haifa: Haifa University, Israel.
 
@@ -884,31 +908,31 @@ Castillo, J., Gerlitz, J., & Schrenker, M. (2008). Perception and Legitimacy of 
 
 Castillo, J. (2008). On the Justice of Occupational Earnings in Chile: A Factorial Survey Analysis. Presentation at the 12th Conference of the International Society for Justice Research (August 14-17). Adelaide: Flinders University.
 
-[Castillo, J., & Schneider, S. (2008). The Legitimacy of the Distributive System: A Comparison of Germany and Chile. Paper presented at the 31st Conference of the International Society of Political Psychology – ISPP (July 9-12). Paris: Sciences Po.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-11.pdf)
+[Castillo, J., & Schneider, S. (2008). The Legitimacy of the Distributive System: A Comparison of Germany and Chile. Paper presented at the 31st Conference of the International Society of Political Psychology – ISPP (July 9-12). Paris: Sciences Po.](anexos/conferencias/ponencias-11.pdf)
 
 Castillo, J., Mühleck, K., & Wegener, B. (2008). The Empirical Approach to the Study of Social Justice: A Research Agenda for Latin America. Paper presented at the conference Intra- and inter- generational Transmission of Inequality (Feb. 28-29). Mexico: Regional Bureau for Latin America and the Caribbean of United Nations Development Program (RBLAC-UNDP).
 
 Castillo, J. (2007). Explanations of Poverty: A Comparison of Germany, the Czech Republic and Chile. Persentation at the International Social Justice Project Workshop (April 27-28). Budapest: Social Sciences Faculty, Eötvös Loránd University.
 
-[Castillo, J. (2007). Legitimation and Justice Ideologies in Contexts of Extreme Economic Inequalities. Paper presented at the 30th Conference of the International Society of Political Psychology – ISPP (July 4-7). Portland: Embassy Suites Hotel.](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/conferencias/ponencias-12.pdf)
+[Castillo, J. (2007). Legitimation and Justice Ideologies in Contexts of Extreme Economic Inequalities. Paper presented at the 30th Conference of the International Society of Political Psychology – ISPP (July 4-7). Portland: Embassy Suites Hotel.](anexos/conferencias/ponencias-12.pdf)
 
 Castillo, J. (2007). Justice Ideologies and Attributions of Poverty in Comparative Perspective. Paper presented at the conference Law and Society in the 21st Century (July 15-28). Berlin: Humboldt University.
 
-## ACTIVIDADES ACADÉMICAS QUE DESARROLLA A LA FECHA DE ESTE CURRÍCULO FUERA DE LA UNIVERSIDAD DE CHILE: Indique institución o entidad, cargo que desempeña, breve descripción de la actividad que realiza y horas semanales de dedicación.
+## Actividades académicas que desarrolla a la fecha de este currículo fuera de la Universidad de Chile:
 
-## ACTIVIDAD PROFESIONAL: Señale las actividades profesionales en que haya participado y que, a su juicio, han contribuido a su actividad académica. Indicar, si fuere el caso, el nombre de la institución donde haya prestado servicios, tipo de actividad, objetivo de la misma y horas de dedicación semanal.
+## Actividad profesional
 
 -   ver punto 4 cronología laboral
 
-## ADMINISTRACIÓN NO UNIVERSITARIA: Profesional, científica, cultural, gremial u otras. Consigne la institución, el cargo, lapso de desempeño y otros antecedentes que estime pertinentes.
+## Administración no universitaria:
 
-## SOCIEDADES ARTÍSTICAS, CIENTÍFICAS, ETC.:
+## Sociedades artísticas, científicas, etc.:
 
-## RECONOCIMIENTO DE LA OBRA PUBLICADA:
+## Reconocimiento de la obra publicada:
 
 Lo que puedo mencionar aquí son algunos logros alcanzados en la plataforma Researchgate.com, donde difundo parte de mi trabajo académico. Durante este año 2018, en varias ocasiones mis trabajos han sido los más leídos de mi instituto, acumulando a la fecha más de 7000 lecturas. Mi artículo “¿Cuál es la brecha salarial justa?” posee a la fecha más de 1000 lecturas.
 
-## REFERENCIAS:
+## Referencias:
 
 Nacionales:
 
@@ -924,15 +948,15 @@ Nacionales:
 
 Internacionales:
 
--   Prof. Sonja Zmerli, Sciences Po Grenoble. <https://www.sciencespo-grenoble.fr/membres/zmerli-sonja/>
+-   [Prof. Sonja Zmerli, Sciences Po Grenoble.](https://www.sciencespo-grenoble.fr/membres/zmerli-sonja/)
 
--   Prof. Leslie McCall, Associate Director, Stone Center on Socio Economic Inequality. The Graduate Center, City University of New York. <https://stonecenter.gc.cuny.edu/people/mccall-leslie/>
+-   [Prof. Leslie McCall, Associate Director, Stone Center on Socio Economic Inequality. The Graduate Center, City University of New York.](https://stonecenter.gc.cuny.edu/people/mccall-leslie/)
 
--   Prof. Olaf Groh-Samberg, Research Institute on Social Cohesion, University of Bremen. <https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/olaf-groh-samberg/>
+-   [Prof. Olaf Groh-Samberg, Research Institute on Social Cohesion, University of Bremen.](https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/olaf-groh-samberg/)
 
-# CREATIVIDAD ACADÉMICA:
+# Creatividad académica:
 
-## JERARQUIZACIÓN DE PROYECTOS:
+## Jerarquización de proyectos:
 
 Mi proyecto más importante de los últimos 9 años es el Centro de Estudios de Conflicto y Cohesión Social – COES, donde fui subdirector y actualmente investigador principal. Este centro es una iniciativa financiada por FONDAP-CONICYT y reúne a más de 40 investigadores de la Universidad de Chile y Universidad Católica, como instituciones principales, y Universidad Diego Portales y Adolfo Ibañez como instituciones asociadas. El trabajo en COES ha implicado montar una serie de procedimientos y formas de colaboración académica orientadas al trabajo interdisciplinario en ciencias sociales en Chile, junto con exigentes metas de publicación de alto impacto. Al cabo de 9 años hemos logrado posicionarnos en el medio nacional e internacional, insertar capital humano avanzado, realizar capacitación y un gran número de actividades de difusión, lo que ha resultado muy satisfactorio en términos profesionales. En el marco de COES he desarrollado mi investigación en la relación entre meritocracia y redistribución, así como también en la transmisión intergeneracional de la desigualdad política, ambos financiados con proyectos FONDECYT.
 
@@ -940,7 +964,7 @@ Mi línea de investigación principal en justicia distributiva ha sido artícula
 
 Mi línea de investigación secundaria también se a relacionado con proyectos Fondecyt donde he participado como coinvestigador de Cristián Cox: Socialización política y experiencia escolar - Chile en contexto internacional (2012-2015), y Socialización política y educación para la ciudadanía - El rol de la familia y de la escuela (2018-2021). Actualmente desarrollo investigación que vincula formación ciudadana con desigualdades digitales en el Núcleo Milenio en Oportunidades y Desigualdades Digitales -NUDOS (2023-2025), donde soy investigador principal y donde participa parte del equipo de formación ciudadana de los proyectos Fondecyt anteriores.
 
-## ASPECTOS GLOBALES DE LA OBRA EXPUESTA:
+## Aspectos globales de la obra expuesta:
 
 En este apartado lo he organizado en torno a tres áreas principales de desempeño y proyección académica: docencia, investigación y extensión.
 
@@ -964,7 +988,7 @@ Mi agenda en temas de investigación se proyecta en tres temas principales asoci
 
 La mayor parte de mis labores de formación y de extensión se vinculan con la promoción de la ciencia abierta. Junto con haber diseñado y desarrollado el curso de Investigación Social Abierta para pregrado en FACSO (https://cienciasocialabierta.netlify.app/), también he sido invitado a una serie de charlas en distintas universidades, he colaborado con el repositorio de pre-prints de ciencias sociales SocArxiv, y he estado liderando el Laboratorio de Investigación Social Abierta LISA (https://lisa-coes.com/). Desde este espacio hemos logrado sistematizar y promover una serie de prácticas y herramientas de ciencia abierta en las distintas etapas del ciclo de investigación. También hemos creado herramientas como el protocolo de investigación reproducible IPO (https://lisa-coes.com/ipo-repro/), que es una propuesta de organización de la información en proyectos de investigación. El último año desarrollamos una encuesta de conocimiento y prácticas de ciencia abierta para academicas y academicos de ciencias sociales, cuyos datos actualmente nos encontramos analizado y próximamente publicaremos. Finalmente, en la actualidad soy coordinador del subcomité de datos abiertos de la Vicerrectoría de Investigación (VID), donde me invitaron en el marco del proyecto Ines Ciencia Abierta de ANID con el objetivo de desarrollar un reglamento de uso de datos abiertos para la universidad.
 
-# ANTECEDENTES ADICIONALES
+# Antecedentes adicionales
 
 **Estadías de investigación y visitas como profesor (visiting professor)**:
 
@@ -974,15 +998,15 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Invitación a profesor visitante en Sciences Po Grenoble, con la profesora Sonja Zmerli en Diciembre de 2020 (cancelada por pandemia).
 
-• [Profesor visitante en Departamento de Macrosociología](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-5.pdf), Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
+• [Profesor visitante en Departamento de Macrosociología](anexos/estadias/estadiasinvestigacion-5.pdf), Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
 
-• [Profesor visitante en Bremen International Graduate School of Social Sciences](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-4.pdf), Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
+• [Profesor visitante en Bremen International Graduate School of Social Sciences](anexos/estadias/estadiasinvestigacion-4.pdf), Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
 
-• [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-3.pdf) (con profesor Wolfgang Merkel). Julio de 2015.
+• [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](anexos/estadias/estadiasinvestigacion-3.pdf) (con profesor Wolfgang Merkel). Julio de 2015.
 
-• [Data Processing and Research Center (DPC)](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-2.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
+• [Data Processing and Research Center (DPC)](anexos/estadias/estadiasinvestigacion-2.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
 
-• [Data Processing and Research Center (DPC)](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/estadias/estadiasinvestigacion-1.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
+• [Data Processing and Research Center (DPC)](anexos/estadias/estadiasinvestigacion-1.pdf), International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
 
 **Software de análisis estadísitico y reporte**: utilizo y enseño herramientas coherentes con el trabajo en ciencia abierta, es decir, de fuente abierta (open-source) y además libres (sin licencia de pago):
 
@@ -994,15 +1018,49 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Beamer (Latex) y Xaringan (Markdown/css) para generación de presentaciones
 
-**Idiomas**: [Inglés](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/idiomas/idiomas-1.pdf) (avanzado), [Alemán](https://github.com/Kevin-carrasco/jerarquizacion/blob/master/anexos/idiomas/idiomas-2.pdf) (avanzado).
+**Idiomas**: [Inglés](anexos/idiomas/idiomas-1.pdf) (avanzado), [Alemán](anexos/idiomas/idiomas-2.pdf) (avanzado).
 
-**Revisor ad-hoc de revistas** (American Sociological Review, Social Justice Research, Review in Social Stratification & Mobility, Revista Internacional de Sociología, Current Sociology, Journal of Youth Studies, European Sociological Review, Latin American Research Review, Learning & Individual Differences, entre otras).
+**Revisor ad-hoc de revistas**: {revisar}
 
-# RESUMEN
+• American Sociological Review
+
+• Social Justice Research 
+
+• [Review in Social Stratification & Mobility](anexos/revisor/rssm2022.pdf)
+
+• Revista Internacional de Sociología
+
+• Current Sociology 
+
+• [Journal of Youth Studies](anexos/revisor/reviewJournalofYouthStudies.pdf)
+
+• European Sociological Review 
+
+• [Latin American Research Review](anexos/revisor/[LARR]ArticleReviewAcknowledgement.pdf)
+
+• Learning & Individual Differences
+
+• [Psicoperspectivas. Individuo y Sociedad](anexos/revisor/Constancia_Revisor_psicoperspectivas.pdf)
+
+• [Ciencias psicológicas](anexos/revisor/Constanciaevaluación2767-1.pdf)
+
+• [Frontiers](anexos/revisor/frontiers.png)
+
+• [Revista estudiantil Latinoamericana de Ciencias Sociales (RELACSO)](anexos/revisor/JC_relacso.pdf)
+
+• [Plos One](anexos/revisor/PLOSONE-EditorialBoardInvitation.pdf)
+
+**Agradecimientos**: {revisar}
+
+* [Agradecimiento participación seminario de doctorado "Comprendiendo los procesos de desigualdad en Latinoamérica". Doctorados en Estudios Americanos de la Usach y en Ciencias Sociales de la Universidad de Chile](anexos/agradecimientos/agradecimiento250613.pdf)
+
+* [Agradecimiento presentación de investigación sobre legitimidad de la desigualdad en la asignatura obligatoria de Desigualdades sociales (estratificación), para estudiantes de 3º año de la carrera de sociología de la Universidad de Chile.](anexos/agradecimientos/agradecimiento140519.pdf)
+
+# Resumen
 
 Indique si entrega o no, información en cada capítulo y sub-capítulo del currículo, marcando con una letra equis (x) la línea respectiva.
 
-| SI  | NO  | Nº ACTIVIDADES                                            |
+| Si  | No  | Nº actividades                                            |
 |-----|-----|-----------------------------------------------------------|
 | X   |     | 1\. INFORMACION PERSONAL: (es obligatoria)                |
 | X   |     | 2\. ESTUDIOS REALIZADOS:                                  |
