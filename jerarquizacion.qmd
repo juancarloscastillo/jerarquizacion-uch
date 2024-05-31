@@ -14,6 +14,8 @@ format:
       - \fancyfoot[C]{\thepage}
   html:
     toc: true
+    include-before:
+      - "<div style='text-align: center;'><img src='encabezado.png' style='width: 100%; max-height: 2.5cm;'></div>"
 number-sections: true 
 ---
 
@@ -31,17 +33,17 @@ number-sections: true
 
 **Títulos o grados académicos:**
 
--   [Doctor en Sociología Universidad de Humboldt Alemania](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-phd.pdf){target="_blank"}
+-   [Doctor en Sociología Universidad de Humboldt Alemania](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/informacion-personal/titulos-phd.pdf){target="_blank"}
 
--   [Máster en Gestión Pública Universidad de Potsdam Alemania](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-master.pdf){target="_blank"}
+-   [Máster en Gestión Pública Universidad de Potsdam Alemania](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/informacion-personal/titulos-master.pdf){target="_blank"}
 
--   [Licenciado en Psicología Universidad Católica de Valparaíso](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-grado.pdf){target="_blank"}
+-   [Licenciado en Psicología Universidad Católica de Valparaíso](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/informacion-personal/titulos-grado.pdf){target="_blank"}
 
 **Cargo actual en la U. de Chile:**
 
 -   [Profesor Asociado Departamento de Sociología](https://facso.uchile.cl/sociologia/cuerpo-academico/castillo-juan-carlos){target="_blank"}
 
--   [Director de Investigación y Publicaciones Facultad de Ciencias Sociales](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
+-   [Director de Investigación y Publicaciones Facultad de Ciencias Sociales](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/informacion-personal/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
 
 **Departamento:** Departamento de Sociología
 
@@ -55,7 +57,7 @@ number-sections: true
 
 **Fono:** +56 9 79712541
 
-**E-Mail:** juancastillov\@uchile.cl
+**E-Mail:** juancastillov@uchile.cl
 
 **Dirección particular:** Villaseca 975 F Ñuñoa
 
@@ -68,90 +70,90 @@ number-sections: true
 ## Estudios superiores universitarios formales conducentes a grado, título o diploma:
 
 **2005 - 2010**\
-[Doctorado en Sociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-phd.pdf){target="_blank"}\
+[Doctorado en Sociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/titulos-phd.pdf){target="_blank"}\
 Berlin Graduate School of Social Sciences, Departamento de Metodología del Instituto de Ciencias Sociales, Universidad de Humboldt, Berlín.\
 Título de la tesis doctoral: “The legitimacy of economic inequality. An empirical social justice approach to the case of Chile” (Calificación: Summa cum Laude).
 
 **1999 - 2000**\
-[Master en Gestión Pública](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-master.pdf){target="_blank"} – Universidad de Potsdam, Alemania.
+[Master en Gestión Pública](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/titulos-master.pdf){target="_blank"} – Universidad de Potsdam, Alemania.
 
 **1991 - 1997**\
-[Licenciado en psicología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/titulos/titulos-grado.pdf){target="_blank"} – Universidad Católica de Valparaíso, Chile.
+[Licenciado en psicología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/titulos-grado.pdf){target="_blank"} – Universidad Católica de Valparaíso, Chile.
 
 ## Actividades de perfeccionamiento:
 
--   Taller : [“Rol del tutor como guía de tesis”](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cursos/cddoc.pdf){target="_blank"}. 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
+-   Taller : [“Rol del tutor como guía de tesis”](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cddoc.pdf){target="_blank"}. 3 de Agosto de 2018, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile.
 
 -   Workshop: “Using the International Databases from Large-Scale Education Studies for Secondary Analysis”. April 13-17 2012, Vancouver, AERA Conference.
 
--   [36th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cursos/cursos-3.pdf){target="_blank"}: “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [36th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-3.pdf){target="_blank"}: “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
--   [Workshop “Latent Variable Modeling with Mplus”](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cursos/cursos-2.pdf){target="_blank"}. Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
+-   [Workshop “Latent Variable Modeling with Mplus”](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-2.pdf){target="_blank"}. Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
 
--   [37th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cursos/cursos-4.pdf){target="_blank"} “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [37th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-4.pdf){target="_blank"} “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
 # Distinciones obtenidas:
 
 ## Becas:
 
 **2024**\
-[Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-11.pdf){target="_blank"}
+[Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-11.pdf){target="_blank"}
 
 **2022**\
-[Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-10.pdf){target="_blank"}
+[Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-10.pdf){target="_blank"}
 
 **2017**\
-[Beca del DAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-9.pdf){target="_blank"} (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
+[Beca del DAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-9.pdf){target="_blank"} (Servicio Alemán de Intercambio Académico) para estadía de investigación en la Universidad de Humboldt, Alemania.
 
 **2016**\
-[Beca del KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-8.pdf){target="_blank"} (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
+[Beca del KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-8.pdf){target="_blank"} (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
 
 **2014**\
-[Beca Volkswagen Stiftung](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/varios/Castillo_Invitation_2014_03_20.pdf){target="_blank"} para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
+[Beca Volkswagen Stiftung](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/Castillo_Invitation_2014_03_20.pdf){target="_blank"} para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
 
 **2009 - 2010**\
-[Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-6.pdf){target="_blank"} {revisar final (fecha 2001)}
+[Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-6.pdf){target="_blank"} {revisar final (fecha 2001)}
 
 **2006**\
-[Beca de calificación a la docencia](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-4.pdf){target="_blank"}, Berlin Graduate School of Social Sciences.
+[Beca de calificación a la docencia](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-4.pdf){target="_blank"}, Berlin Graduate School of Social Sciences.
 
 **2005 - 2009**\
-[Beca de doctorado KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-3.pdf){target="_blank"} (Servicio Católico de Intercambio Académico).
+[Beca de doctorado KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-3.pdf){target="_blank"} (Servicio Católico de Intercambio Académico).
 
 **1999 - 2000**\
-[Beca de Maestría DSE](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/admisionesybecas/admisionesybecas-1.pdf){target="_blank"} (Fundación Alemana para el Desarrollo Internacional).
+[Beca de Maestría DSE](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-1.pdf){target="_blank"} (Fundación Alemana para el Desarrollo Internacional).
 
 ## Premios y otras distinciones:
 
 **2023**\
 [Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/){target="_blank"}
 
-**2023** {revisar} [Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/Invitacionexpertos_EstudioFormacionCiudadana.pdf){target="_blank"}
+**2023** {revisar} [Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/Invitacionexpertos_EstudioFormacionCiudadana.pdf){target="_blank"}
 
 **2020**\
-[Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/CONSTANCIA_tokio_lainac.pdf){target="_blank"}
+[Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/CONSTANCIA_tokio_lainac.pdf){target="_blank"}
 
 **2016**\
-[Primer lugar en concurso de investigación FONDECYT Regular](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-5.pdf){target="_blank"}, grupo de estudio de sociología.
+[Primer lugar en concurso de investigación FONDECYT Regular](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-5.pdf){target="_blank"}, grupo de estudio de sociología.
 
 **2014**\
-[Best paper award](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-2.pdf){target="_blank"}, Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
+[Best paper award](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-2.pdf){target="_blank"}, Police Practice and Research Journal junto, a Ron Factor y Arye Rattner.
 
 **2014**\
-[Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-4.pdf){target="_blank"} (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
+[Premio Edgardo Catterberg a mejor artículo de conferencia – WAPOR](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-4.pdf){target="_blank"} (World Association for Public Opinion Research – Latin America), junto a Matías Bargsted & Nicolas Somma.
 
 **2000**\
-[Premio al mejor estudiante de maestría](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-1.pdf){target="_blank"}, Facultad de Economía y Administración Universidad de Potsdam, Alemania.
+[Premio al mejor estudiante de maestría](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-1.pdf){target="_blank"}, Facultad de Economía y Administración Universidad de Potsdam, Alemania.
 
 # Breve cronología laboral:
 
 Indique someramente año, labor realizada, cargo desempeñado, etc. (más adelante se explicitarán de acuerdo a criterios académicos).
 
 **2023-**\
-[Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
+[Director de Investigación y Publicaciones Facultad de Ciencias Sociales, Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cronologia-laboral/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
 
 **2022-**\
-[Profesor Asociado (planta) carrera ordinaria, departamento de Sociología, Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/varios/ResolucionProfAsistenteJuanCastillo.pdf){target="_blank"}
+[Profesor Asociado (planta) carrera ordinaria, departamento de Sociología, Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cronologia-laboral/ResolucionProfAsistenteJuanCastillo.pdf){target="_blank"}
 
 **2019 - 2021**\
 [Profesor Asociado (contrata) carrera ordinaria, departamento de Sociología, Universidad de Chile.](https://facso.uchile.cl/sociologia/cuerpo-academico/castillo-juan-carlos){target="_blank"}
@@ -160,11 +162,11 @@ Indique someramente año, labor realizada, cargo desempeñado, etc. (más adelan
 Seleccionado en concurso para profesor de metodología cuantitativa en el Departamento de Sociología, Universidad de Chile.
 
 **2018 - 2019**\
-[Director del grupo de estudio de Sociología de FONDECYT.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf){target="_blank"}
+[Director del grupo de estudio de Sociología de FONDECYT.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cronologia-laboral/premiosyreconocimientos-6.pdf){target="_blank"}
 
 **2016 - 2017**\
-[Miembro del grupo de estudio de Sociología de FONDECYT.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/varios/evaluador-Fondecyt.pdf){target="_blank"}
-
+[Miembro del grupo de estudio de Sociología de FONDECYT.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/cronologia-laboral/){target="_blank"}
+{pendiente}
 **2014 - 2018**\
 Profesor asistente, Instituto de Sociología, Pontificia Universidad Católica de Chile.
 
@@ -290,7 +292,7 @@ Postgrado Universidad de Chile
 
 -   Análisis Multivariable Aplicado a la Investigación Social módulo multinivel – profesor responsable 21 estudiantes
 
-[Postgrado Pontificia Universidad Católica de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf){target="_blank"}
+[Postgrado Pontificia Universidad Católica de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/docencia/listadocursosUC.pdf){target="_blank"}
 
 **2015 – 2018**
 
@@ -312,7 +314,7 @@ Postgrado Universidad de Chile
 
 -   Metodología cuantitativa avanzada 2. Doctorado en Psicología. (curso compartido 4 horas docencia semanal app. 20 alumnos).
 
-[Pregrado Pontificia Universidad Católica de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/listadocursosUC.pdf){target="_blank"}
+[Pregrado Pontificia Universidad Católica de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/docencia/listadocursosUC.pdf){target="_blank"}
 
 **2015 – 2016**
 
@@ -332,17 +334,26 @@ Otros
 
 **2006 – 2007**
 
--   [Investigación social empírica](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/lehrauftrag-HU.pdf){target="_blank"}. Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
+-   [Investigación social empírica](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/docencia/lehrauftrag-HU.pdf){target="_blank"}. Instituto de Ciencias Sociales Universidad de Humboldt Berlin. (curso compartido 4 horas docencia semanal app. 60 alumnos)
 
 **2005**
 
 -   Modelos de desarrollo social. Carrera de Psicología P. Universidad Católica de Valparaíso. (responsable único 2 horas docencia semanal app. 15 alumnos).
 
-### Destaque aspectos específicos de su actividad docente que, a su juicio, reflejen su creatividad en este aspecto; v.gr.:
+### Destaque aspectos específicos de su actividad docente que, a su juicio, reflejen su creatividad en este aspecto:
 
 -   *Creatividad docente*: en mis cursos de pre y postgrado utilizo una lógica de ciencia abierta, con texto y código de evaluaciones disponibles para los estudiantes, revisión ciega de pares y promoción de la colaboración. Más allá del análisis de datos, propongo una visión de productos de investigación con foco comunicacional durante el proceso de investigación y también luego de finalizado el producto. Hago mucho énfasis en visualización, transparencia y reproducibilidad.
 
--   *Textos docentes o apuntes de clases:* {revisar; quizás incluir las páginas?}
+-   *Textos docentes o apuntes de clases*: Cada asignatura dictada cuenta con su propia página web que contiene los materiales de cada curso (presentaciones, talleres, evaluaciones, etc.). Esto permite vincular los contenidos entre los distintos cursos dictados, así como también abrir y transparentar los contenidos para quien esté interesado/a:
+
+    * [Estadística correlacional](https://correlacional.netlify.app/), pregrado de sociología. Segundo semestre 2023
+    * [Análisis multinivel](https://multinivel-facso.netlify.app/), pregrado de sociología y magister en ciencias sociales. Segundo semestre 2023
+    * [Metodología I](https://version2023--metod1-mcs.netlify.app/), magister en ciencias sociales. Primer semestre 2023
+    * [Encuestas sociales](https://encuestas-sociales.netlify.app/), pregrado de sociología. Segundo semestre 2022
+    * [Estadística multivariada](https://multivariada.netlify.app/), pregrado de sociología. Primer semestre 2022
+    * [Ciencia social abierta](https://cienciasocialabierta.netlify.app/), pregrado de sociología. Segundo semestre 2021
+
+{revisar}
 
 -   *Creación de cursos nuevos*: en mi paso por la Univesidad Católica generé los cursos de modelos multinivel y de ecuaciones estructurales para el postgrado en sociología, el curso “Individuo y sociedad” (psicología social sociológica) para el pregrado en sociología. En el caso de la Universidad de Chile he creado los siguientes cursos: Análisis Multinivel, Ciencia Social Abierta, y Encuestas Sociales. Además, participé en la adaptación de los cursos de Estadística Correlacional, Estadística Multivariada y Estrategias de Investigación Cuantitativa.
 
@@ -555,25 +566,26 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 • [Presidente del comité de investigación RC 42 (Social Psychology) de la International Sociological Association ISA (2023-2027)](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/){target="_blank"}
 
-• [Director de Investigación y Publicaciones, Facultad de Ciencias Sociales, Universidad de Chile (2022- )](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
+• [Director de Investigación y Publicaciones, Facultad de Ciencias Sociales, Universidad de Chile (2022- )](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
 
 • Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)
 
 • Miembro del comité del Magister en Ciencias Sociales, mención Sociología de la Modernización (2022-2024)
 
-• [Director del grupo estudio de Sociología de FONDECYT (2018 - 2019 ).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/premiosyreconocimientos/premiosyreconocimientos-6.pdf){target="_blank"}
+• [Director del grupo estudio de Sociología de FONDECYT (2018 - 2019 ).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/premiosyreconocimientos-6.pdf){target="_blank"}
 
 • Moderador del servicio de pre-prints Socarxiv (socopen.org) (2018 - )
 
-• [Miembro del grupo estudio de Sociología de FONDECYT (2016 - 2017).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/varios/evaluador-Fondecyt.pdf){target="_blank"}
+• [Miembro del grupo estudio de Sociología de FONDECYT (2016 - 2017).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/evaluador-Fondecyt.pdf){target="_blank"}
+{pendiente}
 
-• [Consejo Académico](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
+• [Consejo Académico](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2016 -2017).
 
-• [Consejo de Facultad](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/gestion-uc.pdf){target="_blank"}, Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
+• [Consejo de Facultad](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/gestion-uc.pdf){target="_blank"}, Facultad de Ciencias Sociales, Pontificia Universidad Católica de Chile (2016).
 
-• [Comité de Postgrado](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
+• [Comité de Postgrado](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2015).
 
-• [Comité Curricular](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/gestion-docencia-evaluacion/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
+• [Comité Curricular](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/gestion-uc.pdf){target="_blank"}, Instituto de Sociología, Pontificia Universidad Católica de Chile (2014).
 
 • Subdirector FONDAP Centro de Estudios de Conflicto y Cohesión Social – COES (2013 - 2018)
 
@@ -643,9 +655,9 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 [Castillo, J., Miranda, D. & Bonhomme, M. (2015) Desigualdad social y cambios en las expectativas de participación política de los estudiantes en chile. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://jc-castillo.com/docs/castillo%20et%20al%202015%20cambios%20expectativas%20libro%20ap%20ciud.pdf){target="_blank"}
 
-Cox, C., Bascopé, M., Castillo, J., Miranda, D. & Bonhomme, M. (2015) Educación ciudadana en América Latina: Prioridades De los currículos escolares. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
+[Cox, C., Bascopé, M., Castillo, J., Miranda, D. & Bonhomme, M. (2015) Educación ciudadana en América Latina: Prioridades De los currículos escolares. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/prioridades-curriculo.pdf){target="_blank"}
 
-Miranda, D., Castillo, J, & Sandoval-Hernandez, A. (2015) Desigualdad y conocimiento cívico: Chile en comparación internacional. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.
+[Miranda, D., Castillo, J, & Sandoval-Hernandez, A. (2015) Desigualdad y conocimiento cívico: Chile en comparación internacional. En C.Cox & J. Castillo (Eds.), Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/desigualdad-ccivic.pdf){target="_blank"}
 
 [Olivos, F., Mackenna, B., Castillo, J. & Bargsted, M. (2015) Percepción de conflicto en Chile: Un análisis desde la opinión pública. En M.Castillo & C.Maldonado (Eds.), Desigualdades: Tolerancia, legitimación y conflicto en las sociedades latinoamericanas. Santiago: RIL Editores.](https://jc-castillo.com/docs/Castillo%20et%20al%202015%20percepci%c3%b3n%20de%20conflicto%20en%20Chile.pdf){target="_blank"}
 
@@ -769,7 +781,7 @@ Castillo, J., & Asun, D. (2002). Creencias en la Justicia en el Mundo: Un Estudi
 
 2023 - [Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Documentos de Proyecto (LC/TS.2022/3). CEPAL.](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados){target="_blank"}
 
-2017 – [Consultoría UNESCO: Análisis de resultados de pruebas de Ciudadanía y convivencia en escuelas de Bogotá, realizado para el informe de Evaluación del Proyecto Educación para la Ciudadanía y la Convivencia (PECC).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/varios/TdRUNESCO.pdf){target="_blank"}
+2017 – [Consultoría UNESCO: Análisis de resultados de pruebas de Ciudadanía y convivencia en escuelas de Bogotá, realizado para el informe de Evaluación del Proyecto Educación para la Ciudadanía y la Convivencia (PECC).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/TdRUNESCO.pdf){target="_blank"}
 
 2017 – Consultoría para la Agencia de Calidad de la Educación: Elaboración de preguntas para el módulo de Participación y Vida Democrática de los Indicadores de Desarrollo personal y Social (IDPS).
 
@@ -835,9 +847,9 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 [Miranda, D., & Castillo, J.-C. (2022, October). Youth dispositions to participate in disruptive and pacific actions. Conferece INVALSI data - A tool for teaching and scientific research.](https://jc-castillo.com/presentations/invalsi-2022/INVALSI_2022-focused-on-radical-.html){target="_blank"}
 
-[Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/demosal1.jpg){target="_blank"}
+[Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/demosal1.pdf){target="_blank"}
 
-[Castillo, J.-C (2021). Desafiando las creencias meritocráticas: dime a quién conocer y te diré qué crees. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/demosal2.jpg){target="_blank"}
+[Castillo, J.-C (2021). Desafiando las creencias meritocráticas: dime a quién conocer y te diré qué crees. VI Seminario internacional DEMOSAL (Nov. 3-5).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/demosal2.pdf){target="_blank"}
 
 [Castillo, J.-C (2021). Expositor en la VII Reunión Latinoamericana de Análisis de Redes Sociales (Nov. 15-19). Online.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/Certificado_Castillo_Exp.jpg){target="_blank"}
 
@@ -849,7 +861,7 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 [Castillo, J.-C. (2020). Percepción y justificación de desigualdad económica. Taller Internacional "Rethinking Inequality: Its Causes, Perceptions and Politics" (Enero, 23). Komaba, UTokyo, Japon.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/CONSTANCIA_tokio_lainac.pdf){target="_blank"}
 
-[Castillo, JC. (2019a). Desigualdad económica y su influencia sobre la percepción de diferencias de ingreso legítimas. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/constanciaDEMOSAL.pdf){target="_blank"}
+[Castillo, JC. (2019a). Desigualdad económica y su influencia sobre la percepción de diferencias de ingreso legítimas. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/certificadoDEMOSAL.pdf){target="_blank"}
 
 [Castillo, JC. (2019b). Economía moral de la meritocracia en Chile: percepciones y creencias de la clase alta. Conferencia DEMOSAL. Santiago, Chile (May. 6-8)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/constanciaDEMOSAL.pdf){target="_blank"}
 
@@ -1016,15 +1028,15 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Invitación a profesor visitante en Sciences Po Grenoble, con la profesora Sonja Zmerli en Diciembre de 2020 (cancelada por pandemia).
 
-• [Profesor visitante en Departamento de Macrosociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estadias/estadiasinvestigacion-5.pdf){target="_blank"}, Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
+• [Profesor visitante en Departamento de Macrosociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-5.pdf){target="_blank"}, Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
 
-• [Profesor visitante en Bremen International Graduate School of Social Sciences](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estadias/estadiasinvestigacion-4.pdf){target="_blank"}, Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
+• [Profesor visitante en Bremen International Graduate School of Social Sciences](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-4.pdf){target="_blank"}, Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
 
-• [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estadias/estadiasinvestigacion-3.pdf){target="_blank"} (con profesor Wolfgang Merkel). Julio de 2015.
+• [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-3.pdf){target="_blank"} (con profesor Wolfgang Merkel). Julio de 2015.
 
-• [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estadias/estadiasinvestigacion-2.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
+• [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-2.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
 
-• [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estadias/estadiasinvestigacion-1.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
+• [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-1.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
 
 **Software de análisis estadísitico y reporte**: utilizo y enseño herramientas coherentes con el trabajo en ciencia abierta, es decir, de fuente abierta (open-source) y además libres (sin licencia de pago):
 
@@ -1036,7 +1048,7 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Beamer (Latex) y Xaringan (Markdown/css) para generación de presentaciones
 
-**Idiomas**: [Inglés](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/idiomas/idiomas-1.pdf){target="_blank"} (avanzado), [Alemán](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/idiomas/idiomas-2.pdf){target="_blank"} (avanzado).
+**Idiomas**: [Inglés](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/idiomas-1.pdf){target="_blank"} (avanzado), [Alemán](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/idiomas-2.pdf){target="_blank"} (avanzado).
 
 **Revisor ad-hoc de revistas**: {revisar}
 
@@ -1044,35 +1056,35 @@ La mayor parte de mis labores de formación y de extensión se vinculan con la p
 
 • Social Justice Research
 
-• [Review in Social Stratification & Mobility](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/rssm2022.pdf){target="_blank"}
+• [Review in Social Stratification & Mobility](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/rssm2022.pdf){target="_blank"}
 
 • Revista Internacional de Sociología
 
 • Current Sociology
 
-• [Journal of Youth Studies](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/reviewJournalofYouthStudies.pdf){target="_blank"}
+• [Journal of Youth Studies](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/reviewJournalofYouthStudies.pdf){target="_blank"}
 
 • European Sociological Review
 
-• [Latin American Research Review](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/%5BLARR%5DArticleReviewAcknowledgement.pdf){target="_blank"}
+• [Latin American Research Review](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/ArticleReviewAcknowledgement.pdf){target="_blank"}
 
 • Learning & Individual Differences
 
-• [Psicoperspectivas. Individuo y Sociedad](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/Constancia_Revisor_psicoperspectivas.pdf){target="_blank"}
+• [Psicoperspectivas. Individuo y Sociedad](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Constancia_Revisor_psicoperspectivas.pdf){target="_blank"}
 
-• [Ciencias psicológicas](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/Constanciaevaluación2767-1.pdf){target="_blank"}
+• [Ciencias psicológicas](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Constanciaevaluación2767-1.pdf){target="_blank"}
 
-• [Frontiers](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/frontiers.png){target="_blank"}
+• [Frontiers](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/frontiers.png){target="_blank"}
 
-• [Revista estudiantil Latinoamericana de Ciencias Sociales (RELACSO)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/JC_relacso.pdf){target="_blank"}
+• [Revista estudiantil Latinoamericana de Ciencias Sociales (RELACSO)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/JC_relacso.pdf){target="_blank"}
 
-• [Plos One](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/revisor/PLOSONE-EditorialBoardInvitation.pdf){target="_blank"}
+• [Plos One](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/PLOSONE-EditorialBoardInvitation.pdf){target="_blank"}
 
 **Agradecimientos**: {revisar}
 
--   [Agradecimiento participación seminario de doctorado "Comprendiendo los procesos de desigualdad en Latinoamérica". Doctorados en Estudios Americanos de la Usach y en Ciencias Sociales de la Universidad de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/agradecimientos/agradecimiento250613.pdf){target="_blank"}
+-   [Agradecimiento participación seminario de doctorado "Comprendiendo los procesos de desigualdad en Latinoamérica". Doctorados en Estudios Americanos de la Usach y en Ciencias Sociales de la Universidad de Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/agradecimiento250613.pdf){target="_blank"}
 
--   [Agradecimiento presentación de investigación sobre legitimidad de la desigualdad en la asignatura obligatoria de Desigualdades sociales (estratificación), para estudiantes de 3º año de la carrera de sociología de la Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/agradecimientos/agradecimiento140519.pdf){target="_blank"}
+-   [Agradecimiento presentación de investigación sobre legitimidad de la desigualdad en la asignatura obligatoria de Desigualdades sociales (estratificación), para estudiantes de 3º año de la carrera de sociología de la Universidad de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/agradecimiento140519.pdf){target="_blank"}
 
 # Resumen
 
@@ -1126,12 +1138,3 @@ Indique si entrega o no, información en cada capítulo y sub-capítulo del curr
 | X   |     | 18\. ANTECEDENTES ADICIONALES:                            |
 | X   |     | 19\. RESUMEN CURRICULAR                                   |
 
-# Anexos
-
-## Estudios realizados
-
-```{=tex}
-\includepdf[pages={1}]{anexos/titulos/titulos-grado.pdf}
-\includepdf[pages={1}]{anexos/titulos/titulos-master.pdf}
-\includepdf[pages={1}]{anexos/titulos/titulos-phd.pdf}
-```
