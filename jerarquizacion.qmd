@@ -86,11 +86,13 @@ Título de la tesis doctoral: “The legitimacy of economic inequality. An empir
 
 -   Workshop: “Using the International Databases from Large-Scale Education Studies for Secondary Analysis”. April 13-17 2012, Vancouver, AERA Conference.
 
--   [36th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-3.pdf){target="_blank"}: “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [37th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-4.pdf){target="_blank"} “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+
+-   [Seminario Introducción a la teoría y uso práctico de modelos lineales de ecuaciones estructurales](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-1.pdf){target="_blank"}. Docente: Prof. Dr. Michael Eid. Febrero 2008 - Frei Universitat Berlin.
 
 -   [Workshop “Latent Variable Modeling with Mplus”](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-2.pdf){target="_blank"}. Docentes: Profesores Bengt y Linda Muthén. 10 - 12 Septiembre 2007 - School of Economics, University of Florence.
 
--   [37th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-4.pdf){target="_blank"} “Generalized Latent Variable Modeling”. Docente: Prof. Jeroen Vermunt. 10 - 14 Marzo 2008 en Köln, Zentrales Archiv für Empirische Sozialforschung.
+-   [36th Spring Seminar](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/estudios/cursos-3.pdf){target="_blank"}: “Topics in Advanced Categorical Data Analysis (CDA)”. Docentes: Linda M. Collins & Allan McCutcheon. 26 de Febrero – 9 de Marzo, 2007 en Köln, Zentrales Archiv für Empirische Sozialforschung.
 
 # Distinciones obtenidas:
 
@@ -506,6 +508,8 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 ## Extensión y Divulgación:
 
+**2024 Junio.** [Workshop: International Perspectives on the Measurement of 'Social Cohesion'. Research Institute Social Cohesion (RDC). Universidad de Bremen]((https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/FDZ-FGZ_workshop.pdf){target="_blank"})
+
 **2024 Enero.** [Taller Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta){target="_blank"}
 
 **2023 Enero.** [Taller Diseño y gestión de proyectos de investigación abiertos. Escuela de Verano Conocimiento y Ciencia Abierta - Universidad Central.](https://lisa-coes.github.io/presentaciones/flujo-UCEN-Ene2023/UCEN-Ene2023.html){target="_blank"}
@@ -793,11 +797,11 @@ Castillo, J., & Asun, D. (2002). Creencias en la Justicia en el Mundo: Un Estudi
 
 Cuando están disponibles, el enlace lleva a la constancia de participación. Si no están disponibles, lleva a las slides de la presentación.
 
-[Castillo, J.-C, Tobar, N. (2024). ¿Las estudiantes subestiman sus habilidades tecnológicas? Diferencias de género en autoeficacia digital en contextos escolares chilenos. Congreso Chileno de Sociología - PreAlas. Santiago](https://nudos.quarto.pub/prealas-2024/#/las-estudiantes-subestiman-sus-habilidades-tecnol%C3%B3gicas){target="_blank"}
+[Castillo, J.-C, Tobar, N. (2024). ¿Las estudiantes subestiman sus habilidades tecnológicas? Diferencias de género en autoeficacia digital en contextos escolares chilenos. Congreso Chileno de Sociología - PreAlas. Santiago](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/prealas2024.pdf){target="_blank"}
 
-[Castillo, J.-C, Carrasco, K. (2024). Meritocracia y justificación de desigualdad en la etapa escolar: Un experimento de encuesta. Congreso Chileno de Sociología - PreAlas. Santiago.](https://educacion-meritocracia.github.io/experimento/presentations/sociologia2024/sociologia2024.html#1){target="_blank"}
+[Castillo, J.-C, Carrasco, K. (2024). Meritocracia y justificación de desigualdad en la etapa escolar: Un experimento de encuesta. Congreso Chileno de Sociología - PreAlas. Santiago.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/prealas2024.pdf){target="_blank"}
 
-[Castillo, J.-C, Carrasco, K., Ortiz, C. (2024). Barreras para la Ciencia Abierta en la investigación en Ciencias Sociales en Chile. Congreso Chileno de Sociología - PreAlas. Santiago.](https://lisa-coes.github.io/presentaciones/congreso-sociologia-stgo-Mayo2024/congreso-sociologia-stgo-Mayo2024.html#1){target="_blank"}
+[Castillo, J.-C, Carrasco, K., Ortiz, C. (2024). Barreras para la Ciencia Abierta en la investigación en Ciencias Sociales en Chile. Congreso Chileno de Sociología - PreAlas. Santiago.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/prealas2024.pdf){target="_blank"}
 
 [Castillo, J.-C. (2024a, January). Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta){target="_blank"}
 
