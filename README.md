@@ -8,7 +8,12 @@ El CV está generado a partir de lenguaje Markdown en entorno Quarto, lo que per
 
 Links de acceso al CV:
 
--   [Formato web / html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html)
--   [Formato pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf)
+-   [CV web / html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html)
+-   [CV pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf)
+
+Anexos:
+
+-   [Anexos web / html](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.html)
+-   [Anexo pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.pdf)
 
 También es posible revisar más antecedentes académicos en mi página personal, [jc-castillo.com](https://jc-castillo.com/)
