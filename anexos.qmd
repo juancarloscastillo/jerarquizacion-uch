@@ -30,16 +30,13 @@ number-sections: true
 \includepdf[pages={1}]{anexos/estudios/titulos-master.pdf}
 \includepdf[pages={1}]{anexos/estudios/titulos-phd.pdf}
 ```
-
 ## Actividades de perfeccionamiento
 
 ```{=tex}
-\includepdf[pages={1}]{anexos/estudios/cddoc.pdf}
 \includepdf[pages={1}]{anexos/estudios/cursos-3.pdf}
 \includepdf[pages={1}]{anexos/estudios/cursos-2.pdf}
 \includepdf[pages={1}]{anexos/estudios/cursos-4.pdf}
 ```
-
 # Distinciones obtenidas
 
 ## Becas
@@ -48,25 +45,20 @@ number-sections: true
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-11.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-10.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-9.pdf}
-\includepdf[pages={1}]{anexos/distinciones/admisionesybecas-8.pdf}
 \includepdf[pages={1}]{anexos/distinciones/Castillo_Invitation_2014_03_20.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-6.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-4.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-3.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-1.pdf}
 ```
-
 ## Premios y otras distinciones
 
 ```{=tex}
-\includepdf[pages={1}]{anexos/distinciones/Invitacionexpertos_EstudioFormacionCiudadana.pdf}
-\includepdf[pages={1}]{anexos/distinciones/CONSTANCIA_tokio_lainac.pdf}
 \includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-5.pdf}
 \includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-2.pdf}
 \includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-4.pdf}
 \includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-1.pdf}
 ```
-
 # Breve cronología laboral
 
 ```{=tex}
@@ -74,7 +66,6 @@ number-sections: true
 \includepdf[pages={1}]{anexos/cronologia-laboral/ResolucionProfAsistenteJuanCastillo.pdf}
 \includepdf[pages={1}]{anexos/cronologia-laboral/premiosyreconocimientos-6.pdf}
 ```
-
 # Actividades académicas
 
 ## Docencia
@@ -82,29 +73,15 @@ number-sections: true
 ### Asignaturas docentes
 
 ```{=tex}
-\includepdf[pages={1}]{anexos/docencia/listadocursosUC.pdf}
 \includepdf[pages={1}]{anexos/docencia/lehrauftrag-HU.pdf}
 ```
-
 ## Extensión y divulgación
-
-```{=tex}
-\includepdf[pages={1}]{anexos/conferencias/ConstanciaIBERO.pdf}
-\includepdf[pages={1}]{anexos/distinciones/CONSTANCIA_tokio_lainac.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-5.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-2.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-4.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-1.pdf}
-```
 
 ## Administración universitaria y dirección académica
 
 ```{=tex}
-\includepdf[pages={1}]{anexos/administracion-universitaria/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf}
-\includepdf[pages={1}]{anexos/administracion-universitaria/premiosyreconocimientos-6.pdf}
 \includepdf[pages={1}]{anexos/administracion-universitaria/gestion-uc.pdf}
 ```
-
 # Difusión y comunicación
 
 ## Libros y publicaciones periódicas
@@ -123,30 +100,18 @@ number-sections: true
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
-\includepdf[pages={1}]{anexos/conferencias/Diploma_COES.pdf}
-\includepdf[pages={1}]{anexos/conferencias/AMANTEetal539.pdf}
 \includepdf[pages={1}]{anexos/conferencias/certificado_participanteCLACSO.pdf}
 \includepdf[pages={1}]{anexos/conferencias/demosal1.pdf}
-\includepdf[pages={1}]{anexos/conferencias/demosal2.pdf}
 ```
 
-
-![](anexos/conferencias/Certificado_Castillo_Exp.jpg)
-
 ```{=tex}
-\includepdf[pages={1}]{anexos/conferencias/certificadoDEMOSAL.pdf}
 \includepdf[pages={1}]{anexos/conferencias/castillo_certificateispp2019.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-1.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-2.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-3.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-5.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-7.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-8.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-9.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-11.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-12.pdf}
 ```
-
 # Actividades académicas fuera de la U. de Chile
 
 # Desarrollo profesional
@@ -155,28 +120,16 @@ number-sections: true
 
 # Antecedentes adicionales
 
+![](anexos/adicionales/frontiers.png)
+
 ```{=tex}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-5.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-4.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-3.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-2.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-1.pdf}
-\includepdf[pages={1}]{anexos/adicionales/idiomas-1.pdf}
-\includepdf[pages={1}]{anexos/adicionales/idiomas-2.pdf}
 \includepdf[pages={1}]{anexos/adicionales/rssm2022.pdf}
 \includepdf[pages={1}]{anexos/adicionales/reviewJournalofYouthStudies.pdf}
 \includepdf[pages={1}]{anexos/adicionales/ArticleReviewAcknowledgement.pdf}
-\includepdf[pages={1}]{anexos/adicionales/Constancia_Revisor_psicoperspectivas.pdf}
-\includepdf[pages={1}]{anexos/adicionales/Constanciaevaluación2767-1.pdf}
-```
-
-![](anexos/adicionales/frontiers.png)
-
-```{=tex}
 \includepdf[pages={1}]{anexos/adicionales/JC_relacso.pdf}
-\includepdf[pages={1}]{anexos/adicionales/PLOSONE-EditorialBoardInvitation.pdf}
-\includepdf[pages={1}]{anexos/adicionales/agradecimiento250613.pdf}
-\includepdf[pages={1}]{anexos/adicionales/agradecimiento140519.pdf}
 ```
-
-
