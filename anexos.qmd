@@ -19,108 +19,57 @@ format:
 number-sections: true 
 ---
 
-**Anexos**
+# **Anexos** {-}
+
+Los documentos más relevantes asociados a esta postulación pueden ser visualizados directamente desde el CV ya que se encuentran linkeados tanto en la [version pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf) como también en la [versión web/html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html). En el presente documento se presenta solo una selección de certificados y cartas en el formato requerido en la postulación:
+
+- Certificados de estudio
+- Distinciones (becas, premios, nombramientos, reconocimientos)
+- Selección de certificados de ponencias a congresos [acá faltan las más recientes, ISA melbourne, ESRA ... seleccionar por lás más recientes y más relevantes, y también que sean diversas]
+- Extensión y divulgación [agregar lás más relevantes/recientes hasta completar las 50 páginas]
+- Cartas internacionales de respaldo a la postulación.
+
+\newpage
 
 # Estudios realizados
 
 ## Estudios superiores universitarios
+
+- Licenciatura en psicología Pontificia Universidad Católica de Valparaíso
+- ...
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/estudios/titulos-grado.pdf}
 \includepdf[pages={1}]{anexos/estudios/titulos-master.pdf}
 \includepdf[pages={1}]{anexos/estudios/titulos-phd.pdf}
 ```
-## Actividades de perfeccionamiento
 
-```{=tex}
-\includepdf[pages={1}]{anexos/estudios/cursos-3.pdf}
-\includepdf[pages={1}]{anexos/estudios/cursos-2.pdf}
-\includepdf[pages={1}]{anexos/estudios/cursos-4.pdf}
-```
 # Distinciones obtenidas
 
 ## Becas
+
+- Beca DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación como profesor visitante en Junio y Julio 2024 en el Instituto de Cohesión Social de la Universidad de Bremen.
+
+- Beca Instituto de Cohesión Social (FGZ) de la Universidad de Bremen para estadía de investigación como profesor visitante  en Julio 2022.
+
+- Beca DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación en Junio y Julio 2017 como profesor visitante en el Departamento de Macrosociología de la Universidad de Humboldt, Berlin. 
+
+- ... (describir y ordenar cronologicamente)
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-11.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-10.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-9.pdf}
-\includepdf[pages={1}]{anexos/distinciones/Castillo_Invitation_2014_03_20.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-6.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-4.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-3.pdf}
 \includepdf[pages={1}]{anexos/distinciones/admisionesybecas-1.pdf}
 ```
-## Premios y otras distinciones
+## Premios, nombramientos, reconocimientos, y otras distinciones
 
-```{=tex}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-5.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-2.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-4.pdf}
-\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-1.pdf}
-```
-# Breve cronología laboral
+- Nombramiento como presidente del Research Committee 42 Social Psychology, de la International Sociological Association (ISA) 2023-2027
 
-```{=tex}
-\includepdf[pages={1}]{anexos/cronologia-laboral/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf}
-\includepdf[pages={1}]{anexos/cronologia-laboral/ResolucionProfAsistenteJuanCastillo.pdf}
-\includepdf[pages={1}]{anexos/cronologia-laboral/premiosyreconocimientos-6.pdf}
-```
-# Actividades académicas
-
-## Docencia
-
-### Asignaturas docentes
-
-```{=tex}
-\includepdf[pages={1}]{anexos/docencia/lehrauftrag-HU.pdf}
-```
-## Extensión y divulgación
-
-## Administración universitaria y dirección académica
-
-```{=tex}
-\includepdf[pages={1}]{anexos/administracion-universitaria/gestion-uc.pdf}
-```
-# Difusión y comunicación
-
-## Libros y publicaciones periódicas
-
-### Libros y monografías
-
-### Capítulos de libros
-
-### Revistas nacionales
-
-### Revistas internacionales
-
-## Otros escritos e informes
-
-## Ponencias a congresos
-
-```{=tex}
-\includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
-\includepdf[pages={1}]{anexos/conferencias/certificado_participanteCLACSO.pdf}
-\includepdf[pages={1}]{anexos/conferencias/demosal1.pdf}
-```
-
-```{=tex}
-\includepdf[pages={1}]{anexos/conferencias/castillo_certificateispp2019.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-1.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-2.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-5.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-7.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-8.pdf}
-```
-# Actividades académicas fuera de la U. de Chile
-
-# Desarrollo profesional
-
-# Sociedades artísticas, científicas, etc.
-
-# Antecedentes adicionales
-
-![](anexos/adicionales/frontiers.png)
+- (... describir y ordenar cronológicamente)
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-5.pdf}
@@ -128,8 +77,33 @@ number-sections: true
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-3.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-2.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-1.pdf}
-\includepdf[pages={1}]{anexos/adicionales/rssm2022.pdf}
-\includepdf[pages={1}]{anexos/adicionales/reviewJournalofYouthStudies.pdf}
-\includepdf[pages={1}]{anexos/adicionales/ArticleReviewAcknowledgement.pdf}
-\includepdf[pages={1}]{anexos/adicionales/JC_relacso.pdf}
+\includepdf[pages={1}]{anexos/cronologia-laboral/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf}
+\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-3-ISARC42.pdf}
+\includepdf[pages={1}]{anexos/distinciones/CONSTANCIA_tokio_lainac.pdf}
+\includepdf[pages={1}]{anexos/cronologia-laboral/premiosyreconocimientos-6.pdf}
+\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-5.pdf}
+\includepdf[pages={1}]{anexos/distinciones/Castillo_Invitation_2014_03_20.pdf}
+\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-2.pdf}
+\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-4.pdf}
+\includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-1.pdf}
 ```
+
+# Ponencias a congresos (selección)
+
+```{=tex}
+\includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
+\includepdf[pages={1}]{anexos/conferencias/certificado_participanteCLACSO.pdf}
+\includepdf[pages={1}]{anexos/conferencias/demosal1.pdf}
+\includepdf[pages={1}]{anexos/conferencias/castillo_certificateispp2019.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ponencias-1.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ponencias-2.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ponencias-5.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ponencias-7.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ponencias-8.pdf}
+```
+
+# Cartas de respaldo internacional
+
+- (describir)
+
+
