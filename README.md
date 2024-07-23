@@ -4,7 +4,7 @@ En este repositorio se puede acceder al CV Normalizado en formato de la Universi
 
 El objetivo es poder hacer una revisión de las secciones con sus respaldos de manera más eficiente, accediendo a ellos mediante links.
 
-El CV está generado a partir de lenguaje Markdown en entorno Quarto, lo que permite generar salidas en distintos formatos. La visualización recomendada es en html, ya que se puede ver directo en el navegador, no requiere bajar ningún archivo adjunto, y evita el gato de papel. También se puede revisar en formato tradicional pdf, desde donde se puede también acceder directamente a los links de respaldo en caso de revisar en el computador. Y si finalmente se desea optar por el formato impreso, se puede hacer desde el pdf.
+El CV está generado a partir de lenguaje Markdown en entorno Quarto, lo que permite generar salidas en distintos formatos. La visualización recomendada es en html, ya que se puede ver directo en el navegador, no requiere bajar ningún archivo adjunto ya que se accede a ellos mediante links, y evita el gasto de papel. También se puede revisar en formato tradicional pdf, desde donde también se puede también acceder directamente a los links de respaldo. Y si finalmente se desea optar por el formato impreso, se puede bajar el pdf e imprimirlo.
 
 Links de acceso al CV:
 
