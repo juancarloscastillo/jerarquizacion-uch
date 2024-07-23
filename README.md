@@ -11,9 +11,8 @@ Links de acceso al CV:
 -   [CV web / html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html)
 -   [CV pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf)
 
-Anexos:
+Anexos (solo en pdf, ya que en desde CV html se puede acceder a todos los documentos directamente):
 
--   [Anexos web / html](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.html)
--   [Anexo pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.pdf)
+-   [Anexo pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.pdf) 
 
 También es posible revisar más antecedentes académicos en mi página personal, [jc-castillo.com](https://jc-castillo.com/)
