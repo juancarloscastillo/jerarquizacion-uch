@@ -77,11 +77,17 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 ```
 ## Premios, nombramientos, reconocimientos, y otras distinciones
 
+- Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg). Bremen, Junio y Julio de 2024.
+
 - Nombramiento como presidente del Research Committee 42 Social Psychology, de la International Sociological Association (ISA) 2023-2027
 
 - Director de Investigación y Publicaciones (2022-2026) Facultad de Ciencias Sociales, Universidad de Chile.
 
+- Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg). Bremen, Julio de 2022.
+
 - Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón. 2022
+
+- Invitación a profesor visitante en Sciences Po Grenoble, con la profesora Sonja Zmerli en Diciembre de 2020 (cancelada por pandemia).
 
 - Miembro y director del grupo de estudio de Sociología de FONDECYT (2018-2019).
  
@@ -107,9 +113,12 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 
 
 ```{=tex}
+\includepdf[pages={1}]{anexos/adicionales/Invitation-Juan-bremen23.pdf}
 \includepdf[pages={1}]{anexos/distinciones/premiosyreconocimientos-3-ISARC42.pdf}
 \includepdf[pages={1}]{anexos/cronologia-laboral/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf}
+\includepdf[pages={1}]{anexos/adicionales/Cooperation-Agreement_RISC-Castillo22.pdf}
 \includepdf[pages={1}]{anexos/distinciones/CONSTANCIA_tokio_lainac.pdf}
+\includepdf[pages={1}]{anexos/adicionales/Invitation-letter_castillo-grenoble19.pdf}
 \includepdf[pages={1}]{anexos/cronologia-laboral/premiosyreconocimientos-6.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-5.pdf}
 \includepdf[pages={1}]{anexos/adicionales/estadiasinvestigacion-4.pdf}
@@ -124,15 +133,39 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 ```
 # Ponencias a congresos (selección)
 
+- Castillo, J.-C. (2024b, January). Social cohesion and attitudinal changes toward migration. GlobaLab Bremen Conversations on Global Solidarity. Bremen, Germany.
+
+- Castillo, J.-C. (2024c, April). Social Inequalities in the Global South. Inequality Conference - Exellence Cluster The Politics of Inequality. Konstanz, Germany.
+
+- Castillo, J.-C., Carrasco, K., & Iturra, J. (2023, July). Perceived salary and gender gaps in survey research ESRA. Milan, Italy
+
+- Castillo, J.-C., Carrasco, K., & Salgado, M. (2023, June). The socialization of meritocracy at school and the justification of economic inequality. EFFORT Conference. Madrid, España
+
+- Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile. Santiago, Chile.
+
+- Castillo, J.-C (2022e, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales. Ciudad de México, México
+
+- Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5). Online.
+
+- Castillo, J.-C (2019d) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal
+
+- Castillo, J.-C (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center
+
+- Castillo, J.-C (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.
+
+- Castillo, J.-C (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.
+
 ```{=tex}
+\includepdf[pages={1}]{anexos/conferencias/glolab.pdf}
+\includepdf[pages={1}]{anexos/conferencias/konstanz.pdf}
+\includepdf[pages={1}]{anexos/conferencias/ESRA2023_certificate.pdf}
+\includepdf[pages={1}]{anexos/conferencias/effort-2023.pdf}
 \includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
 \includepdf[pages={1}]{anexos/conferencias/certificado_participanteCLACSO.pdf}
 \includepdf[pages={1}]{anexos/conferencias/demosal1.pdf}
 \includepdf[pages={1}]{anexos/conferencias/castillo_certificateispp2019.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-1.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-2.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-5.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-7.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ponencias-8.pdf}
 ```
 
