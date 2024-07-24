@@ -610,7 +610,7 @@ Seminario COES-PNUD: “Discutiendo sobre las desigualdades en Chile”. Comenta
 
 -   [Director de Investigación y Publicaciones, Facultad de Ciencias Sociales, Universidad de Chile (2022- )](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/administracion-universitaria/Constancia_aprobación_nombramiento_Juan_Castillo_Director_Investigación_Publicaciones.pdf){target="_blank"}
 
--   [Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/ConstanciaSubcomites%20JCC_vdch-firmado.pdf){target="_blank"}
+-   [Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/ConstanciaSubcomitesJCC_vdch-firmado.pdf){target="_blank"}
 
 -   Miembro del comité del Magister en Ciencias Sociales, mención Sociología de la Modernización (2022-2024)
 
@@ -863,9 +863,9 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 -   [Castillo, J.-C., Carrasco, K., Salgado, M., Moyano, C., & Angelcos, N. (2023, Agosto). Socialización de la meritocracia en la escuela y justificación de la desigualdad económica Conferencia DEMOSAL. Buenos aires, Argentina](https://educacion-meritocracia.github.io/meritocracia-escuela-agencia/presentations/demosal2023/demosal2023.html){target="_blank"}
 
--   [Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective. ISA XX World Congress of Sociology. Melbourne, Australia.](https://ocscoes.github.io/presentaciones/ISA-Melbourne-2023.html){target="_blank"}
+-   [Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective. ISA XX World Congress of Sociology. Melbourne, Australia.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/isa2023-cohesion.pdf){target="_blank"}
 
--   [Castillo, J.-C., & Carrasco, K. (2023b, June). The socialization of meritocracy at school and the justification of economic inequality ISA XX World Congress of Sociology. Melbourne, Australia.](https://educacion-meritocracia.github.io/meritocracia-escuela-agencia/presentations//ISA-Melbourne2023/ISA2023.html){target="_blank"}
+-   [Castillo, J.-C., & Carrasco, K. (2023b, June). The socialization of meritocracy at school and the justification of economic inequality ISA XX World Congress of Sociology. Melbourne, Australia.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/isa2023-meritocracy.pdf){target="_blank"}
 
 -   [Iturra, J., Castillo, J.-C., & Maldonado, L. (2023, July). Perceptions and preferences about income taxes: A factorial survey approach. ESRA. Milan, Italy](https://justicia-distributiva.github.io/factorial-impuestos/presentations/ESRA-milan-2023/presentation-esra-2023.html#1){target="_blank"}
 

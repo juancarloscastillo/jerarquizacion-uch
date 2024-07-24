@@ -25,8 +25,8 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 
 - Certificados de estudio
 - Distinciones (becas, premios, nombramientos, reconocimientos)
-- Selección de certificados de ponencias a congresos [acá faltan las más recientes, ISA melbourne, ESRA ... seleccionar por lás más recientes y más relevantes, y también que sean diversas]
-- Extensión y divulgación [agregar lás más relevantes/recientes hasta completar las 50 páginas]
+- Selección de certificados de ponencias a congresos
+- Extensión y divulgación
 - Cartas internacionales de respaldo a la postulación.
 
 \newpage
@@ -133,40 +133,48 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 ```
 # Ponencias a congresos (selección)
 
-- Castillo, J.-C. (2024b, January). Social cohesion and attitudinal changes toward migration. GlobaLab Bremen Conversations on Global Solidarity. Bremen, Germany.
+- Castillo, J.-C. (2024, January). Social cohesion and attitudinal changes toward migration. GlobaLab Bremen Conversations on Global Solidarity. Bremen, Germany.
 
-- Castillo, J.-C. (2024c, April). Social Inequalities in the Global South. Inequality Conference - Exellence Cluster The Politics of Inequality. Konstanz, Germany.
+- Castillo, J.-C. (2024, April). Social Inequalities in the Global South. Inequality Conference - Exellence Cluster The Politics of Inequality. Konstanz, Germany.
+
+- Castillo, J.-C., Cáceres, I., & Carrasco, K. (2023, June). Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective. ISA XX World Congress of Sociology. Melbourne, Australia.
+
+- Castillo, J.-C., Salgado, M., & Carrasco, K. (2023, June). The socialization of meritocracy at school and the justification of economic inequality ISA XX World Congress of Sociology. Melbourne, Australia.
 
 - Castillo, J.-C., Carrasco, K., & Iturra, J. (2023, July). Perceived salary and gender gaps in survey research ESRA. Milan, Italy
 
 - Castillo, J.-C., Carrasco, K., & Salgado, M. (2023, June). The socialization of meritocracy at school and the justification of economic inequality. EFFORT Conference. Madrid, España
 
-- Castillo, J.-C. (2023b, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile. Santiago, Chile.
+- Castillo, J.-C. (2023, January). Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas, Universidad de Chile. Santiago, Chile.
 
-- Castillo, J.-C (2022e, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales. Ciudad de México, México
+- Castillo, J.-C (2022, June 7). Mesa 551 "Políticas, subjetividades y ciudadanías". 9° Conferencia Latinoamericana y Caribeña de Ciencias Sociales. Ciudad de México, México
 
 - Castillo, J.-C (2021). Resultados preliminares de dos estudios sobre demandas por redistribución, percepción y justificación de la desigualdad. VI Seminario internacional DEMOSAL (Nov. 3-5). Online.
 
-- Castillo, J.-C (2019d) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal
-
-- Castillo, J.-C (2018) Perceptions and preferences about meritocracy in international comparison. Congress of the International Sociological Association - ISA (July 15-21). Toronto, Metro Toronto Convention Center
-
-- Castillo, J.-C (2016) Economic Inequality, Distributive Preferences and Political Outcomes (I & II). Sessions organized for the Research Committee 42 (Social Psychology) at the Congress of the International Sociological Association - ISA (July 9-14). Vienna, Austria.
-
-- Castillo, J.-C (2014) Inequality, justice beliefs and political participation in Latin America. Paper presented at the Congress of the International Sociological Association - ISA (July 13-19). Yokohama, Japan.
+- Castillo, J.-C (2019) Exposure to information about economic inequality, opportunity beliefs and redistributive preferences: Results of survey experiments. 42° Annual Scientific Meeting of International Society of Political Psychology (ISPP) (July. 12-15). Lisbon, Portugal
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/conferencias/glolab.pdf}
 \includepdf[pages={1}]{anexos/conferencias/konstanz.pdf}
+\includepdf[pages={1}]{anexos/conferencias/isa2023-cohesion.pdf}
+\includepdf[pages={1}]{anexos/conferencias/isa2023-meritocracy.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ESRA2023_certificate.pdf}
 \includepdf[pages={1}]{anexos/conferencias/effort-2023.pdf}
 \includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
 \includepdf[pages={1}]{anexos/conferencias/certificado_participanteCLACSO.pdf}
 \includepdf[pages={1}]{anexos/conferencias/demosal1.pdf}
 \includepdf[pages={1}]{anexos/conferencias/castillo_certificateispp2019.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-1.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-5.pdf}
-\includepdf[pages={1}]{anexos/conferencias/ponencias-8.pdf}
+```
+
+# Extensión
+
+- Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)
+
+- Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación. Diciembre2023
+
+```{=tex}
+\includepdf[pages={1}]{anexos/adicionales/ConstanciaSubcomitesJCC_vdch-firmado.pdf}
+\includepdf[pages={1}]{anexos/distinciones/Invitacionexpertos_EstudioFormacionCiudadana.pdf}
 ```
 
 # Cartas de respaldo internacional
