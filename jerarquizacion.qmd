@@ -338,22 +338,22 @@ Otros
 
 -   *Textos docentes o apuntes de clases*: Cada asignatura dictada cuenta con su propia página web que contiene los materiales de cada curso (presentaciones, talleres, evaluaciones, etc.). Además, se cuenta con videos tutoriales y guías prácticas. Los prácticos son también autoevaluados mediante reportes de progreso que se encuentran disponibles en la misma página. Consistente con una lógica de ciencia abierta, los sitios web se encuentran alojados en repositorios abiertos en Github. La disponibilidad de esta información permite vincular los contenidos entre los distintos cursos dictados, así como también abrir y transparentar los contenidos para quien esté interesado/a. Además, cada versión del curso (en cada año) sigue estando disponible, de manera que l_s estudiantes puedan volver a visitar el mismo sitio de su versión del curso cuando lo requieran. Algunos ejemplos de cursos son:
 
-    -   [Estadística correlacional](https://correlacional.netlify.app/), pregrado de sociología. Segundo semestre 2023
-    -   [Análisis multinivel](https://multinivel-facso.netlify.app/), pregrado de sociología y magister en ciencias sociales. Segundo semestre 2023
-    -   [Metodología I](https://version2023--metod1-mcs.netlify.app/), magister en ciencias sociales. Primer semestre 2023
-    -   [Encuestas sociales](https://encuestas-sociales.netlify.app/), pregrado de sociología. Segundo semestre 2022
-    -   [Estadística multivariada](https://multivariada.netlify.app/), pregrado de sociología. Primer semestre 2022
-    -   [Ciencia social abierta](https://cienciasocialabierta.netlify.app/), pregrado de sociología. Segundo semestre 2021
+    -   [Estadística correlacional](https://correlacional.netlify.app/){target="_blank"}, pregrado de sociología. Segundo semestre 2023
+    -   [Análisis multinivel](https://multinivel-facso.netlify.app/){target="_blank"}, pregrado de sociología y magister en ciencias sociales. Segundo semestre 2023
+    -   [Metodología I](https://version2023--metod1-mcs.netlify.app/){target="_blank"}, magister en ciencias sociales. Primer semestre 2023
+    -   [Encuestas sociales](https://encuestas-sociales.netlify.app/){target="_blank"}, pregrado de sociología. Segundo semestre 2022
+    -   [Estadística multivariada](https://multivariada.netlify.app/){target="_blank"}, pregrado de sociología. Primer semestre 2022
+    -   [Ciencia social abierta](https://cienciasocialabierta.netlify.app/){target="_blank"}, pregrado de sociología. Segundo semestre 2021
 
 -   *Creación de cursos nuevos*: en mi paso por la Univesidad Católica generé los cursos de modelos multinivel y de ecuaciones estructurales para el postgrado en sociología, el curso “Individuo y sociedad” (psicología social sociológica) para el pregrado en sociología. En el caso de la Universidad de Chile he creado los siguientes cursos: Análisis Multinivel, Ciencia Social Abierta, y Encuestas Sociales. Además, participé en la adaptación de los cursos de Estadística Correlacional, Estadística Multivariada y Estrategias de Investigación Cuantitativa.
 
 -   *Guía de tesis*: realizo tutorías a tesistas de magister, a estudiantes de doctorado y a estudiantes de pregrado. En las tutorías promuevo instancias personalizadas y también grupales para que los y las estudiantes puedan aprender de los demás y comentar también sus trabajos. He desarrollado también una serie de recursos educativos referentes a escritura académica:
 
-    -   [Guía de escritura académica para trabajos de titulación](https://jc-castillo.com/post/escritura-academica/)
-    -   [Guía de sugerencias para presentaciones y defensas de trabajos de titulación](https://jc-castillo.com/post/defensas-presentaciones/)
-    -   [Tesisfacsodown: plantilla de escritura en texto plano y reproducible para trabajos de titulación basado en bookdown/R](https://jc-castillo.com/post/tesisfacsodown/)
+    -   [Guía de escritura académica para trabajos de titulación](https://jc-castillo.com/post/escritura-academica/){target="_blank"}
+    -   [Guía de sugerencias para presentaciones y defensas de trabajos de titulación](https://jc-castillo.com/post/defensas-presentaciones/){target="_blank"}
+    -   [Tesisfacsodown: plantilla de escritura en texto plano y reproducible para trabajos de titulación basado en bookdown/R](https://jc-castillo.com/post/tesisfacsodown/){target="_blank"}
 
--   *Coloquio de investigación*: como parte de la formación en investigación, durante los años 2020-2022 coordiné una instancia semanal de presentación de resultados de investigación para tesistas e invitados externos, llamada [“Coloquio de investigación en desigualdad y ciudadanía”](https://jc-castillo.com/docencia/coloquio/)\].
+-   *Coloquio de investigación*: como parte de la formación en investigación, durante los años 2020-2022 coordiné una instancia semanal de presentación de resultados de investigación para tesistas e invitados externos, llamada [“Coloquio de investigación en desigualdad y ciudadanía”](https://jc-castillo.com/docencia/coloquio/){target="_blank"}.
 
 ### Tesis dirigidas
 
@@ -361,7 +361,7 @@ Otros
 
 He participado en una serie de comisiones de tesis, abajo listo solamente en las cuales he participado en calidad de director o co-guía. Cuando están disponibles, el enlace lleva al repositorio académico que contiene la tesis o hacia algún repositorio similar:
 
--   [Matias Retamales (2024). El rol de la socialización familiar y escolar en la percepción de meritocracia en las notas: Un estudio multinivel de estudiantes en Chile. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](http://jc-castillo.com/tesis/2024_el_rol_de_la_sociali/#documento)
+-   [Matias Retamales (2024). El rol de la socialización familiar y escolar en la percepción de meritocracia en las notas: Un estudio multinivel de estudiantes en Chile. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](http://jc-castillo.com/tesis/2024_el_rol_de_la_sociali/#documento){target="_blank"}
 
 -   [Kevin Carrasco (2023). Aceptar la diversidad en el vecindario: Procesos de socialización política de actitudes hacia la diversidad social en estudiantes chilenos. Magister en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://kevin-carrasco.github.io/aceptar-diversidad/){target="_blank"}
 
@@ -389,7 +389,7 @@ He participado en una serie de comisiones de tesis, abajo listo solamente en las
 
 -   [Sandoval, D. (2017) Merezco estar aquí: Un estudio multinivel sobre la relación entre meritocracia y educación. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2017_merezco_estar_aqu%C4%B1_/#documento){target="_blank"}
 
--   [Montedónico, S. (2017) Contexto Polı́tico Institucional y Preferencias Redistributivas en América Latina. Magíster en Sociología, P. Universidad Católica de Chile.](http://jc-castillo.com/tesis/2018_balance_legistlativo/%7Btarget=%22_blank%22%7D)
+-   [Montedónico, S. (2017) Contexto Polı́tico Institucional y Preferencias Redistributivas en América Latina. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2018_balance_legistlativo/#documento){target="_blank"}
 
 -   [Acevedo, F. (2017) Compromiso Cívico Juvenil en Chile: una aproximación desde los recursos. Magíster en Sociología, P. Universidad Católica de Chile.](https://jc-castillo.com/tesis/2016_desigualdad_y_compro/){target="_blank"}
 
@@ -533,7 +533,7 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 [Taller Protocolos reproducibles y reportes dinámicos con R / Rmarkdown. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerRmarkdown-IPOEnero2022/taller-reprod-enero2022.html){target="_blank"}
 
 **2022 Enero.**\
-[Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html){target="_blank"}
+[Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/tallerPrereg-PreprintEnero2022/tallerLISAenero2022.html#1){target="_blank"}
 
 **Septiembre 2020**\
 [ELSOC: Participación política y clases sociales, entrevista a Emmanuelle Barozet y Juan Carlos Castillo. Radio Universidad de Chile](https://coes.cl/2020/09/28/prensa-elsoc-participacion-politica-y-clases-sociales-entrevista-a-emmanuelle-barozet-y-juan-carlos-castillo/){target="_blank"}
@@ -889,7 +889,7 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 -   [Castillo, J.-C., & Carrasco, K. (2022, September). Taller Preregistros ELSOC. Laboratorio de Investigación Social Abierta (LISA) - COES. Santiago, Chile](https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html){target="_blank"}
 
--   [Castillo, J.-C., & Iturra, J. (2022, Enero). Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) – COES. Santiago, Chile](https://lisa-coes.github.io/presentaciones/tallerenero2022/tallerLISAenero2022.html){target="_blank"}
+-   [Castillo, J.-C., & Iturra, J. (2022, Enero). Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints. Laboratorio de Investigación Social Abierta (LISA) – COES. Santiago, Chile](https://lisa-coes.github.io/presentaciones/tallerPrereg-PreprintEnero2022/tallerLISAenero2022.html#1){target="_blank"}
 
 -   [Miranda, D., & Castillo, J.-C. (2022, October). Youth dispositions to participate in disruptive and pacific actions. Conferece INVALSI data - A tool for teaching and scientific research. Rome, Italy](https://jc-castillo.com/publication/2022_youth_dispositions_t/){target="_blank"}
 
@@ -1007,7 +1007,7 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 # Reconocimiento de la obra publicada
 
-Acá puedo mencionar algunos logros registrados en la plataforma [Researchgate.com](https://www.researchgate.net/profile/Juan-Castillo-60), donde difundo parte de mi trabajo académico. En mi perfil cuento con más de 1,661 citas y un índice H de 23. Mi índice de citas ha ido aumentando en el tiempo, el año pasado (2023) superé las 250.
+Acá puedo mencionar algunos logros registrados en la plataforma [Researchgate.com](https://www.researchgate.net/profile/Juan-Castillo-60){target="_blank"}, donde difundo parte de mi trabajo académico. En mi perfil cuento con más de 1,661 citas y un índice H de 23. Mi índice de citas ha ido aumentando en el tiempo, el año pasado (2023) superé las 250.
 
 # Referencias
 
@@ -1067,7 +1067,7 @@ Mi agenda en temas de investigación se proyecta en tres temas principales asoci
 
 3)  Extensión
 
-La mayor parte de mis labores de formación y de extensión se vinculan con la promoción de la ciencia abierta. Junto con haber diseñado y desarrollado el curso de Investigación Social Abierta para pregrado en FACSO (https://cienciasocialabierta.netlify.app/), también he sido invitado a una serie de charlas en distintas universidades, he colaborado con el repositorio de pre-prints de ciencias sociales SocArxiv, y he estado liderando el Laboratorio de Investigación Social Abierta LISA (https://lisa-coes.com/). Desde este espacio hemos logrado sistematizar y promover una serie de prácticas y herramientas de ciencia abierta en las distintas etapas del ciclo de investigación. También hemos creado herramientas como el protocolo de investigación reproducible IPO (https://lisa-coes.com/ipo-repro/), que es una propuesta de organización de la información en proyectos de investigación. El último año desarrollamos una encuesta de conocimiento y prácticas de ciencia abierta para academicas y academicos de ciencias sociales, cuyos datos actualmente nos encontramos analizado y próximamente publicaremos. Finalmente, en la actualidad soy coordinador del subcomité de datos abiertos de la Vicerrectoría de Investigación (VID), donde me invitaron en el marco del proyecto Ines Ciencia Abierta de ANID con el objetivo de desarrollar un reglamento de uso de datos abiertos para la universidad.
+La mayor parte de mis labores de formación y de extensión se vinculan con la promoción de la ciencia abierta. Junto con haber diseñado y desarrollado el curso de Investigación Social Abierta para pregrado en FACSO (https://cienciasocialabierta.netlify.app/){target="_blank"}, también he sido invitado a una serie de charlas en distintas universidades, he colaborado con el repositorio de pre-prints de ciencias sociales SocArxiv, y he estado liderando el Laboratorio de Investigación Social Abierta LISA (https://lisa-coes.com/){target="_blank"}. Desde este espacio hemos logrado sistematizar y promover una serie de prácticas y herramientas de ciencia abierta en las distintas etapas del ciclo de investigación. También hemos creado herramientas como el protocolo de investigación reproducible IPO (https://lisa-coes.com/ipo-repro/){target="_blank"}, que es una propuesta de organización de la información en proyectos de investigación. El último año desarrollamos una encuesta de conocimiento y prácticas de ciencia abierta para academicas y academicos de ciencias sociales, cuyos datos actualmente nos encontramos analizado y próximamente publicaremos. Finalmente, en la actualidad soy coordinador del subcomité de datos abiertos de la Vicerrectoría de Investigación (VID), donde me invitaron en el marco del proyecto Ines Ciencia Abierta de ANID con el objetivo de desarrollar un reglamento de uso de datos abiertos para la universidad.
 
 # Antecedentes adicionales
 
