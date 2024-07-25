@@ -157,7 +157,6 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 \includepdf[pages={1}]{anexos/conferencias/glolab.pdf}
 \includepdf[pages={1}]{anexos/conferencias/konstanz.pdf}
 \includepdf[pages={1}]{anexos/conferencias/isa2023-cohesion.pdf}
-\includepdf[pages={1}]{anexos/conferencias/isa2023-meritocracy.pdf}
 \includepdf[pages={1}]{anexos/conferencias/ESRA2023_certificate.pdf}
 \includepdf[pages={1}]{anexos/conferencias/effort-2023.pdf}
 \includepdf[pages={1}]{anexos/conferencias/conferencista_2023.pdf}
@@ -170,11 +169,14 @@ Los documentos más relevantes asociados a esta postulación pueden ser visualiz
 
 - Coordinador del subcomité de datos de la Vicerrectoría de Investigación, Universidad de Chile (2023-2024)
 
-- Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación. Diciembre2023
+- Invitación a mesa de expertos: Estudio de Formación Ciudadana. Agencia de Calidad de la Educación. Diciembre 2023
+
+- Investigador responsable de Documentos de Proyecto (LC/TS.2022/3) de CEPAL. 'Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados'. Junto a Vicente Espinoza y Emmanuelle Barozet 
 
 ```{=tex}
 \includepdf[pages={1}]{anexos/adicionales/ConstanciaSubcomitesJCC_vdch-firmado.pdf}
 \includepdf[pages={1}]{anexos/distinciones/Invitacionexpertos_EstudioFormacionCiudadana.pdf}
+\includepdf[pages={1}]{anexos/adicionales/cepal-portada.pdf}
 ```
 
 # Cartas de respaldo internacional
