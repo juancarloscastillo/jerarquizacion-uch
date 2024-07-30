@@ -19,6 +19,12 @@ format:
 number-sections: true 
 ---
 
+Este CV es accesible en formato [pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf) y [web/html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html) con links directos a los archivos de respaldo. También se presenta un documento de [anexos](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos.pdf) con algunos respaldos seleccionados en un documento en formato pdf.
+
+La información se encuentra almacenada en un repositorio abierto en [Github](https://github.com/juancarloscastillo/jerarquizacion-uch), y está realizado principalmente en base a Markdown / Quarto.
+
+Antecedentes adicionales se encuentran en la página web [jc-castillo.com](https://jc-castillo.com/) 
+
 # Información personal
 
 **Nombre:** Juan Carlos Castillo Valenzuela
@@ -37,7 +43,7 @@ number-sections: true
 
 -   [Licenciado en Psicología Universidad Católica de Valparaíso](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/informacion-personal/titulos-grado.pdf){target="_blank"}
 
-**Cargo actual en la U. de Chile:**
+**Cargo actual en la Universidad de Chile:**
 
 -   [Profesor Asociado Departamento de Sociología](https://facso.uchile.cl/sociologia/cuerpo-academico/castillo-juan-carlos){target="_blank"}
 
@@ -97,39 +103,44 @@ Título de la tesis doctoral: “The legitimacy of economic inequality. An empir
 ## Becas
 
 **2024**\
-[Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación como profesor visitante en la Universidad de Bremen, Alemania.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-11.pdf){target="_blank"}
+- [Beca del DAAD (Servicio Alemán de Intercambio Académico) para estadía de investigación como profesor visitante en la Universidad de Bremen, Alemania.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-11.pdf){target="_blank"}
 
 **2022**\
-[Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-10.pdf){target="_blank"}
+- [Beca del Instituto de Investigación en Cohesión Social de la Universidad de Bremen para estadía de investigación como profesor visitante.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-10.pdf){target="_blank"}
+
+
 
 **2017**\
-[Beca del DAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-9.pdf){target="_blank"} (Servicio Alemán de Intercambio Académico) para estadía de investigación como profesor visitante en el departamento de macrosociología de la Universidad de Humboldt, Alemania.
+- [Beca del DAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-9.pdf){target="_blank"} (Servicio Alemán de Intercambio Académico) para estadía de investigación como profesor visitante en el departamento de macrosociología de la Universidad de Humboldt, Alemania.
 
 **2016**\
-[Beca del KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-8.pdf){target="_blank"} (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
+- [Beca del KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-8.pdf){target="_blank"} (Servicio Católico de Intercambio Académico) para estadía de investigación en la Universidad de Bremen, Alemania.
 
 **2014**\
-[Beca Volkswagen Stiftung](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/Castillo_Invitation_2014_03_20.pdf){target="_blank"} para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
+- [Beca Volkswagen Stiftung](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/Castillo_Invitation_2014_03_20.pdf){target="_blank"} para presentación de investigación en Conferencia “Re-Thinking Social Inequality” en Hannover, Alemania.
 
 **2009 - 2010**\
-[Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-6.pdf){target="_blank"}
+- [Beca de finalización de doctorado, Berlin Graduate School of Social Sciences.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-6.pdf){target="_blank"}
 
 **2006**\
-[Beca de calificación a la docencia](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-4.pdf){target="_blank"}, Berlin Graduate School of Social Sciences.
+- [Beca de calificación a la docencia](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-4.pdf){target="_blank"}, Berlin Graduate School of Social Sciences.
 
 **2005 - 2009**\
-[Beca de doctorado KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-3.pdf){target="_blank"} (Servicio Católico de Intercambio Académico).
+- [Beca de doctorado KAAD](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-3.pdf){target="_blank"} (Servicio Católico de Intercambio Académico).
 
 **1999 - 2000**\
-[Beca de Maestría DSE](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-1.pdf){target="_blank"} (Fundación Alemana para el Desarrollo Internacional).
+- [Beca de Maestría DSE](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/admisionesybecas-1.pdf){target="_blank"} (Fundación Alemana para el Desarrollo Internacional).
 
 ## Premios y otras distinciones
 
 **2023**\
-[Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/){target="_blank"}
+[Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/){target="_blank"}. Como presidente estoy encargado de coordinar a una comunidad internacional de aproximadamente 50 investigadoras e investigadoras en la promoción y difusión de investigaciones y proyectos en el área de la psicología social psicológica.  
 
 **2020**\
 [Invitado a participar como experto en temas de desigualdad económica a la conferencia Tokio LAINAC. Universidad de Tokio, Japón.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/CONSTANCIA_tokio_lainac.pdf){target="_blank"}
+
+**2018**\
+[Invitado a presentar trabajo sobre ciencia abieta en el simposio internacional Open Scholarship for the Social Sciences. Universidad de Maryland, USA.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-6.pdf){target="_blank"}
 
 **2016**\
 [Primer lugar en concurso de investigación FONDECYT Regular](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-5.pdf){target="_blank"}, grupo de estudio de sociología.
@@ -142,6 +153,25 @@ Título de la tesis doctoral: “The legitimacy of economic inequality. An empir
 
 **2000**\
 [Premio al mejor estudiante de maestría](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-1.pdf){target="_blank"}, Facultad de Economía y Administración Universidad de Potsdam, Alemania.
+
+## Invitaciones para estadías de investigación y profesor visitante (visiting professor)
+
+-   [Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Invitation-Juan-bremen23.pdf){target="_blank"} Bremen, Junio y Julio de 2024.
+
+-   [Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Cooperation-Agreement_RISC-Castillo22.pdf){target="_blank"} Bremen, Julio de 2022.
+
+-   [Invitación a profesor visitante en Sciences Po Grenoble (con la profesora Sonja Zmerli).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Invitation-letter_castillo-grenoble19.pdf){target="_blank"} Diciembre de 2020 (cancelada por pandemia).
+
+-   [Profesor visitante en Departamento de Macrosociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-5.pdf){target="_blank"}, Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
+
+-   [Profesor visitante en Bremen International Graduate School of Social Sciences](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-4.pdf){target="_blank"}, Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
+
+-   [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-3.pdf){target="_blank"} (con profesor Wolfgang Merkel). Julio de 2015.
+
+-   [Estadía de investigación en el Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-2.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
+
+-   [Estadía de investigación en el Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-1.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
+
 
 # Breve cronología laboral
 
@@ -822,9 +852,6 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 [Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Documentos de Proyecto (LC/TS.2022/3). CEPAL.](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados){target="_blank"}
 
 **2017**\
-[Consultoría UNESCO: Análisis de resultados de pruebas de Ciudadanía y convivencia en escuelas de Bogotá, realizado para el informe de Evaluación del Proyecto Educación para la Ciudadanía y la Convivencia (PECC).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/TdRUNESCO.pdf){target="_blank"}
-
-**2017**\
 Consultoría para la Agencia de Calidad de la Educación: Elaboración de preguntas para el módulo de Participación y Vida Democrática de los Indicadores de Desarrollo personal y Social (IDPS).
 
 **2015**\
@@ -833,9 +860,11 @@ Asesoría al Centro de Políticas Públicas UC en la elaboración del “Estudio
 **2015**\
 Consultoría para la Agencia de Calidad de la Educación: Revisión de aspectos conceptuales y metodológicos del Indicador de Participación y Vida Democrática.
 
-## Ponencias a congresos
+## Presentaciones y ponencias a congresos
 
 Cuando están disponibles, el enlace lleva a la constancia de participación. Si no están disponibles, lleva a las slides de la presentación.
+
+- [Castillo, J.-C (2024) Measuring social cohesion in Chile with longitudinal survey data. Presentation at the workshop International Perspectives on the Measurement of Social Cohesion: Insights from Australia, Chile, and Germany. Bremen](https://fgz-risc-data.de/en/news/message/internationalisierung-erfolgreicher-workshop-des-fdz-fgz)
 
 -   [Castillo, J.-C, Tobar, N. (2024). ¿Las estudiantes subestiman sus habilidades tecnológicas? Diferencias de género en autoeficacia digital en contextos escolares chilenos. Congreso Chileno de Sociología - PreAlas. Santiago, Chile](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/prealas2024.pdf){target="_blank"}
 
@@ -843,7 +872,7 @@ Cuando están disponibles, el enlace lleva a la constancia de participación. Si
 
 -   [Castillo, J.-C, Carrasco, K., Ortiz, C. (2024). Barreras para la Ciencia Abierta en la investigación en Ciencias Sociales en Chile. Congreso Chileno de Sociología - PreAlas. Santiago, Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/prealas2024.pdf){target="_blank"}
 
--   [Castillo, J.-C. (2024a, January). Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso. Valparaíso, Chile.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta){target="_blank"}
+-   [Castillo, J.-C. (2024). Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso. Valparaíso, Chile.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta){target="_blank"}
 
 -   [Castillo, J.-C. (2024b, January). Social cohesion and attitudinal changes toward migration. GlobaLab Bremen Conversations on Global Solidarity. Bremen, Germany.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/glolab.pdf){target="_blank"}
 
@@ -1045,47 +1074,33 @@ Mi línea de investigación secundaria también se a relacionado con proyectos F
 
 # Aspectos globales de la obra expuesta
 
-En este apartado lo he organizado en torno a tres áreas principales de desempeño y proyección académica: docencia, investigación y extensión.
+En este apartado lo he organizado en torno a cuatro áreas principales de desempeño y proyección académica: internacionalización, docencia, investigación y extensión.
 
-1)  Docencia:
+## Internacionalización
+
+Mis actividades de investigación se han caracterizado por vínculos internacionales crecientes.principalmente en los últimos años. He realizado estadías como profesor visitante en la Universidad de Humboldt en Berlin, la Universidad de Bremen, el Instituto de Cohesión Social de la Universidad de Bremen, y el Data Processing and Research Center de la International Associaction for the Evaluation of Academic Achievement (IEA) en Hamburgo. Buena parte de mis publicaciones son realizadas en colaboración con profesores y estudiantes de doctorado en Francia, Italia, Alemania, España, Costa Rica, Hong-Kong, Estados Unidos, entre otros. Mis trabajos los he presentado en diferentes instancias internacionales, como las conferencias de la International Sociological Association en Buenos Aires, Tokio, Viena, Toronto y Melbourne, las conferencias de la International Society for Justice Research en Berlin, Banff (Canada) y Adelaide (Australia), las conferencias de la International Society for Political Psychology en Portland, Estambul, Chicago y Lisboa, en la American Educational Research Association en Vancouver, y en la conferencia de la American Political Science Association en Boston. Por mis trabajos en el área de ciencia abierta he sido invitado a la Universidad de Maryland, al Haverford College, la Universidad Iberoamericana de México, y también como coautor de un artículo sobre reproducibilidad con más de 100 colaboradores internacionales, publicado en la prestigiosa revista Proceedings of the National Academy of Sciences (2022). He sido evaluador de tesis doctorales en la École des Hautes Études en Sciences Sociales (EHESS), Universidad de Granada y Australian National University. También me han invitado como evaluador en más de 20 revistas internacionales, entre ellas las principales de mi disciplina, como American Sociological Review,  Research in Social Stratification and Mobility, y European Sociological Review. Finalmente, quiero destacar en este punto que el año 2023 fui electo presidente de uno de los comités de investigación de la International Sociological Association (RC42), desde donde me corresponderá por 4 años coordinar actividades de vinculación internacional de una comunidad de más de 50 investigadores de distintas partes del mundo en el área de la psicología social sociológica, que es la temática donde he desarrollado la mayor parte de mi investigación. 
+
+##  Docencia
 
 En docencia mi principal fortaleza es la enseñanza de metodología y técnicas de investigación social cuantitativa en pregrado y postgrado, área en la que me especialicé en mi doctorado en el departamento de Métodos de Investigación de la Universidad de Humboldt. Además de la enseñanza en cursos de pre y postgrado, mi objetivo es ir más allá de la mera transmisión de técnicas de análisis, poniendo énfasis en los destinatarios de los conocimientos que se están produciendo, así como también en su potencial impacto. Por ello, profundizo en temas de ciencia abierta, como son la transparencia en los procesos de análisis, herramientas de visualización y presentación de resultados, así como también en escritura académica.
 
 En línea con esta orientación hacia la ciencia abierta, los últimos años he implementado en mis cursos estrategias de trabajo colaborativo, reproducibilidad de los resultados y de comunicación de productos científicos. Para ello uso herramientas de software libre y trabajo de análisis y escritura en texto plano (como Markdown), que favorecen tanto la reproducibilidad como el control de versiones en grupos de investigación. Dentro de estas plataformas de trabajo que pretendo seguir integrando en mi docencia puedo mencionar R/Rstudio y sus librerías de ciencia de datos (Rmarkdown, knitr, dplyr y en general tidyverse), así como también software complementario afín a la producción científica en un marco de ciencia abierta, como Latex, Pandoc, Quarto, y Git/GitHub. Si bien esto plantea un entorno exigente para estudiantes de sociología, las evaluaciones de los cursos que he realizado con este enfoque han sido positivas.
 
-2)  Investigación
+##  Investigación
 
 Mi agenda en temas de investigación se proyecta en tres temas principales asociados a proyectos con financiamiento vigente: meritocracia, formación ciudadana y cohesión social.
 
--   Meritocracia: este tema es parte de mi línea principal de investigación de los últimos 10 años, que se caracteriza por vincular aspectos subjetivos y objetivos de la desigualdad económica. Me interesa saber en qué medida características individuales, el contexto interpersonal y macrosocial se relacionan con distintas maneras de percibir, desafiar y justificar la desigualdad. Junto a ello, también son relevantes las consecuencias de percepción y justificación de desigualdad en aspectos como el comportamiento político y las preferencias redistributivas. Todo esto tiene como principal contexto la situación de alta desigualdad económica en Chile, sus orígenes históricos y sus consecuencias para la vida social. En este marco un concepto clave que permite asociar valoraciones subjetivas con la legitimación de estructuras de desigualdad es el de meritocracia. Actualmente estoy en el último año de un proyecto FONDECYT regular que intenta vincular percepciones y preferencias sobre meritocracia con distintos aspectos de la formación ciudadana en la etapa escolar. Este proyecto se basa en un FONDECYT regular previo que estudió la relación entre meritocracia y preferencias redistributivas. En un marco conceptual de economía moral, el objetivo principal de esta investigación fue estudiar la relación entre meritocracia (percepciones y preferencias) y las actitudes frente a la redistribución en ámbitos generales (por ejemplo, impuestos) y también específicos (salud, educación y pensiones). Los dos primeros años del proyecto trabajamos con metodologías cualitativas, y en esta fase siguiente nos centraremos en el análisis de datos secundarios de encuestas comparativas (como ISSP) y longitudinales (ELSOC), así como también en el desarrollo de experimentos de encuesta.
+-   Meritocracia: este tema es parte de mi línea principal de investigación de los últimos 10 años, que se caracteriza por vincular aspectos subjetivos y objetivos de la desigualdad económica. Me interesa saber en qué medida características individuales, el contexto interpersonal y macrosocial se relacionan con distintas maneras de percibir, desafiar y justificar la desigualdad. Junto a ello, también son relevantes las consecuencias de percepción y justificación de desigualdad en aspectos como el comportamiento político y las preferencias redistributivas. Todo esto tiene como principal contexto la situación de alta desigualdad económica en Chile, sus orígenes históricos y sus consecuencias para la vida social. En este marco un concepto clave que permite asociar valoraciones subjetivas con la legitimación de estructuras de desigualdad es el de meritocracia. Actualmente estoy en el último año de un proyecto FONDECYT regular que intenta vincular percepciones y preferencias sobre meritocracia con distintos aspectos de la formación ciudadana en la etapa escolar. Este proyecto se basa en un FONDECYT regular previo que estudió la relación entre meritocracia y preferencias redistributivas. En un marco conceptual de economía moral, el objetivo principal de esta investigación fue estudiar la relación entre meritocracia (percepciones y preferencias) y las actitudes frente a la redistribución en ámbitos generales (por ejemplo, impuestos) y también específicos (salud, educación y pensiones). Los dos primeros años del proyecto trabajamos con metodologías cualitativas, y en esta fase siguiente nos centraremos en el análisis de datos secundarios de encuestas comparativas (como encuesta ISSP) y longitudinales (encuesta ELSOC), así como también en el desarrollo de experimentos de encuesta.
 
--   Formación ciudadana: esta es mi línea secundaria, donde fui coinvestigador de dos FONDECYT regular (2012-2015 y 2018-2021), y que actualmente se proyecta en el Núcleo Milenio de Oportunidades y Desigualdades Digitales (NUDOS). El principal foco de estudio en esta línea ha sido la transmisión intergeneracional de la desigualdad política, dando cuenta de cómo la escuela y la familia influyen en distintos ámbitos de desempeño político de estudiantes, como conocimiento cívico, participación, ciudadanía digital y actitudes democráticas. Los métodos combinan levantamiento cualitativo, cuantitativo, y también análisis de datos secundarios del estudio ICCS (International Civic and Citizenship Education Study), en sus versiones 2009 y 2016. En este proyecto el objetivo principal es estudiar el rol de las familias en la formación ciudadana, ya que investigaciones internacionales señalan que gran parte de las diferencias de origen de las/os estudiantes en temas políticos no alcanzan a ser mitigadas por la escuela. De la misma manera que el proyecto anterior, se considera la formación de investigadores en roles de tesistas y asistentes de investigación.
+-   Formación ciudadana: esta es mi línea secundaria, donde fui coinvestigador de dos FONDECYT regular (2012-2015 y 2018-2021), y que actualmente se proyecta en el Núcleo Milenio de Oportunidades y Desigualdades Digitales (NUDOS), donde soy investigador principal. El foco de estudio en esta línea ha sido la transmisión intergeneracional de la desigualdad política, dando cuenta de cómo la escuela y la familia influyen en distintos ámbitos de desempeño político de estudiantes, como conocimiento cívico, participación, ciudadanía digital y actitudes democráticas. Los métodos combinan levantamiento cualitativo, cuantitativo, y también análisis de datos secundarios del estudio ICCS (International Civic and Citizenship Education Study), en sus versiones 2009 y 2016. En este proyecto el objetivo principal es estudiar el rol de las familias en la formación ciudadana, ya que investigaciones internacionales señalan que gran parte de las diferencias de origen de las/os estudiantes en temas políticos no alcanzan a ser mitigadas por la escuela. De la misma manera que el proyecto anterior, se considera la formación de investigadores en roles de tesistas y asistentes de investigación.
 
--   Cohesión social: parte importante de mi agenda de investigación de los últimos años se relaciona con el Centro de Estudios de Conflicto y Cohesión Social, desde el año 2013. Aquí mi rol combina gestión académica del centro y también participación en proyectos internos transversales como el Observatorio de Cohesión Social y también ELSOC (Estudio Longitudinal Social de Chile). Además dirijo la línea de investigación de interacción social, en temáticas como redes sociales, relaciones intergrupales y también clivajes sociales. He puesto énfasis en vincular las bases de datos levantadas por COES (Observatorio de Huelgas Laborales, Observatorio de Conflictos y ELSOC) con la docencia, con un énfasis en el estudio del cambio social mediante la estimación de modelos longitudinales para datos panel. Acá también he desarrollado colaboración internacional con el Instituto de Investigación en Cohesion Social en la Universidad de Bremen, Alemania.
+-   Cohesión social: parte importante de mi agenda de investigación de los últimos años se relaciona con el Centro de Estudios de Conflicto y Cohesión Social, desde el año 2013. Aquí mi rol combina gestión académica del centro y también participación en proyectos internos transversales como el Observatorio de Cohesión Social y también ELSOC (Estudio Longitudinal Social de Chile). Además dirijo la línea de investigación de interacción social, en temáticas como redes sociales, relaciones intergrupales y también clivajes sociales. He puesto énfasis en vincular las bases de datos levantadas por COES (Observatorio de Huelgas Laborales, Observatorio de Conflictos y ELSOC) con la docencia, con un énfasis en el estudio del cambio social mediante la estimación de modelos longitudinales para datos panel. También he desarrollado colaboración internacional con el Instituto de Investigación en Cohesion Social en la Universidad de Bremen, Alemania, donde he sido profesor visitante el año 2022 y el año 2024.
 
-3)  Extensión
+##  Extensión
 
-La mayor parte de mis labores de formación y de extensión se vinculan con la promoción de la ciencia abierta. Junto con haber diseñado y desarrollado el curso de Investigación Social Abierta para pregrado en FACSO (https://cienciasocialabierta.netlify.app/), también he sido invitado a una serie de charlas en distintas universidades, he colaborado con el repositorio de pre-prints de ciencias sociales SocArxiv, y he estado liderando el Laboratorio de Investigación Social Abierta LISA (https://lisa-coes.com/). Desde este espacio hemos logrado sistematizar y promover una serie de prácticas y herramientas de ciencia abierta en las distintas etapas del ciclo de investigación. También hemos creado herramientas como el protocolo de investigación reproducible IPO (https://lisa-coes.com/ipo-repro/), que es una propuesta de organización de la información en proyectos de investigación. El último año desarrollamos una encuesta de conocimiento y prácticas de ciencia abierta para academicas y academicos de ciencias sociales, cuyos datos actualmente nos encontramos analizado y próximamente publicaremos. Finalmente, en la actualidad soy coordinador del subcomité de datos abiertos de la Vicerrectoría de Investigación (VID), donde me invitaron en el marco del proyecto Ines Ciencia Abierta de ANID con el objetivo de desarrollar un reglamento de uso de datos abiertos para la universidad.
+La mayor parte de mis labores de formación y de extensión se vinculan con la promoción de la ciencia abierta. Junto con haber diseñado y desarrollado el curso de Investigación Social Abierta para pregrado en FACSO (https://cienciasocialabierta.netlify.app/), también he sido invitado a una serie de charlas en distintas universidades en Chile y en el extranjero, he colaborado con el repositorio de pre-prints de ciencias sociales SocArxiv (con sede en la Universidad de Marylan), y he estado liderando el Laboratorio de Investigación Social Abierta LISA (https://lisa-coes.com/). Desde este espacio hemos logrado sistematizar y promover una serie de prácticas y herramientas de ciencia abierta en las distintas etapas del ciclo de investigación. También hemos creado herramientas como el protocolo de investigación reproducible IPO (https://lisa-coes.com/ipo-repro/), que es una propuesta de organización de la información en proyectos de investigación. El último año desarrollamos una encuesta de conocimiento y prácticas de ciencia abierta para academicas y academicos de ciencias sociales, cuyos datos actualmente nos encontramos analizado y próximamente publicaremos. Finalmente, en los años 2023 y 2024 fui coordinador del subcomité de datos abiertos de la Vicerrectoría de Investigación (VID), donde me invitaron en el marco del proyecto Ines Ciencia Abierta de ANID con el objetivo de desarrollar un reglamento de uso de datos abiertos para la universidad.
 
 # Antecedentes adicionales
-
-**Estadías de investigación y visitas como profesor (visiting professor)**:
-
--   [Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Invitation-Juan-bremen23.pdf){target="_blank"} Bremen, Junio y Julio de 2024.
-
--   [Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Cooperation-Agreement_RISC-Castillo22.pdf){target="_blank"} Bremen, Julio de 2022.
-
--   [Invitación a profesor visitante en Sciences Po Grenoble (con la profesora Sonja Zmerli).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Invitation-letter_castillo-grenoble19.pdf){target="_blank"} Diciembre de 2020 (cancelada por pandemia).
-
--   [Profesor visitante en Departamento de Macrosociología](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-5.pdf){target="_blank"}, Humboldt Universität zu Berlin (con profesor Steffen Mau). Berlin, Junio y Julio de 2017.
-
--   [Profesor visitante en Bremen International Graduate School of Social Sciences](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-4.pdf){target="_blank"}, Universidad de Bremen (con profesor Klaus Boehnke). Junio y Julio de 2016.
-
--   [Profesor visitante en Wissenschaftszentrum Berlin für Sozialforschung – WZB](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-3.pdf){target="_blank"} (con profesor Wolfgang Merkel). Julio de 2015.
-
--   [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-2.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Julio-Agosto, 2013.
-
--   [Data Processing and Research Center (DPC)](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/estadiasinvestigacion-1.pdf){target="_blank"}, International Association for the Evaluation of Educational Achievement (IEA). Hamburgo, Enero 2013.
 
 **Software de análisis estadísitico y reporte**: utilizo y enseño herramientas coherentes con el trabajo en ciencia abierta, es decir, de fuente abierta (open-source) y además libres (sin licencia de pago):
 
