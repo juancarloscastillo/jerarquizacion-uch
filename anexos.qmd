@@ -19,9 +19,9 @@ format:
 number-sections: true 
 ---
 
-# **Anexos** {-}
+# **Anexos al CV Normalizado - Prof. Juan Carlos Castillo ** {-}
 
-Los documentos más relevantes asociados a esta postulación pueden ser visualizados directamente desde el CV ya que se encuentran linkeados tanto en la [version pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.pdf) como también en la [versión web/html](https://juancarloscastillo.github.io/jerarquizacion-uch/jerarquizacion.html). En el presente documento se presenta solo una selección de certificados y cartas en el formato requerido en la postulación:
+Los documentos más relevantes asociados a esta postulación pueden ser visualizados directamente desde el CV ya que se encuentran linkeados tanto en la [version pdf](https://juancarloscastillo.github.io/jerarquizacion-uch/cv-jcc.pdf) como también en la [versión web/html](https://juancarloscastillo.github.io/jerarquizacion-uch/cv-jcc.html). En el presente documento se presenta solo una selección de certificados y cartas en el formato requerido en la postulación:
 
 - Certificados de estudio
 - Distinciones (becas, premios, nombramientos, reconocimientos)
