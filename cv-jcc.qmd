@@ -263,18 +263,18 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
 | Asignatura                                                           | Año  | Carácter    | Estudiantes | Participación          |
 |---------------|---------------|---------------|---------------|---------------|
-| Taller de titulación I                                               | 2018 | Obligatorio |             | Docente Responsable    |
-| Taller de titulación II                                              | 2018 | Obligatorio |             | Docente Responsable    |
-| Taller de titulación I                                               | 2017 | Obligatorio |             | Docente Responsable    |
-| Taller de titulación II                                              | 2017 | Obligatorio |             | Docente Responsable    |
-| Taller de titulación I                                               | 2016 | Obligatorio |             | Docente responsable    |
-| Taller de titulación II                                              | 2016 | Obligatorio |             | Docente Responsable    |
+| Taller de titulación I                                               | 2018 | Obligatorio |        2     | Docente Responsable    |
+| Taller de titulación II                                              | 2018 | Obligatorio |         2    | Docente Responsable    |
+| Taller de titulación I                                               | 2017 | Obligatorio |       2      | Docente Responsable    |
+| Taller de titulación II                                              | 2017 | Obligatorio |       2      | Docente Responsable    |
+| Taller de titulación I                                               | 2016 | Obligatorio |       2      | Docente responsable    |
+| Taller de titulación II                                              | 2016 | Obligatorio |       2      | Docente Responsable    |
 | Individuo y sociedad: Psicología social sociológica                  | 2016 | Obligatorio | 60          | Docente Responsable    |
-| Taller de titulación I                                               | 2015 | Obligatorio |             | Docente responsable    |
-| Taller de titulación II                                              | 2015 | Obligatorio |             | Docente Responsable    |
+| Taller de titulación I                                               | 2015 | Obligatorio |       2      | Docente responsable    |
+| Taller de titulación II                                              | 2015 | Obligatorio |       2      | Docente Responsable    |
 | Individuo y sociedad: Psicología social sociológica                  | 2015 | Obligatorio | 60          | Docente Responsable    |
-| Taller de titulación I                                               | 2014 | Obligatorio |             | Docente responsable    |
-| Taller de titulación II                                              | 2014 | Obligatorio |             | Docente Responsable    |
+| Taller de titulación I                                               | 2014 | Obligatorio |       2      | Docente responsable    |
+| Taller de titulación II                                              | 2014 | Obligatorio |      2       | Docente Responsable    |
 | Taller de integración III (desarrollo de proyectos de investigación) | 2012 | Obligatorio | 60          | Co-Docente Responsable |
 | Taller de integración III (desarrollo de proyectos de investigación) | 2011 | Obligatorio | 60          | Co-Docente Responsable |
 
@@ -284,9 +284,9 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 |---------------|---------------|---------------|---------------|---------------|
 | Modelos multinivel                                                 | 2015-2018 | Electivo    | 20          | Docente Responsable    |
 | Modelos de ecuaciones estructurales                                | 2014-2018 | Electivo    | 20          | Docente Responsable    |
-| Seminario de tesis de magíster I                                   | 2014-2018 | Obligatorio |             | Docente Responsable    |
-| Seminario de tesis de magíster II                                  | 2014-2018 | Obligatorio |             | Docente Responsable    |
-| Seminario de profundización metodológica - Doctorado en Psicología | 2012-2013 | Obligatorio |             | Docente Responsable    |
+| Seminario de tesis de magíster I                                   | 2014-2018 | Obligatorio |      5       | Docente Responsable    |
+| Seminario de tesis de magíster II                                  | 2014-2018 | Obligatorio |      5       | Docente Responsable    |
+| Seminario de profundización metodológica - Doctorado en Psicología | 2012-2013 | Obligatorio |      1       | Docente Responsable    |
 | Metodología cuantitativa avanzada 1. Doctorado en psicología       | 2012-2013 | Obligatorio | 20          | Co-Docente Responsable |
 | Metodología cuantitativa avanzada 2. Doctorado en psicología       | 2012-2013 | Obligatorio | 20          | Co-Docente Responsable |
 
@@ -299,8 +299,8 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
 ### Destaque aspectos específicos de su actividad docente que, a su juicio, reflejen su creatividad en este aspecto {#destaque-aspectos-específicos-de-su-actividad-docente-que-a-su-juicio-reflejen-su-creatividad-en-este-aspecto}
 
--   *Creatividad docente*: en mis cursos de pre y postgrado utilizo una lógica de ciencia abierta, promoviendo el uso de herramientas de trabajo reproducible en un contexto colaborativo. Más allá del análisis de datos, propongo una visión de productos de investigación con foco comunicacional durante el proceso de investigación.
-
+-   *Creatividad docente*: en mis cursos de pre y postgrado utilizo una lógica de ciencia abierta, promoviendo el uso de herramientas de trabajo reproducible en un contexto colaborativo. Más allá del análisis de datos, propongo una visión de productos de investigación con foco comunicacional durante el proceso de investigación. Por ejemplo, en mis cursos de análisis de datos cuantitativos utilizamos software libre, se ejercita la escritura abierta (en formato Markdown y Latex), y se utilizan repositorios abiertos. También se hace énfasis en análisis de datos pertinentes a las problemáticas sociales del país. Por ejemplo, en la última versión del curso de pregrado Estadística Correlacional, todos los trabajos fueron realizados con la última versión de la encuesta de caracterización socioeconómica CASEN (2023).
+  
 -   *Textos docentes o apuntes de clases*: Cada asignatura dictada cuenta con su propia página web que contiene los materiales de cada curso (presentaciones, talleres, evaluaciones, etc.). Además, se cuenta con videos tutoriales y guías prácticas. Los prácticos son también autoevaluados mediante reportes de progreso que se encuentran disponibles en la misma página. Consistente con una lógica de ciencia abierta, los sitios web se encuentran alojados en repositorios abiertos en Github. La disponibilidad de esta información permite vincular los contenidos entre los distintos cursos dictados, así como también abrir y transparentar los contenidos para quien esté interesado/a. Además, cada versión del curso (en cada año) sigue estando disponible, de manera que los/las estudiantes puedan volver a visitar el mismo sitio de su versión del curso cuando lo requieran. Algunos ejemplos de cursos son:
 
     -   [Estadística correlacional](https://correlacional.netlify.app/){target="_blank"}, pregrado de sociología. Segundo semestre 2023
@@ -324,9 +324,7 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
 **A. Tesis dirigidas de magíster: (M.A., M.Sc.), Doctorado (Ph.D), como profesor responsable.**
 
-He participado en una serie de comisiones de tesis, abajo listo solamente en las cuales he participado en calidad de director o co-guía. Cuando están disponibles, el enlace lleva al repositorio académico que contiene la tesis o hacia algún repositorio similar.
-
-Universidad de Chile:
+_A.1 Magíster_
 
 -   [Matias Retamales (2024). El rol de la socialización familiar y escolar en la percepción de meritocracia en las notas: Un estudio multinivel de estudiantes en Chile. magíster en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](http://jc-castillo.com/tesis/2024_el_rol_de_la_sociali/#documento){target="_blank"}
 
@@ -335,8 +333,6 @@ Universidad de Chile:
 -   [Francisco Meneses (2023). El lenguaje como brecha de la formación ciudadana: El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.. magíster en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://franciscomeneses.github.io/Tesis/){target="_blank"}
 
 -   [Anais Herrera (2023). ¿Qué pueden hacer las escuelas para promover actitudes positivas hacia la igualdad de derechos?. magíster en Ciencias Sociales - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile.](https://repositorio.uchile.cl/handle/2250/193679){target="_blank"}
-
-Pontificia Universidad Católica de Chile:
 
 -   [Guillermo Beck (2019). Explorando la asociación entre redes de contacto ocupacionales y la justificación de la desigualdad social en Chile. magíster en Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile.](https://jc-castillo.com/tesis/2019_explorando_la_asocia/#documento){target="_blank"}
 
@@ -368,9 +364,20 @@ Pontificia Universidad Católica de Chile:
 
 -   [Torres, A. (2014) Aspectos subjetivos de la meritocracia y su relación con la percepción de desigualdad en Chile. Magíster en Psicología Social-Comunitaria, P. Universidad Católica de Chile.](https://jc-castillo.com/docs/TesisAlexTorresMeritocracia.pdf){target="_blank"}
 
-Internacional:
+_A.2 Doctorado_
 
--   [Rodrigo Yanez (2019). Inégalité subjective au Chili. Représentation des différences sociales (in)justes à travers le temps. Doctorado en Sociología - EHESS. Paris. (co-director).](https://jc-castillo.com/tesis/2019_inegalite_subjective/#documento){target="_blank"}
+- [Amante, Dayana (2022 - ) Percepción y justificación de desigualdad como predictores de preferencias redistributivas en Latinoamérica. Doctorado en Psicología, Universidad Nacional de Córdoba (Director).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/postgrado/tesisDaiAmante-inscripcion.pdf){target="_blank"}
+
+- [Castro, Juan-Diego (2020) Efectos psicosociales de la percepción de desigualdad económica en la vida cotidiana. Doctorado en Psicología Social, Universidad de Granada (Comité evaluador).](https://digibug.ugr.es/handle/10481/63947){target="_blank"}
+
+- [Rodrigo Yanez (2019). Inégalité subjective au Chili. Représentation des différences sociales (in)justes à travers le temps. Doctorado en Sociología - EHESS, Paris (Co-director).](https://ehess.fr/fr/soutenance/in%C3%A9galit%C3%A9-subjective-chili-repr%C3%A9sentation-diff%C3%A9rences-sociales-injustes-travers-temps){target="_blank"}
+
+- [Miranda, D. (2018) The civic and civil dimensions of youth participation. Doctorado en sociología, P. Universidad Católica de Chile (Director).](https://repositorio.uc.cl/handle/11534/22255){target="_blank"}
+  
+- [Trebilcock, María Paz (2015) Hijos, amigos y mineros: Vínculos de cohesión social en el trabajo. El caso de trabajadores de empresas subcontratistas de Codelco. Doctorado en Sociología, P. Universidad Católica (Comité evaluador).](https://buscador.bibliotecas.uc.cl/discovery/fulldisplay?docid=alma990006674890203396&context=L&vid=56PUC_INST:56PUC_INST&lang=es&search_scope=TODO&adaptor=Local%20Search%20Engine&tab=TODO&query=any,contains,trebilcock&facet=rtype,include,dissertations&offset=0) 
+
+- [Fromm, German (2017) Evaluando la influencia del liderazgo instrucional y la heterogeneidad académica sobre las creencias de eficacia de docentes. Doctorado en Educación, Pontificia Universidad Católica de Chile (Comité evaluador).](https://liderazgoescolar.uc.cl/index.php?option=com_content&view=article&id=796:nuevo-doctor-en-educacion-uc-presenta-evidencias-sobre-liderazgo-instruccional&catid=13&Itemid=291) 
+
 
 **B. Memorias de pregrado dirigidas como profesor responsable conducentes a grado o título**
 
@@ -430,44 +437,45 @@ En la mayor parte de mis investigaciones utilizo métodos de análisis cuantitat
 ### Proyectos de investigación financiados en fondos concursables con revisión de pares
 
 **2023-2025**\
-[Investigador Principal Núcleo Milenio en Ciencias Sociales: Desigualdades y Oportunidades Digitales (NUDOS).](https://www.nudos.cl/sobre-nudos/){target="_blank"}
+Investigador Principal [Núcleo Milenio en Ciencias Sociales: Desigualdades y Oportunidades Digitales (NUDOS)](https://www.nudos.cl/sobre-nudos/){target="_blank"}. Este proyecto financiado por ANID reúne a expertos en comunicación, ciencia política y sociología con trayectoria en el estudio de brechas y oportunidades de los medios digitales. Su objetivo es avanzar en la comprensión científica de las capacidades de empoderamiento y las fuentes de desigualdad y sesgos en la producción, transmisión y uso de medios digitales y sus implicancias en los ámbitos social, político e informativo. El foco está especialmente en personas vulnerables (mujeres, estatus socioeconómico más bajo, residencia rural y adultos mayores), prioritarias para las políticas de inclusión digital. 
+
 
 **2020-2024**\
-[Investigador principal proyecto FONDECYT Regular 1210847: Meritocracia en la escuela (EDUMER): Fundamentos morales del mercado educativo y sus implicancias para la formación ciudadana en Chile (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-edumer/){target="_blank"}
+Investigador principal proyecto [FONDECYT Regular 1210847: Meritocracia en la escuela (EDUMER): Fundamentos morales del mercado educativo y sus implicancias para la formación ciudadana en Chile (adjudicado en grupo de estudio de sociología)](https://jc-castillo.com/project/fondecyt-edumer/){target="_blank"}.  Basándose en conceptos y evidencias de la sociología económica y de la educación, este proyecto aborda las percepciones y valoraciones de estudiantes de ciclo básico y medio en relación a aspectos específicos del mercado educativo vinculados a meritocracia, como son la selección, la competencia y el esfuerzo individual. Junto a ello, este proyecto pone énfasis en las posibles contradicciones existentes entre la valoración de aspectos meritocráticos individuales y el énfasis en normas colectivas y de cohesión social que caracterizan a la formación ciudadana (Cox & Castillo, 2015; Resh & Sabbagh, 2013, 2017). El proyecto contempla en sus primer año una fase cualitativa de entrevistas y grupos de discusión abarcando profesores, familias y estudiantes. Los años posteriores se enfocarán en el desarrollo del estudio panel ​ “Justicia educacional y ciudadanía”​ , que seguirá durante tres años a cohortes de 6to, 8vo y 2do medio de 30 escuelas del país.
 
-**2019-2024**\
-[Investigador principal -segunda fase proyecto FONDAP COES: Centro para el estudio de Conflicto y Cohesión Social (ANID).](https://coes.cl/integrantes/juan-carlos-castillo/){target="_blank"} En el marco de este proyecto además desempeño las siguientes funciones:
+**2013-2024**\
+Subdirector/Investigador principal [FONDAP COES: Centro para el estudio de Conflicto y Cohesión Social (ANID)](https://coes.cl/integrantes/juan-carlos-castillo/){target="_blank"}.  Este centro desarrolla investigación colaborativa en temas relacionados al conflicto social y la cohesión en Chile, por medio de un equipo multidisciplinario proveniente de las ciencias sociales y humanidades. COES centra sus actividades académicas y de difusión en el análisis de las múltiples manifestaciones del conflicto social en Chile, sus causas así como también su contexto cultural e histórico. En la primera etapa de este centro (2013-2018) fui subdirector, y en la segunda (2019-2023) Investigador principal de la línea Interacciones Grupales e Individuales, que contribuye al análisis y comprensión de los conflictos sociales y la cohesión en Chile mediante la integración de las dimensiones interpersonal e intergrupal al contexto macrosocial. El Centro está patrocinado por la Universidad de Chile y la Pontificia Universidad Católica de Chile, y como instituciones asociadas se encuentran la Universidad Diego Portales y la Universidad Adolfo Ibáñez.
+
+En el marco de este proyecto además desempeño las siguientes funciones:
 
 -   [Coordinador del Laboratorio de Investigación Social Abierta (LISA-COES).](https://lisa-coes.com/){target="_blank"}
 
 -   [Coordinador del Observatorio de Cohesión Social (OCS-COES)](https://ocs-coes.netlify.app/){target="_blank"}
 
 **2018-2021**\
-[Coinvestigador proyecto FONDECYT Regular 1181239: Socialización política y educación para la ciudadanía: El rol de la familia y de la escuela (adjudicado en grupo de estudio de sociología). Investigador principal: Cristián Cox.](https://jc-castillo.com/project/fondecyt-ciudadania2/){target="_blank"}
+Coinvestigador proyecto [FONDECYT Regular 1181239: Socialización política y educación para la ciudadanía: El rol de la familia y de la escuela (adjudicado en grupo de estudio de sociología). Investigador principal: Cristián Cox.](https://jc-castillo.com/project/fondecyt-ciudadania2/){target="_blank"} Esta investigación hace intenso uso del conocimiento secundario existente sobre educación ciudadana que realiza la escolaridad en Chile, aprovechando las bases de datos de los estudios internacionales de formación ciudadana CIVED-2000, ICCS-2009, ICCS-2016, y las de la Agencia para la Calidad de 2017, (‘Estudio Ciudadanía Agencia 2017’). Al mismo tiempo lleva a cabo una Encuesta de Formación Ciudadana 2020, con cuestionarios a una muestra representativa de padres, docentes y estudiantes de 4to medio (app. 1000 estudiantes y sus padres); y un estudio cualitativo de los procesos y relaciones formativas de capacidades ciudadanas en Cuartos Medios. La encuesta y el estudio cualitativo tienen como eje la implementación de la Ley de Formación Ciudadana y la consiguiente creación de la asignatura de Formación Ciudadana, que comienza el año 2019 en enseñanza media. De esta manera, la disponibilidad de información aún no explotada y la contingencia de la implementación de la Ley referida representan una oportunidad histórica para avanzar en la investigación de este tema en el país.
 
 **2016-2019**\
-[Investigador principal proyecto FONDECYT Regular 1160921: Economía moral de la meritocracia y preferencias redistributivas (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-economiamoral/){target="_blank"}
+Investigador principal proyecto [FONDECYT Regular 1160921: Economía moral de la meritocracia y preferencias redistributivas (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-economiamoral/){target="_blank"} El objetivo general de nuestra investigación fue analizar la relación entre creencias en la meritocracia y preferencias redistributivas desde una perspectiva de economía moral, atendiendo al contexto institucional en Chile y en perspectiva comparativa internacional. El caso de Chile surge como relevante para este estudio dada su historia de implementación de políticas de mercado en ámbitos sociales, como la introducción de sistemas de capitalización individual en pensiones, los vouchers en educación, y la marcada segmentación en sistemas de salud según capacidad de pago. El argumento central es que aquellos individuos que manifiesten una alta creencia en el mérito, particularmente en esfuerzo y en talento, serán menos proclives a apoyar políticas que reduzcan las diferencias de ingreso (preferencias sobre desigualdad) así como también políticas universalistas que busquen aumentar el bienestar de los ciudadanos (preferencias sobre políticas sociales).
 
 **2015-2017**\
-Investigador patrocinante proyecto FONDECYT Postdoctorado 3160705: Elite Económica, Concentración de Ingresos y Tributación: Conflictos redistributivos en Chile (adjudicado en grupo de estudio de sociología). Investigador principal: Jorge Atria.
-
-**2013 - 2018**\
-[Subdirector e investigador principal FONDAP COES: Centro para el estudio de Conflicto y Cohesión Social (CONICYT).](https://coes.cl/integrantes/juan-carlos-castillo/){target="_blank"}
+Investigador patrocinante proyecto FONDECYT Postdoctorado 3160705: Elite Económica, Concentración de Ingresos y Tributación: Conflictos redistributivos en Chile (adjudicado en grupo de estudio de sociología). Investigador principal: Jorge Atria. El proyecto parte del contexto socioeconómico actual en Chile, que incluye altas y persistentes tasas de
+desigualdad, un perfil distributivo de alta concentración en los percentiles superiores, un rol limitado de la política fiscal para reducir disparidades y una mayor demanda por financiamiento de derechos sociales - unida a un cuestionamiento al orden social y las desigualdades existentes- entendiendo tales fenómenos como conflictos redistributivos, poniendo en relieve la tributación, su concreción en instituciones y sus múltiples significados económicos, políticos, normativos y sociales como una herramienta fundamental para examinar las potencialidades y límites de la redistribución, y con ello, el rol asignado al Estado frente a los desafíos socioeconómicos del país, incluyendo no sólo el diseño de políticas públicas para los grupos más desaventajados, sino también el ejercicio de soberanía política para establecer una arquitectura de cooperación social que incorpore la participación de quienes ocupan las posiciones de más ingreso del país. Esto se concreta en cuatro objetivos: (1) Explicar los principales determinantes institucionales, sociales y simbólicos del cumplimiento tributario de la elite económica chilena; (2) Examinar las principales tensiones impositivas y redistributivas en el debate público chileno sobre la reforma tributaria de 2014; (3) Caracterizar las nociones de “Cultura pro Estado” y “Cultura pro Contribuyente” en las principales instituciones tributarias chilenas; y (4) Identificar los repertorios de evaluación de la elite chilena sobre concentración de ingreso en comparación con otros estudios que abordan el mismo objetivo en otros países de América o Europa.
 
 **2013 - 2014**\
-Investigador principal proyecto Apoyo a la Formación de Redes Internacionales entre Centros de Investigación (CONICYT DRI - Departamento de Relaciones Internacionales).
+Investigador principal proyecto Apoyo a la Formación de Redes Internacionales entre Centros de Investigación (CONICYT DRI - Departamento de Relaciones Internacionales). Este proyecto establece relaciones de colaboración entre el Centro Mide UC de la Pontificia Universidad Católica de Chile, y el Data Processing and Research Center de la IEA (International Association for the Evaluation of Academic Achievement), en Hamburgo, Alemania. En este marco se desarrollan estadías de investigación y escritura de artículos de investigación. 
 
 **2012 - 2015**\
-[Investigador principal proyecto FONDECYT de Iniciación 11121203: Social justice and citizenship participation: An international comparison with focus on the case of Chile (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-iniciacion/){target="_blank"}
+Investigador principal proyecto [FONDECYT de Iniciación 11121203: Social justice and citizenship participation: An international comparison with focus on the case of Chile (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-iniciacion/){target="_blank"} Este proyecto tuvo como principal objetivo analizar el rol que juegan las percepciones y creencias respecto de la desigualdad económica en distintas formas de participación política y ciudadana.  En primer lugar se realizó un análisis de distintas encuestas donde había indicadores relevantes de los temas en estudio (justicia y participación). Ya que este no es un tema que cuente con un amplio respaldo en investigaciones anteriores, en una segunda etapa se diseñó una encuesta con indicadores específicos en temas de desigualdad, justicia y participación. Esta encuesta fue aplicada cara a cara a una muestra de alrededor de 1200 individuos representativos del país durante el año 2013. Además, durante el año 2014 se aplicó nuevamente a los residentes en Santiago, de manera de evaluar estabilidad o cambio en las variables presentes en el estudio. La encuesta es la primera de este tipo en el país en esta temática.
 
 **2012 - 2015**\
-[Coinvestigador proyecto FONDECYT 1120630: Socialización política y experiencia escolar, Chile en contexto internacional - Investigador principal: Cristián Cox (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-ciudadania1/){target="_blank"}
+Coinvestigador proyecto [FONDECYT 1120630: Socialización política y experiencia escolar, Chile en contexto internacional - Investigador principal: Cristián Cox (adjudicado en grupo de estudio de sociología).](https://jc-castillo.com/project/fondecyt-ciudadania1/){target="_blank"} La hipótesis general de investigación en este proyecto es que el currículo escolar, junto a una serie de factores contextuales, poseen una influencia en la formación cívica y ciudadana. El contraste de esta hipótesis requiere por un lado un análisis de los contenidos curriculares, y por otro de factores contextuales a nivel familiar (nivel socioeconómico, capital cultural), nivel curso (variables asociadas a los docentes y la composición del curso), nivel escuela (características sociodemográficas y preocupación por temas cívico/ciudadanos), y nivel comparativo de países (indicadores socioeconómicos y de cultura política). Por lo tanto, la investigación se define por el desarrollo de dos líneas de trabajo, curricular y contextual, con lo que se espera dar respuesta a la pregunta de investigación. Dentro de los factores contextuales se da un acento especial al rol de los docentes, complementando el análisis de bases de datos secundarias con el levantamiento de información cualitativa de prácticas docentes en aula.
 
 **2011 - 2012**\
-Investigador principal proyecto Inicio 11/2011: Inequality social justice and political participation. Vicerrectoría de Investigación de la P. Universidad Católica de Chile.
+Investigador principal proyecto Inicio 11/2011: Inequality social justice and political participation. Vicerrectoría de Investigación de la P. Universidad Católica de Chile. Este proyecto utiliza datos secundarios para analizar la relación entre creencias en la justicia distributiva y la participación política.
 
 **2010 - 2011**\
-Investigador principal proyecto Inicio 24/2010: Testing the stability of perception and justification of economic inequality in Chile: A cross-sectional time comparison. Vicerrectoría de Investigación de la P. Universidad Católica de Chile.
+Investigador principal proyecto Inicio 24/2010: Testing the stability of perception and justification of economic inequality in Chile: A cross-sectional time comparison. Vicerrectoría de Investigación de la P. Universidad Católica de Chile. Esta investigación utiliza datos secundarios repetidos en el tiempo para analizar cambios en la percepción y justificación de la desigualdad económica. 
 
 ## Creación
 
@@ -476,7 +484,7 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 ## Extensión y Divulgación
 
 **2024 Agosto.**\
-[Invitación a participar en Red de Colaboración para el Estado del Servicio Civil](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/servicio-civil.pdf){target="_blank"}
+[Invitación a participar en Red de Colaboración para el Estado del Servicio Civil](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/servicio-civil.png){target="_blank"}. Esta es una red de aliados en temas de excelencia, diversidad e innovación en el Empleo Público y la Alta Dirección, que pretende aumentar y diversificar la evidencia con la que se cuenta para el desarrollo de políticas públicas, en línea con los desafíos que presenta el Servicio Civil. 
 
 **2024 Enero.**\
 [Taller Herramientas de Ciencia Abierta: Apertura y reproducibilidad de proyectos de investigación. Proyecto Ingeniería 2030 de la Facultad de Ingeniería de la Universidad de Valparaíso.](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta){target="_blank"}
@@ -491,7 +499,7 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 [Conferencia Flujo y Componentes de la Investigación Abierta. 9o Congreso de Bibliotecas Universitarias y Especializadas Universidad de Chile.](https://lisa-coes.github.io/presentaciones/tallerPrereg-PreprintEnero2022/bibliotecas-Enero2023.html){target="_blank"}
 
 **2022 Septiembre.**\
-[Taller Preregistros ELSOC. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html){target="_blank"}
+[Taller Preregistros ELSOC. Laboratorio de Investigación Social Abierta (LISA) - COES.](https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html){target="_blank"} Los Preregistros son una herramienta de ciencia abierta que consiste en declarar y publicar las hipótesis de investigación previo a la realización de los análisis de datos.
 
 **2022 Junio.**\
 [Curso Herramientas para la apertura del flujo de investigación científica. Presentación en el seminario: Ciencia abierta ¿es ciencia accesible?. Universidad Iberoamericana, México.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/conferencias/ConstanciaIBERO.pdf){target="_blank"}
@@ -626,7 +634,7 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 -   Daniel Miranda, asistente en varios proyectos FONDECYT y también alumno de doctorado, tenemos varias coautorías y proyectos de investigación en conjunto. Trabajó en Mide UC y en psicología UC; acaba de ser seleccionado como profesor en psicología en FACSO.
 
--   Ariel Azar, asistente en FONDECYT y coautor de artículos. Se doctoró en psicología en la Universidad de Chicago, actualmente profesor en Purdue University.
+-   Ariel Azar, asistente en FONDECYT y coautor de artículos. Se doctoró en sociología en la Universidad de Chicago, actualmente profesor en Purdue University.
 
 -   Matías Placencio, tesista FONDECYT y colaborador en investigaciones sobre formación ciudadana, actualmente doctorándose en Boston College.
 
@@ -634,13 +642,11 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 ## Libros y publicaciones periódicas
 
-### Libros y monografías
+### Libros y capítulos con referato externo
 
 -   [Cox, C. & Castillo, J. (Eds.) (2015) Aprendizaje de la ciudadanía: Contextos, experiencias y resultados. Santiago: Ediciones UC.](https://www.jstor.org/stable/j.ctt1bhkq64){target="_blank"}
 
 -   [Castillo, J. (2011). The legitimacy of economic inequality: An empirical approach to the case of Chile. Boca R.: Dissertation.com.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/castillo-2011-book.pdf){target="_blank"}
-
-### Capítulos de libros & documentos de trabajo.
 
 -   [Carrasco, K., García-Castro, J. D., & Castillo, J. C. (2024). La socialización de las actitudes hacia la desigualdad y meritocracia en la etapa escolar en Chile. En G. Assusa & G. Benza (Eds.), América Latina desigual. Preguntas, enfoques y tendencias actuales (Clacso y Siglo ventiuno editores, pp. 205-234).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/Carrasco-etal.pdf){target="_blank"}
 
@@ -670,15 +676,32 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 -   [Olivos, F., Mackenna, B., Castillo, J. & Bargsted, M. (2015) Percepción de conflicto en Chile: Un análisis desde la opinión pública. En M.Castillo & C.Maldonado (Eds.), Desigualdades: Tolerancia, legitimación y conflicto en las sociedades latinoamericanas. Santiago: RIL Editores.](https://jc-castillo.com/docs/Castillo%20et%20al%202015%20percepci%c3%b3n%20de%20conflicto%20en%20Chile.pdf){target="_blank"}
 
--   [Cox, C., Bascopé, M., Castillo, J., Bonhomme, M., Miranda, D. (2014) Educación Ciudadana en América Latina: Prioridades de los Currículos. Working Papers on Curriculum Issues, UNESCO International Bureau of Education (IBE).](https://unesdoc.unesco.org/ark:/48223/pf0000227975){target="_blank"}
-
 -   [Castillo, J. & Olivos, F. (2014) Redistribución e impuestos: Un análisis desde la opinión pública. En Atria, J. Tributación en Sociedad: Impuestos y Redistribución en el Chile del Siglo XXI (143-166). Santiago: Uqbar.](https://jc-castillo.com/docs/castillo%20&%20olivos%20redistribucion%20e%20impuestos.pdf){target="_blank"}
+
+-   Castillo, J., & Asun, D. (2002). Creencias en la Justicia en el Mundo: Un Estudio Preliminar en Relación a Actitudes de Intolerancia y Discriminación. In D. Paez (Ed.), Psicología Social. Buenos Aires: Prentice Hall.
+
+### Documentos de trabajo y reportes
+
+- [Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Documentos de Proyecto (LC/TS.2022/3). CEPAL.](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados){target="_blank"}
+
+-   [Cox, C., Bascopé, M., Castillo, J., Bonhomme, M., Miranda, D. (2014) Educación Ciudadana en América Latina: Prioridades de los Currículos. Working Papers on Curriculum Issues, UNESCO International Bureau of Education (IBE).](https://unesdoc.unesco.org/ark:/48223/pf0000227975){target="_blank"}
 
 -   [Castillo, J. Miranda, D. & Carrasco, D. (2011). La percepción de desigual de la desigualdad (The unequal perception of inequality). Technical report IT1101, Measurement Center Mide-UC. Santiago: P. Universidad Católica de Chile.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/castillo-percepciondesigual.pdf){target="_blank"}
 
 -   [Castillo, J. & Carrasco, D. (2010). Sobre la estabilidad del autoritarismo: Un caso de medición de invarianza longitudinal (About the stability of authoritarianism: A case of measurement invariance). Technical report IT1008, Measurement Center Mide-UC. Santiago: P. Universidad Católica de Chile.](https://jc-castillo.com/docs/Estabilidad%20del%20autoritarismo.pdf){target="_blank"}
+  
+- Castillo, J. (2008). Factorial survey: Dimensions of Just Rewards. International Social Justice Project - Working Paper N°165. Berlin: Humboldt University.
 
--   Castillo, J., & Asun, D. (2002). Creencias en la Justicia en el Mundo: Un Estudio Preliminar en Relación a Actitudes de Intolerancia y Discriminación. In D. Paez (Ed.), Psicología Social. Buenos Aires: Prentice Hall.
+- Castillo, J., Gerlitz, J., & Schrenker, M. (2008). Perception and Legitimacy of Income Inequality in International Comparison. International Social Justice Project - Working Paper N°168. Berlin: Humboldt University.
+
+- [Castillo, J., Mühleck, K., & Wegener, B. (2008). The Empirical Approach to the Study of Social Justice: A Research Agenda for Latin America. Observatory on Inequality in Latin America – Working Paper N°24. Miami: University of Miami.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/workingpaper24.pdf){target="_blank"}
+
+- [Schneider, S., & Castillo, J. (2007). Internal and External Attributions of Poverty - Germany 1991/ 2006. International Social Justice Project - Working Paper N°132, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No132.pdf){target="_blank"}
+
+- [Castillo, J., & Schneider, S. (2007). Internal and External Attributions of Poverty and Wealth. International Social Justice Project - Working Paper N°131, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No131.pdf){target="_blank"}
+
+- [Castillo, J. (2007) Legitimation and Justice Ideologies in contexts of extreme economic inequality. International Social Justice Project - Working Paper N°125, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No125.pdf){target="_blank"}
+
 
 ### Revistas nacionales
 
@@ -718,7 +741,7 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 -   [Castillo, J.-C., García-Castro, J. D., & Venegas, M. (2022). Perception of economic inequality: Concepts, associated factors and prospects of a burgeoning research agenda. International Journal of Social Psychology, 37(1), 180–207. https://doi.org/10.1080/02134748.2021.2009275](https://doi.org/10.1080/02134748.2021.2009275){target="_blank"} (WOS)
 
--   [Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H. V., Adem, M., Adriaans, J., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Balzer, D., Bauer, G., Bauer, P. C., Baumann, M., Baute, S., Benoit, V., Bernauer, J., Berning, C., … Castillo, J,... Żółtak, T. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44), e2203150119.](https://doi.org/10.1073/pnas.2203150119){target="_blank"}
+-   [Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H. V., Adem, M., Adriaans, J., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Balzer, D., Bauer, G., Bauer, P. C., Baumann, M., Baute, S., Benoit, V., Bernauer, J., Berning, C., … Castillo, J,... Żółtak, T. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44), e2203150119.](https://doi.org/10.1073/pnas.2203150119){target="_blank"} (WOS)
 
 -   [Franetovic, G., & Castillo, J. (2022). Preferences for Income Redistribution in Unequal Contexts: Changes in Latin America Between 2008 and 2018. Frontiers in Sociology, 7, 806458. https://doi.org/10.3389/fsoc.2022.806458](https://doi.org/10.3389/fsoc.2022.806458){target="_blank"} (WOS)
 
@@ -776,9 +799,6 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 ## Otros escritos e informes
 
-**2022**\
-[Castillo, J.-C., Espinoza, V., & Barozet, E. Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados. Documentos de Proyecto (LC/TS.2022/3). CEPAL.](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados){target="_blank"}
-
 **2017**\
 Consultoría para la Agencia de Calidad de la Educación: Elaboración de preguntas para el módulo de Participación y Vida Democrática de los Indicadores de Desarrollo personal y Social (IDPS).
 
@@ -787,24 +807,6 @@ Asesoría al Centro de Políticas Públicas UC en la elaboración del “Estudio
 
 **2015**\
 Consultoría para la Agencia de Calidad de la Educación: Revisión de aspectos conceptuales y metodológicos del Indicador de Participación y Vida Democrática.
-
-**2008**\
-Castillo, J. (2008). Factorial survey: Dimensions of Just Rewards. International Social Justice Project - Working Paper N°165. Berlin: Humboldt University.
-
-**2008**\
-Castillo, J., Gerlitz, J., & Schrenker, M. (2008). Perception and Legitimacy of Income Inequality in International Comparison. International Social Justice Project - Working Paper N°168. Berlin: Humboldt University.
-
-**2008**\
-[Castillo, J., Mühleck, K., & Wegener, B. (2008). The Empirical Approach to the Study of Social Justice: A Research Agenda for Latin America. Observatory on Inequality in Latin America – Working Paper N°24. Miami: University of Miami.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/workingpaper24.pdf){target="_blank"}
-
-**2007**\
-[Schneider, S., & Castillo, J. (2007). Internal and External Attributions of Poverty - Germany 1991/ 2006. International Social Justice Project - Working Paper N°132, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No132.pdf){target="_blank"}
-
-**2007**\
-[Castillo, J., & Schneider, S. (2007). Internal and External Attributions of Poverty and Wealth. International Social Justice Project - Working Paper N°131, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No131.pdf){target="_blank"}
-
-**2007**\
-[Castillo, J. (2007) Legitimation and Justice Ideologies in contexts of extreme economic inequality. International Social Justice Project - Working Paper N°125, Berlin: Humboldt University.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/publicaciones/ISJP_WP_No125.pdf){target="_blank"}
 
 ## Presentaciones y ponencias a congresos
 
@@ -958,7 +960,7 @@ Sin actividad
 
 # Actividad profesional
 
--   ver punto 4 cronología laboral
+Antes de incorporarme a la vida académica luego del doctorado, realicé actividad profesional a nivel municipal y también de ONGs, lo que me permitió el contacto directo con problemáticas sociales del país y también orientar de mejor manera mis intereses de investigación. De estas actividades, destaco el haber trabajado y vivido un año en una de las comunas más pobres de Chile mediante el programa Servicio País, y luego el ser subdirector nacional de un programa de tutorías para niñas y niños de escuelas municipales en la Fundación Nacional para la Superación de la Pobreza. 
 
 # Administración no universitaria
 
@@ -974,25 +976,25 @@ Acá puedo mencionar algunos logros registrados en la plataforma [Researchgate.c
 
 # Referencias
 
-Nacionales:
+## Nacionales:
 
--   Profesora Kathya Araujo, IDEA-USACH.
+-   Profesora Kathya Araujo, IDEA-USACH (kathya.araujo@gmail.com).
 
--   Profesor Christian Cox, Universidad Diego Portales
+-   Profesor Christian Cox, Universidad Diego Portales (cristian.cox@udp.cl.) 
 
--   Profesora Gabriela Rubilar, FACSO Universidad de Chile.
+-   Profesora Gabriela Rubilar, Profesora Asociada, FACSO Universidad de Chile (grubilar@uchile.cl ).
 
--   Profesor Dante Contreras. FEN Universidad de Chile / Subdirector COES.
+-   Profesor Dante Contreras, Profesor Titular FEN Universidad de Chile / Subdirector COES (dcontrer@fen.uchile.cl).
 
--   Profesor Matías Bargsted, Director Instituto de Sociología UC.
+-   Profesor Matías Bargsted, Director Instituto de Sociología UC (mbargsted@uc.cl).
 
-Internacionales:
+## Internacionales (con carta de referencia):
 
--   [Prof. Sonja Zmerli, Sciences Po Grenoble.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/recomendation-letter_Juan-Castillo.pdf){target="_blank"}
+-  Prof. Sonja Zmerli, Sciences Po Grenoble (sonja.zmerli@iepg.fr). [Link a carta de referencia.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/recomendation-letter_Juan-Castillo.pdf){target="_blank"}
 
--   [Prof. Leslie McCall, Associate Director, Stone Center on Socio Economic Inequality. The Graduate Center, City University of New York.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/JCCastillo-Letter-McCall.pdf){target="_blank"}
+- Prof. Leslie McCall, Associate Director, Stone Center on Socio Economic Inequality. The Graduate Center, City University of New York (lmccall@gc.cuny.edu).  [Link a carta de referencia.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/JCCastillo-Letter-McCall.pdf){target="_blank"}
 
--   [Prof. Olaf Groh-Samberg, Research Institute on Social Cohesion, University of Bremen.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/LoR-Juan.pdf){target="_blank"}
+- Prof. Olaf Groh-Samberg, Research Institute on Social Cohesion, University of Bremen (ogs@bigsss-bremen.de).[Link a carta de referencia.](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/LoR-Juan.pdf){target="_blank"}
 
 # Creatividad académica
 
@@ -1014,7 +1016,13 @@ En este apartado lo he organizado en torno a cuatro áreas principales de desemp
 
 ## Internacionalización
 
-Mis actividades de investigación se han caracterizado por vínculos internacionales crecientes, principalmente en los últimos años. He realizado estadías como profesor visitante en la Universidad de Humboldt en Berlín, el Social Science Research Center de Berlín, la Universidad de Bremen, el Instituto de Cohesión Social de la Universidad de Bremen, y el Data Processing and Research Center de la International Associaction for the Evaluation of Academic Achievement (IEA) en Hamburgo. Buena parte de mis publicaciones son realizadas en colaboración con profesores y estudiantes de doctorado en Francia, Italia, Alemania, España, Costa Rica, Hong-Kong, Estados Unidos, entre otros. Mis trabajos los he presentado en diferentes instancias internacionales, como las conferencias de la International Sociological Association en Buenos Aires, Tokio, Viena, Toronto y Melbourne, las conferencias de la International Society for Justice Research en Berlin, Banff (Canada) y Adelaide (Australia), las conferencias de la International Society for Political Psychology en Portland, Estambul, París, Chicago y Lisboa, en la American Educational Research Association en Vancouver, y en la conferencia de la American Political Science Association en Boston. Por mis trabajos en el área de ciencia abierta he sido invitado a la Universidad de Maryland, al Haverford College, la Universidad Iberoamericana de México, y también como coautor de un artículo sobre reproducibilidad con más de 100 colaboradores internacionales, publicado en la prestigiosa revista Proceedings of the National Academy of Sciences (2022). He sido evaluador de tesis doctorales en la École des Hautes Études en Sciences Sociales (EHESS), Universidad de Granada y Australian National University. También me han invitado como evaluador en más de 20 revistas internacionales, entre ellas las principales de mi disciplina, como American Sociological Review, Research in Social Stratification and Mobility, y European Sociological Review. Finalmente, quiero destacar en este punto que el año 2023 fui electo presidente de uno de los comités de investigación de la International Sociological Association (RC42), desde donde me corresponderá por 4 años coordinar actividades de vinculación internacional de una comunidad de más de 50 investigadores de distintas partes del mundo en el área de la psicología social sociológica, que es la temática donde he desarrollado la mayor parte de mi investigación.
+Mis actividades de investigación se han caracterizado por vínculos internacionales crecientes, principalmente en los últimos años. He realizado estadías como profesor visitante en la Universidad de Humboldt en Berlín, el Social Science Research Center de Berlín, la Universidad de Bremen, el Instituto de Cohesión Social de la Universidad de Bremen, y el Data Processing and Research Center de la International Associaction for the Evaluation of Academic Achievement (IEA) en Hamburgo. Buena parte de mis publicaciones son realizadas en colaboración con profesores y estudiantes de doctorado en Francia, Italia, Alemania, España, Costa Rica, Hong-Kong, Estados Unidos, entre otros. Mis trabajos los he presentado en diferentes instancias internacionales, como las conferencias de la International Sociological Association en Buenos Aires, Tokio, Viena, Toronto y Melbourne, las conferencias de la International Society for Justice Research en Berlin, Banff (Canada) y Adelaide (Australia), las conferencias de la International Society for Political Psychology en Portland, Estambul, París, Chicago y Lisboa, en la American Educational Research Association en Vancouver, y en la conferencia de la American Political Science Association en Boston. Por mis trabajos en el área de ciencia abierta he sido invitado a la Universidad de Maryland, al Haverford College, la Universidad Iberoamericana de México, y también como coautor de un artículo sobre reproducibilidad con más de 100 colaboradores internacionales, publicado en la prestigiosa revista Proceedings of the National Academy of Sciences (2022). He sido evaluador de tesis doctorales en la École des Hautes Études en Sciences Sociales (EHESS), en Universidad de Granada y actualmente en la Universidad Nacional de Córdova. También me han invitado como evaluador en más de 20 revistas internacionales, entre ellas las principales de mi disciplina, como American Sociological Review, Research in Social Stratification and Mobility, y European Sociological Review. Finalmente, quiero destacar en este punto que el año 2023 fui electo presidente de uno de los comités de investigación de la International Sociological Association (RC42), desde donde me corresponderá por 4 años coordinar actividades de vinculación internacional de una comunidad de más de 50 investigadores de distintas partes del mundo en el área de la psicología social sociológica, que es la temática donde he desarrollado la mayor parte de mi investigación.
+
+## Postgrado
+
+Los últimos años he guiado y co-guiado una serie de tesis de doctorado y de magíster, en la Universidad de Chile, la Universidad Católica, y tambien en universidades internacionales. Gran parte de los comités de tesis en que se me invita a participar tienen relación con temas metodológicos y con mi agenda de investigación en justicia distributiva desde la sociología. La mayor parte de mis tesistas han estado involucrados en mis proyectos FONDECYT y también en COES, recibiendo financiamiento en términos de becas y también participación en eventos científicos. Dado que mantengo un buen número de tesistas de manera constante, hemos desarrollado actividades de formación como coloquios de postgrado y también talleres metodológicos. 
+
+Dada mi experiencia en postgrado en ciencias sociales, el año pasado fui invitado por la CNA como par acreditador de un doctorado en sociología nacional, y recientemente el Departamento de Sociología de nuestra universidad me ha solicitado dirigir el proyecto de doctorado en sociología, que planea abrir admisión el año 2026. 
 
 ## Docencia
 
