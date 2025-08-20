@@ -1,0 +1,24 @@
+---
+title: "Highlight test"
+format:
+  html:
+    md-extensions: +mark
+  pdf:
+    md-extensions: +mark
+    pdf-engine: lualatex   # or xelatex
+    include-in-header:
+      text: |
+        \usepackage{soul}
+        \usepackage{xcolor}
+        \sethlcolor{yellow}
+filters:
+  - highlight-text
+---
+
+This should be ==highlighted== in both HTML and PDF.
+
+\hl{highlighted}{=latex}
+<mark>highlighted</mark>{=html}
+[Red]{colour="#b22222" bg-colour="#abc123"} # UK
+[Blue]{color="#0000FF" bg-color="#fdf675"} # US
+[Normal]{bg-color="#fdf675"} 
