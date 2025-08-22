@@ -14,7 +14,7 @@ format:
       - \fancyfoot[C]{\thepage}
       - \usepackage{soul}
       - \usepackage{xcolor}
-      - \definecolor{quarthi}{HTML}{FDF675} % your yellow
+      - \definecolor{quarthi}{HTML}{ffffff} % your yellow
       - \sethlcolor{quarthi}
         % allow soul to work across commands like \href
       - \soulregister\href7
@@ -141,7 +141,10 @@ Título de la tesis doctoral: “The legitimacy of economic inequality. An empir
 
 **2025**
 
-[[Nominado como miembro del scientific international advisory board del Social Science Center Berlin](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-7.pdf)]{bg-color="#fdf675"}. WZB (Wissenschaft Zentrum Berlin für Sozialforschung) desde 2025 al 2028.
+[Invitado como keynote speaker a la conferencia internacional del Research Institute Social Cohesion - RISC. Leipzig, Alemania, 8 y 9 de Octubre](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-8.pdf)
+
+
+[[Nominado como miembro del scientific international advisory board del Social Science Center Berlin](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/distinciones/premiosyreconocimientos-7.pdf)]{bg-color="#ffffff"}. WZB (Wissenschaft Zentrum Berlin für Sozialforschung) desde 2025 al 2028.
 
 **2023**\
 [Nominado y electo presidente del comité de investigación 42 (RC42-Social Psychology) de la International Sociological Association (ISA).](https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/){target="_blank"} Como presidente estoy encargado de coordinar a una comunidad internacional de aproximadamente 50 investigadoras e investigadoras en la promoción y difusión de investigaciones y proyectos en el área de la psicología social sociológica.
@@ -166,11 +169,11 @@ Título de la tesis doctoral: “The legitimacy of economic inequality. An empir
 
 ## Invitaciones para estadías de investigación y profesor visitante (visiting professor)
 
--   [[Profesor invitado al departamento de sociología de la Universidad Pompeu Fabra](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/invitationUPF.pdf)]{bg-color="#fdf675"} por la profesora Simone Schneider. Barcelona, 14-24 de Julio, 2024
+-   [[Profesor invitado al departamento de sociología de la Universidad Pompeu Fabra](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/invitationUPF.pdf)]{bg-color="#ffffff"} por la profesora Simone Schneider. Barcelona, 14-24 de Julio, 2024
 
--   [Organización y conducción de Business Meeting del Research Committee 42]{bg-color="#fdf675"} Social Psychology, en el 5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, 2025
+-   [Organización y conducción de Business Meeting del Research Committee 42]{bg-color="#ffffff"} Social Psychology, en el 5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, 2025
 
--   [Organización y conducción de sesión]{bg-color="#fdf675"}["Studying Social Cohesion in Comparative Perspective" en conjunto con el Prof. Olaf Groh-Samberg (Universidad de Bremen) y James O'Donell (Australian National University). 5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, 2025](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/cohesionISARabat2025.pdf)
+-   [Organización y conducción de sesión]{bg-color="#ffffff"}["Studying Social Cohesion in Comparative Perspective" en conjunto con el Prof. Olaf Groh-Samberg (Universidad de Bremen) y James O'Donell (Australian National University). 5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, 2025](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/cohesionISARabat2025.pdf)
 
 -   [Profesor visitante en el Instituto de Investigación en Cohesión Social de la Universidad de Bremen (con profesor Olaf Groh-Samberg).](https://juancarloscastillo.github.io/jerarquizacion-uch/anexos/adicionales/Invitation-Juan-bremen23.pdf){target="_blank"} Bremen, Junio y Julio de 2024.
 
@@ -239,16 +242,16 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
 | Asignatura | Año | Carácter | Estudiantes | Participación |
 |---------------|---------------|---------------|---------------|---------------|
-| Análisis de Datos Multinivel | [2025]{bg-color="#fdf675"} | Electivo | 24 | Docente Responsable |
-| Seminario de grado | [2025]{bg-color="#fdf675"} | Obligatorio | 4 | Docente Responsable |
-| Seminario de título I | [2025]{bg-color="#fdf675"} | Obligatorio | 2 | Docente Responsable |
-| Seminario de título II | [2025]{bg-color="#fdf675"} | Obligatorio | 3 | Docente Responsable |
-| Práctica profesional | [2025]{bg-color="#fdf675"} | Obligatorio | 2 | Docente Responsable |
-| Estadística correlacional | [2024]{bg-color="#fdf675"} | Obligatorio | 88 | Docente Responsable |
-| Seminario de grado | [2024]{bg-color="#fdf675"} | Obligatorio | 3 | Docente Responsable |
-| Seminario de título I | [2024]{bg-color="#fdf675"} | Obligatorio | 2 | Docente Responsable |
-| Seminario de título II | [2024]{bg-color="#fdf675"} | Obligatorio | 2 | Docente Responsable |
-| Práctica profesional | [2024]{bg-color="#fdf675"} | Obligatorio | 3 | Docente Responsable |
+| Análisis de Datos Multinivel | [2025]{bg-color="#ffffff"} | Electivo | 24 | Docente Responsable |
+| Seminario de grado | [2025]{bg-color="#ffffff"} | Obligatorio | 4 | Docente Responsable |
+| Seminario de título I | [2025]{bg-color="#ffffff"} | Obligatorio | 2 | Docente Responsable |
+| Seminario de título II | [2025]{bg-color="#ffffff"} | Obligatorio | 3 | Docente Responsable |
+| Práctica profesional | [2025]{bg-color="#ffffff"} | Obligatorio | 2 | Docente Responsable |
+| Estadística correlacional | [2024]{bg-color="#ffffff"} | Obligatorio | 88 | Docente Responsable |
+| Seminario de grado | [2024]{bg-color="#ffffff"} | Obligatorio | 3 | Docente Responsable |
+| Seminario de título I | [2024]{bg-color="#ffffff"} | Obligatorio | 2 | Docente Responsable |
+| Seminario de título II | [2024]{bg-color="#ffffff"} | Obligatorio | 2 | Docente Responsable |
+| Práctica profesional | [2024]{bg-color="#ffffff"} | Obligatorio | 3 | Docente Responsable |
 | Análisis de datos multinivel | 2023 | Electivo de profundización metodológica | 21 | Docente Responsable |
 | Estadística correlacional | 2023 | Obligatorio | 86 | Docente Responsable |
 | Seminario de grado | 2023 | Obligatorio | 3 | Docente Responsable |
@@ -413,11 +416,11 @@ Programa “Servicio País” – Fundación para la Superación de la Pobreza.
 
 Universidad de Chile:
 
-- Villarroel, O. [(2025)]{bg-color="#fdf675"} Percepciones sobre la figura de la micro-celebridad: Una aproximación al impacto de las trayectorias de movilidad digital en el ideario meritocrático. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile.
+- Villarroel, O. [(2025)]{bg-color="#ffffff"} Percepciones sobre la figura de la micro-celebridad: Una aproximación al impacto de las trayectorias de movilidad digital en el ideario meritocrático. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile.
 
-- Anriquez. C. [(2025)]{bg-color="#fdf675"} Del apoyo a la acción: el rol del miedo y la orientación política en las justificaciones de violencia en contexto de protesta social.
+- Anriquez. C. [(2025)]{bg-color="#ffffff"} Del apoyo a la acción: el rol del miedo y la orientación política en las justificaciones de violencia en contexto de protesta social.
 
-- Beltran, B. [(2025)]{bg-color="#fdf675"} Desigualdades educativas en la alfabetización computacional e informacional de estudiantes de 8vo año básico en Chile.
+- Beltran, B. [(2025)]{bg-color="#ffffff"} Desigualdades educativas en la alfabetización computacional e informacional de estudiantes de 8vo año básico en Chile.
 
 -   Larenas, P. (2024). El conflicto intercultural entre el estado chileno y la causa mapuche por autodeterminación. Licenciatura en Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile.
 
@@ -471,11 +474,11 @@ En la mayor parte de mis investigaciones utilizo métodos de análisis cuantitat
 ### Proyectos de investigación financiados en fondos concursables con revisión de pares
 
 
-[(**2025- 2028**)]{bg-color="#fdf675"}\
+[(**2025- 2028**)]{bg-color="#ffffff"}\
 Investigador principal proyecto [FONDECYT Regular 1250518: Justicia de Mercado y Merecimiento del Bienestar Social. (adjudicado en grupo de estudio de sociología)](https://jc-castillo.com/project/fondecyt-edumer/){target="_blank"}.  Este presente proyecto de investigación se enfoca en analizar las preferencias por justicia de mercado en Chile y su relación con criterios de merecimiento, con un enfoque comparativo internacional y a lo largo del tiempo. Las preferencias por la justicia de mercado refieren al acuerdo con que las capacidades individuales y familiares de pago permitan mayor y mejor acceso a prestaciones sociales asociadas al bienestar social, como salud, pensiones y educación. Tales preferencias se verían potenciadas en contextos institucionales caracterizados por alta comodificación y privatización de prestaciones y servicios sociales, como es el caso de Chile. Desde esta perspectiva, los mercados no son proyectos solo económicos sino también culturales, y su instalación masiva en ámbitos sociales impactaría en las actitudes y percepciones de las personas hacia esas mismas políticas, lo que se conoce como efecto de retroalimentación de políticas (policy-feedback effects). La principal hipótesis de este proyecto es que las preferencias por justicia de mercado se asocian con las percepciones de distintos criterios de merecimiento, las que tienen un fuerte trasfondo cultural. 
 
 
-- [Postulación] Director de Conocimientos 2030 [(2025)]{bg-color="#fdf675"}, Etapa 2 (en espera de adjudicación). Este proyecto postulado a ANID consiste en una serie acciones conjuntas de en siete facultades de la Universidad vinculadas a las Artes, Ciencias Sociales y Humanidades. Contempla objetivos como ampliar posibilidades intercambio en pre y postgrado, introducción de indicadores de género, internacionalización y ciencia abierta.
+- [Postulación] Director de Conocimientos 2030 [(2025)]{bg-color="#ffffff"}, Etapa 2 (en espera de adjudicación). Este proyecto postulado a ANID consiste en una serie acciones conjuntas de en siete facultades de la Universidad vinculadas a las Artes, Ciencias Sociales y Humanidades. Contempla objetivos como ampliar posibilidades intercambio en pre y postgrado, introducción de indicadores de género, internacionalización y ciencia abierta.
 
 
 **2023-2025**\
@@ -523,10 +526,10 @@ Investigador principal proyecto Inicio 24/2010: Testing the stability of percept
 
 ## Extensión y Divulgación
 
-[**2025 Abril**]{bg-color="#fdf675"} \
+[**2025 Abril**]{bg-color="#ffffff"} \
 - Columna de opinión: [Reforma al SAE: una oportunidad para no hablar sobre el mérito. El Mostrador, 16 de Abril de 2025](https://www.elmostrador.cl/noticias/opinion/columnas/2025/04/16/reforma-al-sae-una-oportunidad-para-no-hablar-sobre-el-merito/)
 
-[**2025 Mayo**]{bg-color="#fdf675"}\
+[**2025 Mayo**]{bg-color="#ffffff"}\
 - Columna de opinión:[Competencias digitales y brechas de género en la educación: el rol de la autoeficacia. El Mostrador, 19 de Mayo de 2025](https://www.elmostrador.cl/noticias/opinion/columnas/2025/05/19/competencias-digitales-y-brechas-de-genero-en-la-educacion-el-rol-de-la-autoeficacia/)
 
 
@@ -777,13 +780,15 @@ Ciertamente no me puedo atribuir los éxitos de quienes alguna vez trabajaron co
 
 ### Revistas internacionales
 
-- [Castillo, J. C., Iturra, J., & Carrasco, K. [(2025)]{bg-color="#fdf675"}. Changes in the Justification of Educational Inequalities: The Role of Perceptions of Inequality and Meritocracy During the COVID Pandemic. Social Justice Research, 38(3), 240–263. https://doi.org/10.1007/s11211-025-00458-0](https://doi.org/10.1007/s11211-025-00458-0)
+- Castillo, J. C., Laffert, A., Carrasco, K. & Iturra, J. (2025) Perceptions of Inequality and Meritocracy: Their Interplay in Shaping Preferences for Market Justice in Chile (2016-2023). Accepted in Frontiers in Sociology.
 
-- [Moyano Dávila, C., Alarcón-Arcos, S., Angelcos, N., Castillo, J. C., & Salgado, M.  [(2025)]{bg-color="#fdf675"}. Merit as an Attitude: Chilean School Communities’ Repertoires in Chile and the Perception of the “Good Student” in a Post-pandemic Scenario. Social Justice Research, 38(3), 264–289. https://doi.org/10.1007/s11211-025-00456-2](https://doi.org/10.1007/s11211-025-00456-2)
+- [Castillo, J. C., Iturra, J., & Carrasco, K. [(2025)]{bg-color="#ffffff"}. Changes in the Justification of Educational Inequalities: The Role of Perceptions of Inequality and Meritocracy During the COVID Pandemic. Social Justice Research, 38(3), 240–263. https://doi.org/10.1007/s11211-025-00458-0](https://doi.org/10.1007/s11211-025-00458-0)
 
-- [Breznau, N., Rinke, E. M., Wuttke, A., Adem, M., Adriaans, J., Akdeniz, E., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Bai, L., Balzer, D., Bauer, P. C., Bauer, G., Baumann, M., Baute, S., Benoit, V., Bernauer, J., … Castillo, J. ... Nguyen, H. H. V.  [(2025)]{bg-color="#fdf675"}. The reliability of replications: A study in computational reproductions. Royal Society Open Science, 12(3), 241038. https://doi.org/10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038)
+- [Moyano Dávila, C., Alarcón-Arcos, S., Angelcos, N., Castillo, J. C., & Salgado, M.  [(2025)]{bg-color="#ffffff"}. Merit as an Attitude: Chilean School Communities’ Repertoires in Chile and the Perception of the “Good Student” in a Post-pandemic Scenario. Social Justice Research, 38(3), 264–289. https://doi.org/10.1007/s11211-025-00456-2](https://doi.org/10.1007/s11211-025-00456-2)
 
-- [Castillo, J. C., Salgado, M., Carrasco, K., & Laffert, A.  [(2024)]{bg-color="#fdf675"}. The Socialization of Meritocracy and Market Justice Preferences at School. Societies, 14(11). https://doi.org/10.3390/soc14110214](https://doi.org/10.3390/soc14110214)
+- [Breznau, N., Rinke, E. M., Wuttke, A., Adem, M., Adriaans, J., Akdeniz, E., Alvarez-Benjumea, A., Andersen, H. K., Auer, D., Azevedo, F., Bahnsen, O., Bai, L., Balzer, D., Bauer, P. C., Bauer, G., Baumann, M., Baute, S., Benoit, V., Bernauer, J., … Castillo, J. ... Nguyen, H. H. V.  [(2025)]{bg-color="#ffffff"}. The reliability of replications: A study in computational reproductions. Royal Society Open Science, 12(3), 241038. https://doi.org/10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038)
+
+- [Castillo, J. C., Salgado, M., Carrasco, K., & Laffert, A.  [(2024)]{bg-color="#ffffff"}. The Socialization of Meritocracy and Market Justice Preferences at School. Societies, 14(11). https://doi.org/10.3390/soc14110214](https://doi.org/10.3390/soc14110214)
 
 -   [Castillo, J.-C., Iturra, J., Maldonado, L., Atria, J., & Meneses, F. (2023). A multidimensional approach for measuring meritocratic beliefs: Advantages, limitations and alternatives to the ISSP social inequality survey. International Journal of Sociology, Online first. https://doi.org/10.1080/00207659.2023.2274712](https://doi.org/10.1080/00207659.2023.2274712){target="_blank"} (WOS)
 
@@ -864,17 +869,17 @@ Consultoría para la Agencia de Calidad de la Educación: Revisión de aspectos 
 
 ## Presentaciones y ponencias a congresos
 
-- Meritocracy and Redistributive Preferences at School Level in Chile.  5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, [2025.]{bg-color="#fdf675"}
+- Meritocracy and Redistributive Preferences at School Level in Chile.  5th ISA (International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, [2025.]{bg-color="#ffffff"}
 
-- Gender Differences in Digital Self-Efficacy at School across 52 Countries 5th ISA (with Daniel Miranda - International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, [2025.]{bg-color="#fdf675"}
+- Gender Differences in Digital Self-Efficacy at School across 52 Countries 5th ISA (with Daniel Miranda - International Sociological Association) Forum of Sociology. Rabat, Marruecos 6 - 12 de Julio, [2025.]{bg-color="#ffffff"}
 
-- "Diferencias de género en la autoeficacia digital en la escuela en 52 países”. VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24, 25 e 26 de marzo de [2025.]{bg-color="#fdf675"}
+- "Diferencias de género en la autoeficacia digital en la escuela en 52 países”. VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24, 25 e 26 de marzo de [2025.]{bg-color="#ffffff"}
   
-- "Justicia en la Evaluación Escolar: Un experimento de encuesta". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#fdf675"}
+- "Justicia en la Evaluación Escolar: Un experimento de encuesta". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#ffffff"}
 
-- "Medición de percepciones y preferencias sobre meritocracia en etapa escolar en Chile". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#fdf675"}
+- "Medición de percepciones y preferencias sobre meritocracia en etapa escolar en Chile". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#ffffff"}
 
-- “Cambio en las creencias sobre meritocracia y justicia de mercado en el contexto escolar". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#fdf675"}
+- “Cambio en las creencias sobre meritocracia y justicia de mercado en el contexto escolar". VIII Seminario Internacional Desigualdad y Movilidad Social en América Latina (DEMOSAL). Rio de Janeiro, 24-26 de marzo de [2025.]{bg-color="#ffffff"}
 
 -   [Castillo, J.-C (2024) Measuring social cohesion in Chile with longitudinal survey data. Presentation at the workshop International Perspectives on the Measurement of Social Cohesion: Insights from Australia, Chile, and Germany. Bremen, Research Institute on Social Cohesion.](https://fgz-risc-data.de/en/news/message/internationalisierung-erfolgreicher-workshop-des-fdz-fgz)
 
